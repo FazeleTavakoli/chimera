@@ -258,35 +258,35 @@ class Compressor:
 
 
 if __name__ == "__main__":
-    g = Graph()
-    g.add_edge('A', 'B', 'b1')
-    # g.add_edge('A', 'B', 'b2')
-    g.add_edge('A', 'C', 'c')
-    g.add_edge('A', 'C', 'c2')
-    # g.add_edge('C', 'C', 'cd')
-    g.add_edge('A', 'D', 'd')
-    g.add_edge('D', 'E', 'e')
-    g.add_edge('A', 'E', 'e')
-
-    now = Time.now()
-    plans = list(g.exhaustive_plan(force_tree=False).linearizations())
-
-    print("exhaustive_plan", len(plans))
-    print(plans[0])
-    print(plans[-1])
-    print(Time.passed(now))
-
-    print("memory size", sys.getsizeof(pickle.dumps(plans)) / 1024)
-    plans_str = "\n".join(plans).encode("utf-8")
-    compressed = zlib.compress(plans_str, 1)
-    print("zlib size", sys.getsizeof(pickle.dumps(compressed)) / 1024)
-
-    compressor = Compressor()
-    plans = [compressor.compress(p) for p in plans]
-    print("compressor size", sys.getsizeof(pickle.dumps({"p": plans, "c": compressor})) / 1024)
-
-    plans_str = "\n".join(plans).encode("utf-8")
-    print("compressor zlib size", sys.getsizeof(pickle.dumps({"p": zlib.compress(plans_str, 1), "c": compressor})) / 1024)
+    # g = Graph()
+    # g.add_edge('A', 'B', 'b1')
+    # # g.add_edge('A', 'B', 'b2')
+    # g.add_edge('A', 'C', 'c')
+    # g.add_edge('A', 'C', 'c2')
+    # # g.add_edge('C', 'C', 'cd')
+    # g.add_edge('A', 'D', 'd')
+    # g.add_edge('D', 'E', 'e')
+    # g.add_edge('A', 'E', 'e')
+    #
+    # now = Time.now()
+    # plans = list(g.exhaustive_plan(force_tree=False).linearizations())
+    #
+    # print("exhaustive_plan", len(plans))
+    # print(plans[0])
+    # print(plans[-1])
+    # print(Time.passed(now))
+    #
+    # print("memory size", sys.getsizeof(pickle.dumps(plans)) / 1024)
+    # plans_str = "\n".join(plans).encode("utf-8")
+    # compressed = zlib.compress(plans_str, 1)
+    # print("zlib size", sys.getsizeof(pickle.dumps(compressed)) / 1024)
+    #
+    # compressor = Compressor()
+    # plans = [compressor.compress(p) for p in plans]
+    # print("compressor size", sys.getsizeof(pickle.dumps({"p": plans, "c": compressor})) / 1024)
+    #
+    # plans_str = "\n".join(plans).encode("utf-8")
+    # print("compressor zlib size", sys.getsizeof(pickle.dumps({"p": zlib.compress(plans_str, 1), "c": compressor})) / 1024)
 
 
     # now = Time.now()
@@ -305,46 +305,48 @@ if __name__ == "__main__":
     #     print(p)
     # print(Time.passed(now))
 
-    #
+
     # plans = g.constraint_graphs_plan([
     #     {'must_include': set({"A", "B"}), 'must_exclude': set({})},
     #     {'must_include': set({"A", "C"}), 'must_exclude': set({})},
     #     {'must_include': set({"B", "D", "E"}), 'must_exclude': set({})}]).linearizations()
-    #
+
     # print("constraint", len(plans))
     #
     # for p in plans:
     #     print(p)
     #
     # print()
-    #
+
     # rdfs = [('William_Anders', 'dateOfRetirement', '"1969-09-01"'), ('William_Anders', 'was selected by NASA', '1963'),
     #         ('William_Anders', 'timeInSpace', '"8820.0"(minutes)'), ('William_Anders', 'birthDate', '"1933-10-17"'),
     #         ('William_Anders', 'occupation', 'Fighter_pilot'), ('William_Anders', 'birthPlace', 'British_Hong_Kong'),
     #         ('William_Anders', 'was a crew member of', 'Apollo_8')]
-    # s = Graph(rdfs)
-    # # s.add_edge('A', 'B', 'b')
-    # # s.add_edge('A', 'C', 'c')
-    # # s.add_edge('A', 'D', 'd')
-    # # s.add_edge('A', 'E', 'e')
-    # # s.add_edge('A', 'F', 'f')
-    # # s.add_edge('A', 'G', 'g')
-    # # s.add_edge('A', 'H', 'h')
-    # # s.add_edge('A', 'I', 'i')
-    # # s.add_edge('A', 'J', 'j')
-    # # s.add_edge('A', 'K', 'k')
-    #
-    # print("exhaustive")
-    # now = Time.now()
-    # plans = s.exhaustive_plan().linearizations()
-    # print(len(plans), "plans")
-    # print(Time.passed(now))
-    #
+    rdfs = [('William_Anders', 'dateOfRetirement', '"1969-09-01"'), ('William_Anders', 'birthPlace', 'British_Hong_Kong'),
+            ('William_Anders', 'was a crew member of', 'Apollo_8')]
+    s = Graph(rdfs)
+    # s.add_edge('A', 'B', 'b')
+    # s.add_edge('A', 'C', 'c')
+    # s.add_edge('A', 'D', 'd')
+    # s.add_edge('A', 'E', 'e')
+    # s.add_edge('A', 'F', 'f')
+    # s.add_edge('A', 'G', 'g')
+    # s.add_edge('A', 'H', 'h')
+    # s.add_edge('A', 'I', 'i')
+    # s.add_edge('A', 'J', 'j')
+    # s.add_edge('A', 'K', 'k')
+
+    print("exhaustive")
+    now = Time.now()
+    plans = s.exhaustive_plan().linearizations()
+    print(len(plans), "plans")
+    print(Time.passed(now))
+
     # print("constraint")
-    # now = Time.now()
+    now = Time.now()
     # plans = s.constraint_graphs_plan([
     #     {'must_include': set({"B", "C", "D"}), 'must_exclude': set({})},
     #     {'must_include': set({"E"}), 'must_exclude': set({})},
     #     {'must_include': set({"F", "G"}), 'must_exclude': set({})}]).linearizations()
-    # print(len(plans), "plans")
-    # print(Time.passed(now))
+    print(len(plans), "plans")
+    print(Time.passed(now))

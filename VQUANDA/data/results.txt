@@ -1,0 +1,97 @@
+[
+    {
+        "rdf": [
+            [
+                "?x",
+                "commander",
+                "Andrew_Jackson"
+            ],
+            [
+                "8",
+                "knownFor",
+                "?x"
+            ]
+        ],
+        "text": "There are [8] people known for works commanded by Andrew Jackson.",
+        "delex": false,
+        "plan": "ENT__QUE_X_ENT > andrew jackson [ENT_COMMANDER_ENT ]. ENT_8_ENT > ?x [ENT_KNOWNFOR_ENT ]"
+    },
+    {
+        "rdf": [
+            [
+                "Denver_Broncos",
+                "locationCity",
+                "[Colorado, Denver]"
+            ],
+            [
+                "Steven_Clark_Cunningham",
+                "birthPlace",
+                "[Colorado, Denver]"
+            ]
+        ],
+        "text": "The location city of Denver Broncos and place of birth of Steven Clark Cunningham is [Colorado, Denver].",
+        "delex": "the location city of ENT_DENVER_BRONCOS_ENT and place of birth of ENT_STEVEN_CLARK_CUNNINGHAM_ENT is ENT_[COLORADO_COMMA__DENVER]_ENT.",
+        "plan": "ENT_LOCATIONCITY_ENT < [ colorado, denver] [ENT_DENVER_BRONCOS_ENT ]. ENT_STEVEN_CLARK_CUNNINGHAM_ENT > [ colorado, denver] [ENT_BIRTHPLACE_ENT ]"
+    },
+    {
+        "rdf": [
+            [
+                "[Deborah_Meaden, Doug_Richard, Duncan_Bannatyne, Theo_Paphitis, Nick_Jenkins, James_Caan_(entrepreneur), Rachel_Elnaugh, Piers_Linney, Peter_Jones_(entrepreneur), Dupsy_Abiola]",
+                "knownFor",
+                "Dragons'_Den_(UK_TV_series)"
+            ],
+            [
+                "[Deborah_Meaden, Doug_Richard, Duncan_Bannatyne, Theo_Paphitis, Nick_Jenkins, James_Caan_(entrepreneur), Rachel_Elnaugh, Piers_Linney, Peter_Jones_(entrepreneur), Dupsy_Abiola]",
+                "#type",
+                "Person"
+            ]
+        ],
+        "text": "The people known for Dragons' Den series are [Deborah Meaden, Doug Richard, Duncan Bannatyne, Theo Paphitis, Nick Jenkins, James Caan (entrepreneur), Rachel Elnaugh, Piers Linney, Peter Jones (entrepreneur), Dupsy Abiola].",
+        "delex": false,
+        "plan": "ENT_KNOWNFOR_ENT < dragons' den (uk tv series) [ENT_[DEBORAH_MEADEN_COMMA__DOUG_RICHARD_COMMA__DUNCAN_BANNATYNE_COMMA__THEO_PAPHITIS_COMMA__NICK_JENKINS_COMMA__JAMES_CAAN__LP_ENTREPRENEUR_RP__COMMA__RACHEL_ELNAUGH_COMMA__PIERS_LINNEY_COMMA__PETER_JONES__LP_ENTREPRENEUR_RP__COMMA__DUPSY_ABIOLA]_ENT > person [ENT_#TYPE_ENT ]]"
+    },
+    {
+        "rdf": [
+            [
+                "William_Henry_Harrison",
+                "governor",
+                "Charles_Willing_Byrd"
+            ],
+            [
+                "William_Henry_Harrison",
+                "restingplace",
+                "North_Bend,_Ohio"
+            ],
+            [
+                "William_Henry_Harrison",
+                "#type",
+                "OfficeHolder"
+            ]
+        ],
+        "text": "[William Henry Harrison] is the office holder whose governor is Charles Willing Byrd and resting place is North Bend, Ohio.",
+        "delex": "ENT_WILLIAM_HENRY_HARRISON_ENT is the ENT_OFFICEHOLDER_ENT whose governor is ENT_CHARLES_WILLING_BYRD_ENT and resting place is ENT_NORTH_BEND_COMMA__OHIO_ENT.",
+        "plan": "ENT_RESTINGPLACE_ENT < north bend, ohio [ENT_WILLIAM_HENRY_HARRISON_ENT > charles willing byrd [ENT_GOVERNOR_ENT ] > office holder [ENT_#TYPE_ENT ]]"
+    },
+    {
+        "rdf": [
+            [
+                "?x",
+                "residence",
+                "British_Columbia"
+            ],
+            [
+                "?x",
+                "religion",
+                "[Anglican, Anglicanism, Catholic_Church, United_Church_of_Canada, Fellowship_of_Evangelical_Baptist_Churches_in_Canada, Mennonite_Brethren_Church, Roman Catholic http, Sikh, Roman Catholic]"
+            ],
+            [
+                "?x",
+                "#type",
+                "Politician"
+            ]
+        ],
+        "text": "The religions of the British Columbia politicians are [Anglican, Anglicanism, Catholic Church, United Church of Canada, Fellowship of Evangelical Baptist Churches in Canada, Mennonite Brethren Church, story.html, Sikh, Roman Catholic].",
+        "delex": "the religions of the ENT_BRITISH_COLUMBIA_ENT ENT_POLITICIAN_ENT are ENT_[ANGLICAN_COMMA__ANGLICANISM_COMMA__CATHOLIC_CHURCH_COMMA__UNITED_CHURCH_OF_CANADA_COMMA__FELLOWSHIP_OF_EVANGELICAL_BAPTIST_CHURCHES_IN_CANADA_COMMA__MENNONITE_BRETHREN_CHURCH_COMMA__ROMAN_CATHOLIC_HTTP_COMMA__SIKH_COMMA__ROMAN_CATHOLIC]_ENT.",
+        "plan": "ENT__QUE_X_ENT > british columbia [ENT_RESIDENCE_ENT ] > [ anglican, anglicanism, catholic church, united church of canada, fellowship of evangelical baptist churches in canada, mennonite brethren church, roman catholic http, sikh, roman catholic] [ENT_RELIGION_ENT ] > politician [ENT_#TYPE_ENT ]"
+    }
+]
