@@ -1,0 +1,2 @@
+ENT_ALMAMATER_ENT < [ university of chicago, vanderbilt university] [ENT_CHARLES_PLOSSER_ENT ]
+ENT_#TYPE_ENT < basketball player [ENT_TYSON_CHANDLER_ENT > phoenix suns [ENT_TEAM_ENT ] > los angeles clippers [ENT_DRAFTTEAM_ENT ]]

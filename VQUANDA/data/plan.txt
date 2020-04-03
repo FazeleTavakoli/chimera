@@ -1,0 +1,2 @@
+ENT_ALMAMATER_ENT￨E <￨D [￨S university￨R of￨R chicago,￨R vanderbilt￨R university]￨R [ENT_CHARLES_PLOSSER_ENT￨R ]￨S
+ENT_#TYPE_ENT￨E <￨D basketball￨R player￨R [ENT_TYSON_CHANDLER_ENT￨R >￨D phoenix￨R suns￨R [ENT_TEAM_ENT￨R ]￨S >￨D los￨R angeles￨R clippers￨R [ENT_DRAFTTEAM_ENT￨R ]]￨R

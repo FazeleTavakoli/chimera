@@ -1,0 +1,766 @@
+ENT_DENVER_BRONCOS_ENT￨E >￨D [￨S colorado,￨R denver]￨R [ENT_LOCATIONCITY_ENT￨R ].￨R ENT_BIRTHPLACE_ENT￨E <￨D [￨S colorado,￨R denver]￨R [ENT_STEVEN_CLARK_CUNNINGHAM_ENT￨R ]￨S
+ENT_WILLIAM_HENRY_HARRISON_ENT￨E >￨D charles￨R willing￨R byrd￨R [ENT_GOVERNOR_ENT￨R ]￨S >￨D north￨R bend,￨R ohio￨R [ENT_RESTINGPLACE_ENT￨R ]￨S >￨D office￨R holder￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_RELIGION_ENT￨E <￨D [￨S anglican,￨R anglicanism,￨R catholic￨R church,￨R united￨R church￨R of￨R canada,￨R fellowship￨R of￨R evangelical￨R baptist￨R churches￨R in￨R canada,￨R mennonite￨R brethren￨R church,￨R roman￨R catholic￨R http,￨R sikh,￨R roman￨R catholic]￨R [ENT__QUE_X_ENT￨R >￨D british￨R columbia￨R [ENT_RESIDENCE_ENT￨R ]￨S >￨D politician￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_RELATED_ENT￨E <￨D ?x￨R [ENT_BARQ_APOS_S_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D [￨S jasper,￨R indiana,￨R indiana]￨R [ENT_LOCATIONCITY_ENT￨R ]￨S
+ENT_AWARD_ENT￨E <￨D [￨S poland,￨R szczecin,￨R order￨R of￨R polonia￨R restituta,￨R biennale￨R of￨R polish￨R photography,￨R academy￨R awards]￨R [ENT__QUE_X_ENT￨R >￨D national￨R film￨R school￨R in￨R łódź￨R [ENT_TRAINING_ENT￨R ]]￨R
+ENT_REGION_ENT￨E <￨D [￨S north￨R america,￨R canada]￨R [ENT_KIM_SAWCHUK_ENT￨R ]￨S
+ENT_EXECUTIVEPRODUCER_ENT￨E <￨D steven￨R moffat￨R [￨S ENT__QUE_X_ENT￨E >￨D 173￨R [￨S ENT_EXECUTIVEPRODUCER_ENT￨E ]￨S ]￨S
+ENT_FRANK_STILWELL_ENT￨E >￨D [￨S morgan￨R earp,￨R doc￨R holliday,￨R virgil￨R earp,￨R wyatt￨R earp]￨R [ENT_OPPONENT_ENT￨R ]￨S
+ENT_HONOURS_ENT￨E <￨D grand￨R national￨R [ENT__QUE_X_ENT￨R >￨D united￨R kingdom￨R [ENT_COLOUR_ENT￨R ]￨S >￨D race￨R horse￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_DIVISION_ENT￨E <￨D firmicutes￨R [ENT_[BACILLUS_COMMA__ALICYCLOBACILLUS_COMMA__BACILLUS_CIRCULANS_COMMA__SPOROSARCINA_PASTEURII_COMMA__VIRGIBACILLUS_COMMA__SPOROSARCINA_UREAE_COMMA__BREVIBACILLUS_BORSTELENSIS_COMMA__SPOROSARCINA_AQUIMARINA_COMMA__ALICYCLOBACILLUS_ACIDIPHILUS]_ENT￨R >￨D bacillales￨R [ENT_ORDER_ENT￨R ]￨S >￨D bacteria￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT__QUE_X_ENT￨E >￨D brian￨R moriarty￨R [ENT_DESIGNER_ENT￨R ]￨S >￨D [￨S steven￨R spielberg,￨R brian￨R moriarty,￨R orson￨R scott￨R card]￨R [ENT_WRITER_ENT￨R ]￨S >￨D video￨R game￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_AISHATH_SAFFA_ENT￨E >￨D maldives￨R [ENT_NATIONALITY_ENT￨R ]￨S
+ENT_FLUIDINFO_ENT￨E >￨D postgresql￨R [ENT_PROGRAMMINGLANGUAGE_ENT￨R ]￨S
+ENT_DOMENICO_MODUGNO_ENT￨E >￨D [￨S rome,￨R turin]￨R [ENT_CONSTITUENCY_ENT￨R ]￨S
+ENT_SUCCESSOR_ENT￨E <￨D play￨R station￨R 4￨R [ENT_PLAYSTATION_3_ENT￨R ]￨S
+ENT_ZAMAN_SHAH_DURRANI_ENT￨E >￨D afghanistan￨R [ENT_TITLE_ENT￨R ].￨R ENT_SALAHUDDIN_RABBANI_ENT￨E >￨D afghanistan￨R [ENT_NATIONALITY_ENT￨R ]￨S
+ENT_EAST_TILBURY_ENT￨E >￨D essex￨R [ENT_CEREMONIALCOUNTY_ENT￨R ]￨S
+ENT_[CHEERS_COMMA__OCTOBER_ROAD_COMMA__BOSTON_EMS__LP_TV_SERIES_RP__COMMA__SAVE_MY_LIFE_COLON__BOSTON_TRAUMA_COMMA__ON_HARVARD_TIME_COMMA__EVENING_AT_POPS_COMMA__PENNY_ARCADE_EXPO]_ENT￨E >￨D massachusetts￨R [ENT_LOCATION_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_MARINE_CORPS_AIR_STATION_KANEOHE_BAY_ENT￨E >￨D united￨R states￨R navy￨R [ENT_ARCHITECT_ENT￨R ].￨R ENT_BURNET_R_DOT__MAYBANK_ENT￨E >￨D united￨R states￨R navy￨R [ENT_BRANCH_ENT￨R ]￨S
+ENT_264_ENT￨E >￨D dallas￨R cowboys￨R [ENT_TEAM_ENT￨R ]￨S
+ENT_CATERPILLAR_797F_ENT￨E >￨D north￨R america￨R [ENT_ASSEMBLY_ENT￨R ]￨S
+ENT_ORIGIN_ENT￨E <￨D quiché￨R department￨R [￨S ENT__QUE_X_ENT￨E >￨D [￨S quiché￨R department,￨R guatemala,￨R huehuetenango￨R department]￨R [￨S ENT_ORIGIN_ENT￨E ]￨S ]￨S
+ENT_DONN_BARBER_ENT￨E >￨D yale￨R university￨R [ENT_EDUCATION_ENT￨R <￨D yale￨R university￨R [ENT_JACK_MCGREGOR_ENT￨R ]]￨R
+ENT_X_THE_UNKNOWN_ENT￨E >￨D gerald￨R gibbs￨R (cinematographer)￨R [ENT_CINEMATOGRAPHY_ENT￨R ]￨S
+ENT_DEATHPLACE_ENT￨E <￨D [￨S colorado,￨R denver,￨R united￨R states]￨R [ENT__QUE_X_ENT￨R >￨D norman,￨R oklahoma￨R [ENT_BILLED_ENT￨R ]￨S >￨D wrestler￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_PERIANNE_JONES_ENT￨E >￨D [￨S ottawa,￨R nakkertok]￨R [ENT_CLUB_ENT￨R ]￨S
+ENT_RELATIVES_ENT￨E <￨D nick￨R williams￨R [ENT__QUE_X_ENT￨R >￨D [￨S sonny￨R bill￨R williams,￨R nick￨R williams]￨R [ENT_RELATIVE_ENT￨R ]￨S >￨D rugby￨R player￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_LANGUAGE_ENT￨E <￨D slovakia￨R [ENT__QUE_X_ENT￨R >￨D marika￨R gombitová￨R [ENT_ARTIST_ENT￨R ]]￨R
+ENT_GETTV_ENT￨E >￨D sony￨R [ENT_PARENTORGANISATION_ENT￨R ].￨R ENT_THE_GALLERIA_ENT￨E >￨D sony￨R [ENT_OWNER_ENT￨R ]￨S
+ENT_OPERATEDBY_ENT￨E <￨D chicago￨R [ENT__QUE_X_ENT￨R >￨D chicago,￨R st.￨R paul,￨R minneapolis￨R and￨R omaha￨R railway￨R [ENT_OWNER_ENT￨R ]￨S >￨D railway￨R line￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_OPERATOR_ENT￨E <￨D ?x￨R [ENT_FR_DOT__AGNEL_STADIUM_ENT￨R ].￨R ENT_SPORT_ENT￨E <￨D [￨S association￨R football,￨R chess,￨R hockey,￨R throwball]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_GANYMEDE__LP_MOON_RP__ENT￨E >￨D galileo￨R galilei￨R [ENT_DISCOVERER_ENT￨R ]￨S
+ENT_BANNOCK__LP_FOOD_RP__ENT￨E >￨D north￨R america￨R [ENT_REGION_ENT￨R <￨D north￨R america￨R [ENT_SOYLENT__LP_DRINK_RP__ENT￨R ]]￨R
+ENT_SETTLEMENTTYPE_ENT￨E <￨D provinces￨R of￨R zambia￨R [ENT__QUE_X_ENT￨R ].￨R ENT_[KAFUE_RIVER_COMMA__ZAMBEZI]_ENT￨E >￨D ?x￨R [ENT_SOURCEREGION_ENT￨R ]￨S >￨D river￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_BEYOND_THE_SIXTH_SEAL_ENT￨E >￨D greg￨R weeks￨R [ENT_BANDMEMBER_ENT￨R ]￨S
+ENT_CHAIRMAN_ENT￨E <￨D steve￨R nash￨R [ENT_VANCOUVER_WHITECAPS_FC_ENT￨R ]￨S
+ENT_ARMY_GROUP_OBERRHEIN__LP_GERMANY_RP__ENT￨E >￨D [￨S heinrich￨R himmler,￨R paul￨R hausser]￨R [ENT_NOTABLECOMMANDERS_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D sony￨R music￨R entertainment￨R [ENT_RECORDLABEL_ENT￨R ].￨R ENT_236_ENT￨E >￨D ?x￨R [ENT_MUSICCOMPOSER_ENT￨R ]￨S >￨D film￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_CHILDREN_ENT￨E <￨D ?x￨R [ENT_MIGUEL_GARCÍA_GRANADOS_ENT￨R ].￨R ENT_BIRTHPLACE_ENT￨E <￨D [￨S guatemala￨R city,￨R guatemala]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_THEMEMUSICCOMPOSER_ENT￨E <￨D julian￨R gingell￨R [ENT_AMERICAN_IDOL_ENT￨R >￨D ryan￨R seacrest￨R [ENT_PRESENTER_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_COUNTIES_ENT￨E <￨D the￨R bronx￨R [ENT_TREMONT_AVENUE_ENT￨R ].￨R ENT_BIRTHPLACE_ENT￨E <￨D the￨R bronx￨R [ENT_RON_GALOTTI_ENT￨R ]￨S
+ENT_BINOMIALAUTHORITY_ENT￨E <￨D édouard￨R ménétries￨R [￨S ENT__QUE_X_ENT￨E >￨D [édouard￨R ménétries,￨R azerbaijan,￨R kura￨R river,￨R transcaucasia,￨R sal'yana,￨R julian￨R simashko]￨R [￨S ENT_BINOMIALAUTHORITY_ENT￨E ]￨S ]￨S
+ENT_SCOTT_HARAN_ENT￨E >￨D ?x￨R [ENT_KNOWNFOR_ENT￨R ].￨R ENT_PRODUCER_ENT￨E <￨D doctor￨R who￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_KEYPEOPLE_ENT￨E <￨D [￨S jen￨R martin,￨R rob￨R jesmer,￨R joe￨R green￨R (entrepreneur),￨R mark￨R zuckerberg,￨R todd￨R schulte]￨R [ENT_FWD_DOT_US_ENT￨R ]￨S
+ENT_JOHN_SPERAW_ENT￨E >￨D california￨R [ENT_HOMETOWN_ENT￨R ]￨S
+ENT_BODYDISCOVERED_ENT￨E <￨D chicago￨R [ENT_ELSIE_PAROUBEK_ENT￨R ]￨S
+ENT_GOOGLE_WEB_TOOLKIT_ENT￨E >￨D google￨R [ENT_AUTHOR_ENT￨R <￨D google￨R [ENT_PLAYN_ENT￨R ]]￨R
+ENT_JUHU_AERODROME_ENT￨E >￨D mumbai￨R [ENT_CITYSERVED_ENT￨R ]￨S
+ENT_GEOFFREY_RUSH_ENT￨E >￨D academy￨R awards￨R [ENT_AWARDS_ENT￨R <￨D academy￨R awards￨R [ENT_MICHEL_HAZANAVICIUS_ENT￨R ]]￨R
+ENT_SOUTH_PARK_ENT￨E >￨D april￨R stewart￨R [￨S ENT_VOICES_ENT￨E <￨D eliza￨R schneider￨R [￨S ENT_SOUTH_PARK_ENT￨E >￨D television￨R show￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S ]￨S
+ENT_LAWRENCE_F_DOT__CAFERO_ENT￨E >￨D connecticut￨R [ENT_REGION_ENT￨R ].￨R ENT_RESTINGPLACE_ENT￨E <￨D connecticut￨R [ENT_SAMUEL_KEELER_ENT￨R ]￨S
+ENT_EAST_TILBURY_ENT￨E >￨D essex￨R [ENT_CEREMONIALCOUNTY_ENT￨R ].￨R ENT_TRINITY_SCHOOL_COMMA__BRENTWOOD_ENT￨E >￨D essex￨R [ENT_LOCALAUTHORITY_ENT￨R ]￨S
+ENT_COMMANDER_ENT￨E <￨D colin￨R powell￨R [ENT_GULF_WAR_ENT￨R >￨D israel￨R [ENT_PLACE_ENT￨R ]￨S >￨D military￨R conflict￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_FIELDS_ENT￨E <￨D buddhism￨R [ENT_PAUL_DEMIÉVILLE_ENT￨R ]￨S <￨D buddhism￨R [ENT_SYLVAIN_LÉVI_ENT￨R ]￨S
+ENT_COMMANDER_ENT￨E <￨D [￨S tecumseh,￨R henry￨R procter￨R (￨R british￨R army￨R officer)]￨R [ENT_BATTLE_OF_FORT_STEPHENSON_ENT￨R ]￨S <￨D [￨S tecumseh,￨R henry￨R procter￨R (￨R british￨R army￨R officer)]￨R [ENT_BATTLE_OF_THE_THAMES_ENT￨R ]￨S
+ENT_ASSOCIATEDBAND_ENT￨E <￨D queen￨R latifah￨R [ENT_AFRIKA_BABY_BAM_ENT￨R ]￨S
+ENT_COMMANDER_ENT￨E <￨D egushawa￨R [ENT__QUE_X_ENT￨R >￨D [25,￨R virginia￨R militia,￨R indigenous￨R peoples￨R of￨R the￨R americas,￨R detroit￨R militia,￨R choctaw,￨R chickasaw,￨R western￨R confederacy,￨R great￨R britain￨R ]￨S [ENT_COMBATANT_ENT￨R ]￨S >￨D military￨R conflict￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_AUTOMOBILEPLATFORM_ENT￨E <￨D front-engine,￨R rear-wheel-drive￨R layout￨R [ENT__QUE_X_ENT￨R >￨D ford￨R motor￨R company￨R [ENT_PARENTCOMPANY_ENT￨R ]￨S >￨D automobile￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_LOCATION_ENT￨E <￨D [￨S dubai,￨R media￨R city]￨R [ENT__QUE_X_ENT￨R >￨D al￨R khaleejiya￨R 100.9￨R [ENT_SISTERSTATIONS_ENT￨R ]]￨R
+ENT_PRODUCT_ENT￨E <￨D [￨S microsoft￨R office,￨R remote￨R desktop￨R protocol,￨R windows￨R live￨R messenger]￨R [ENT_APPLE_PRODUCTIVITY_EXPERIENCE_GROUP_ENT￨R ]￨S
+ENT_LANGUAGE_INTEGRATED_QUERY_ENT￨E >￨D microsoft￨R [ENT_DESIGNER_ENT￨R ].￨R ENT_MSX_BASIC_ENT￨E >￨D microsoft￨R [ENT_LICENSE_ENT￨R ]￨S
+ENT_DISTRICT_ENT￨E <￨D mumbai￨R suburban￨R district￨R [ENT__QUE_X_ENT￨R >￨D mumbai￨R [ENT_CITY_ENT￨R ]￨S >￨D school￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_DEATHPLACE_ENT￨E <￨D [￨S french￨R third￨R republic,￨R cannes]￨R [ENT__QUE_X_ENT￨R >￨D adam￨R ludwik￨R czartoryski￨R [ENT_PARENT_ENT￨R ]￨S >￨D royalty￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_OPERATINGSYSTEM_ENT￨E <￨D unix-like￨R [ENT__QUE_X_ENT￨R >￨D 161￨R [ENT_DEVELOPER_ENT￨R ]]￨R
+ENT_FIRSTTEAM_ENT￨E <￨D [￨S lotus,￨R brm,￨R british￨R racing￨R motors,￨R team￨R lotus,￨R lotus,￨R ford￨R motor￨R company,￨R equipe￨R matra￨R sports,￨R cosworth,￨R tyrrell￨R racing,￨R brabham,￨R scuderia￨R ferrari,￨R mc￨R laren,￨R mc￨R laren,￨R williams￨R grand￨R prix￨R engineering]￨R [ENT__QUE_X_ENT￨R >￨D watkins￨R glen,￨R new￨R york￨R [ENT_LOCATION_ENT￨R ]￨S >￨D grand￨R prix￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_ACADEMICADVISOR_ENT￨E <￨D ?x￨R [ENT_HENRI_MASPERO_ENT￨R ].￨R ENT_FIELDS_ENT￨E <￨D [￨S history￨R of￨R china,￨R religion￨R in￨R china,￨R sanskrit,￨R buddhism,￨R sanskrit￨R literature]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_PARTY_ENT￨E <￨D [￨S labour￨R party￨R (uk),￨R all￨R india￨R forward￨R bloc,￨R indian￨R national￨R congress,￨R pakistan￨R muslim￨R league,￨R communist￨R party￨R of￨R bangladesh,￨R bangladesh￨R awami￨R league,￨R east￨R pakistan￨R communist￨R party￨R (￨R marxist–￨R leninist),￨R united￨R front￨R (￨R east￨R pakistan),￨R national￨R awami￨R party,￨R communist￨R party￨R of￨R bangladesh￨R (￨R marxist–￨R leninist)￨R (￨R barua),￨R swaraj￨R party]￨R [ENT__QUE_X_ENT￨R >￨D bengalis￨R [ENT_ETHNICITY_ENT￨R ]]￨R
+ENT__QUE_X_ENT￨E >￨D pork￨R [￨S ENT_INGREDIENT_ENT￨E <￨D 622￨R [￨S ENT__QUE_X_ENT￨E ]￨S ]￨S
+ENT_CAROLYN_DENNIS_ENT￨E >￨D [￨S bruce￨R springsteen,￨R kenny￨R loggins,￨R bob￨R dylan,￨R michael￨R jackson,￨R stevie￨R wonder,￨R the￨R carpenters]￨R [ENT_ASSOCIATEDMUSICALARTIST_ENT￨R ]￨S
+ENT_BIRTHPLACE_ENT￨E <￨D athens￨R [ENT__QUE_X_ENT￨R >￨D [￨S near￨R east￨R b.c.,￨R peristeri￨R b.c.,￨R maroussi￨R b.c.,￨R aek￨R b.c.,￨R egaleo￨R b.c.,￨R iraklis￨R thessaloniki￨R b.c.,￨R panellinios￨R b.c.,￨R sporting￨R b.c.]￨R [ENT_FORMERTEAM_ENT￨R ]￨S >￨D basketball￨R player￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_COACH_ENT￨E <￨D chip￨R kelly￨R [ENT__QUE_X_ENT￨R ].￨R ENT_DEBUTTEAM_ENT￨E <￨D ?x￨R [ENT_170_ENT￨R ]￨S
+ENT_PARTY_ENT￨E <￨D bharatiya￨R janata￨R party￨R [ENT__QUE_X_ENT￨R >￨D 381￨R [ENT_RELIGION_ENT￨R ]]￨R
+ENT_2008–09_MARQUETTE_GOLDEN_EAGLES_MEN_APOS_S_BASKETBALL_TEAM_ENT￨E >￨D buzz￨R williams￨R [ENT_HEADCOACH_ENT￨R ]￨S
+ENT_VENUE_ENT￨E <￨D indianapolis￨R [ENT_INDY_POPCON_ENT￨R ].￨R ENT_PLACEOFDEATH_ENT￨E <￨D indianapolis￨R [ENT_LOUIS_LECOCQ_ENT￨R ]￨S
+ENT_SPECIES_ENT￨E <￨D american￨R pekin￨R duck￨R [ENT_[SCROOGE_MCDUCK_COMMA__DONALD_DUCK]_ENT￨R >￨D ludwig￨R von￨R drake￨R [ENT_RELATIVES_ENT￨R ]￨S >￨D fictional￨R character￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_ILLUSTRATOR_ENT￨E <￨D bob￨R dylan￨R [ENT_WRITINGS_AND_DRAWINGS_ENT￨R ]￨S
+ENT_PARTY_ENT￨E <￨D indian￨R national￨R congress￨R [ENT_IQBAL_SINGH__LP_POLITICIAN_RP__ENT￨R ]￨S <￨D indian￨R national￨R congress￨R [ENT_B_DOT__SHIVA_RAO_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D mary￨R ainsworth￨R [ENT_DOCTORALSTUDENTS_ENT￨R ].￨R ENT_DOCTORALADVISOR_ENT￨E <￨D ?x￨R [ENT_ABRAHAM_MASLOW_ENT￨R >￨D scientist￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_PRIMEMINISTER_ENT￨E <￨D john￨R howard￨R [ENT_WILLIAM_DEANE_ENT￨R ].￨R ENT_MARK_LATHAM_ENT￨E >￨D john￨R howard￨R [ENT_PRIMEMINISTER_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D rosario,￨R santa￨R fe￨R [ENT_GROUND_ENT￨R ].￨R ENT_138_ENT￨E >￨D ?x￨R [ENT_YOUTHCLUBS_ENT￨R ]￨S
+ENT_ELVIS_PRESLEY_ENT￨E >￨D humes￨R high￨R school￨R [ENT_EDUCATION_ENT￨R ]￨S >￨D person￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_FACEBOOK_ENT￨E >￨D private￨R core￨R [ENT_SUBSIDIARY_ENT￨R ]￨S
+ENT_FORMERPARTNER_ENT￨E <￨D [￨S brynn￨R carman,￨R shawnee￨R smith,￨R andrea￨R poapst]￨R [ENT_CHRIS_KNIERIM_ENT￨R ]￨S
+ENT_WERNER_HEISENBERG_ENT￨E >￨D șerban￨R țițeica￨R [￨S ENT_DOCTORALSTUDENTS_ENT￨E <￨D erich￨R bagge￨R [￨S ENT_WERNER_HEISENBERG_ENT￨E >￨D scientist￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S ]￨S
+ENT_UNION_STATE_ENT￨E >￨D moscow￨R [ENT_LARGESTCITY_ENT￨R ].￨R ENT_BIRTHPLACE_ENT￨E <￨D moscow￨R [ENT_SVETLANA_GOUNKINA_ENT￨R ]￨S
+ENT_[BABYLON_5_COMMA__JAYCE_AND_THE_WHEELED_WARRIORS]_ENT￨E >￨D j.￨R michael￨R straczynski￨R [ENT_DEVELOPER_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_[DAVID_COMMA__SAUL_COMMA__SOLOMON_COMMA__BATHSHEBA_COMMA__ISH_DASH_BOSHETH_COMMA__NATHAN__LP_SON_OF_DAVID_RP_]_ENT￨E >￨D kingdom￨R of￨R israel￨R (united￨R monarchy)￨R [ENT_TITLE_ENT￨R ]￨S
+ENT_KNOWNFOR_ENT￨E <￨D [￨S playboy,￨R playboy￨R cyber￨R club,￨R appearance]￨R [ENT_BREANN_MCGREGOR_ENT￨R ]￨S
+ENT_CHARLES_LEMAIRE_ENT￨E >￨D academy￨R awards￨R [ENT_AWARDS_ENT￨R ].￨R ENT_ERIC_ROTH_ENT￨E >￨D academy￨R awards￨R [ENT_AWARD_ENT￨R ]￨S
+ENT_CHRIS_MARVE_ENT￨E >￨D vanderbilt￨R university￨R [ENT_SCHOOL_ENT￨R ]￨S
+ENT_COUNTRY_ENT￨E <￨D [￨S hong￨R kong,￨R italy,￨R japan,￨R singapore,￨R south￨R korea,￨R taiwan,￨R thailand,￨R malaysia]￨R [ENT_PIONEER_CORPORATION_ENT￨R ]￨S
+ENT_FORMAT_ENT￨E <￨D ntsc￨R [ENT_DOCTOR_WHO_ENT￨R >￨D ron￨R grainer￨R [ENT_THEMEMUSICCOMPOSER_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_MUSIC_ENT￨E <￨D jim￨R dooley￨R [ENT__QUE_X_ENT￨R >￨D [￨S kelsey￨R grammer,￨R dan￨R castellaneta,￨R yeardley￨R smith,￨R hank￨R azaria,￨R julie￨R kavner,￨R nancy￨R cartwright]￨R [ENT_STARRING_ENT￨R ]￨S >￨D amusement￨R park￨R attraction￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_UNITED_STATES_HOUSE_OF_REPRESENTATIVES_ELECTIONS_IN_OHIO_COMMA__2010_ENT￨E >￨D [￨S john￨R boehner,￨R david￨R harlow,￨R jim￨R condit￨R ]￨S [ENT_OPPONENT_ENT￨R ]￨S
+ENT_STATE_ENT￨E <￨D pennsylvania￨R [ENT_COLEMANVILLE_COVERED_BRIDGE_ENT￨R ]￨S
+ENT_SPECIES_ENT￨E <￨D lion￨R [ENT_PANTHERA_LEO_FOSSILIS_ENT￨R ]￨S <￨D lion￨R [ENT_LIGER_ENT￨R ]￨S
+ENT_COMMANDER_ENT￨E <￨D colin￨R powell￨R [￨S ENT_GULF_WAR_ENT￨E >￨D jaber￨R al-￨R ahmad￨R al-￨R sabah￨R [￨S ENT_COMMANDER_ENT￨E ]￨S ]￨S
+ENT_THE_TIMES_THEY_ARE_A_DASH_CHANGIN_APOS___LP_MUSICAL_RP__ENT￨E >￨D bob￨R dylan￨R [ENT_LYRICS_ENT￨R ]￨S
+ENT_BIRTHPLACE_ENT￨E <￨D vargas￨R (state)￨R [ENT__QUE_X_ENT￨R >￨D [￨S chicago￨R white￨R sox,￨R san￨R francisco￨R giants,￨R houston￨R astros]￨R [ENT_DEBUTTEAM_ENT￨R ]]￨R
+ENT__QUE_X_ENT￨E >￨D tony￨R bennett￨R [ENT_ASSOCIATEDMUSICALARTIST_ENT￨R ].￨R ENT_SPOUSE_ENT￨E <￨D ?x￨R [ENT_[LENNIE_HAYTON_COMMA__ELLA_FITZGERALD]_ENT￨R ]￨S
+ENT_TONKIN_CAMPAIGN_ENT￨E >￨D tonkin￨R [ENT_TERRITORY_ENT￨R ].￨R ENT_THÉOPHANE_VÉNARD_ENT￨E >￨D tonkin￨R [ENT_DEATHPLACE_ENT￨R ]￨S
+ENT_FIRSTASCENTPERSON_ENT￨E <￨D john￨R muir￨R [ENT_MOUNT_HOFFMANN_ENT￨R ]￨S
+ENT_SOUTH_ISLAND_ENT￨E >￨D christchurch￨R [ENT_LARGESTCITY_ENT￨R ]￨S
+ENT_CHEA_SIM_ENT￨E >￨D ?x￨R [ENT_PRIMEMINISTER_ENT￨R ].￨R ENT_RELIGION_ENT￨E <￨D [￨S theravada,￨R buddhism]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_DAFYDD_BENFRAS_ENT￨E >￨D united￨R kingdom￨R [ENT_COUNTRY_ENT￨R ].￨R ENT_CITIZENSHIP_ENT￨E <￨D united￨R kingdom￨R [ENT_JASMINE_LOWSON_ENT￨R ]￨S
+ENT_CHILDREN_ENT￨E <￨D ?x￨R [ENT_LINDA_LEE_CADWELL_ENT￨R ].￨R ENT_RESTINGPLACE_ENT￨E <￨D [￨S lake￨R view￨R cemetery￨R (￨R seattle),￨R washington￨R (state),￨R seattle]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_JACQUES_DASH_DÉSIRÉ_LAVAL_ENT￨E >￨D [￨S mauritius,￨R sainte-￨R croix,￨R mauritius]￨R [ENT_MAJORSHRINE_ENT￨R ]￨S
+ENT_SPORT_ENT￨E <￨D [￨S badminton,￨R basketball,￨R chess,￨R tennis,￨R ultimate￨R (sport),￨R volleyball,￨R archery,￨R water￨R polo,￨R football,￨R track￨R and￨R field,￨R flying￨R disc￨R games,￨R swimming￨R (sport),￨R combat￨R sport]￨R [ENT__QUE_X_ENT￨R >￨D emanuel￨R de￨R guzman￨R [ENT_PRESIDENT_ENT￨R ]￨S >￨D university￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_RON_REED_ENT￨E >￨D detroit￨R pistons￨R [ENT_DRAFTTEAM_ENT￨R <￨D detroit￨R pistons￨R [ENT_DAVE_BING_ENT￨R ]]￨R
+ENT_VIVA_LAS_VEGAS_ENT￨E >￨D elvis￨R presley￨R [ENT_ARTIST_ENT￨R <￨D elvis￨R presley￨R [ENT_TICKLE_ME_ENT￨R ]]￨R
+ENT_FOUNDER_ENT￨E <￨D european￨R union￨R [ENT_EUROPEAN_SCHOOL_COMMA__KARLSRUHE_ENT￨R ]￨S
+ENT_PROGRAMMEFORMAT_ENT￨E <￨D gospel￨R music￨R [ENT_KOMC__LP_AM_RP__ENT￨R ]￨S
+ENT_PLACEOFBURIAL_ENT￨E <￨D geneva￨R [ENT_HENRI_COMMA__DUKE_OF_ROHAN_ENT￨R ]￨S
+ENT_JOJO_CHINTOH_ENT￨E >￨D ghana￨R [ENT_STATEOFORIGIN_ENT￨R ].￨R ENT_LOCATIONS_ENT￨E <￨D ghana￨R [ENT_INKAS_ENT￨R ]￨S
+ENT_POLEDRIVER_ENT￨E <￨D michael￨R schumacher￨R [ENT_1994_SPANISH_GRAND_PRIX_ENT￨R ]￨S
+ENT_SEXTUS_BARBOUR_ENT￨E >￨D cholera￨R [ENT_DEATHCAUSE_ENT￨R <￨D cholera￨R [ENT_LETITIA_MACTAVISH_HARGRAVE_ENT￨R ]]￨R
+ENT_LE_GIBLOUX_ENT￨E >￨D swiss￨R alps￨R [ENT_MOUNTAINRANGE_ENT￨R <￨D swiss￨R alps￨R [ENT_POINTE_D_APOS_AVENEYRE_ENT￨R ]]￨R
+ENT_RESTINGPLACE_ENT￨E <￨D montpelier￨R (￨R orange,￨R virginia)￨R [ENT_JAMES_MADISON_ENT￨R >￨D office￨R holder￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_AKWASI_OPPONG_FOSU_ENT￨E >￨D ghana￨R [ENT_NATIONALITY_ENT￨R <￨D ghana￨R [ENT_GEORGINA_THEODORA_WOOD_ENT￨R ]]￨R
+ENT_BLADE_RUNNER_ENT￨E >￨D jordan￨R cronenweth￨R [ENT_CINEMATOGRAPHY_ENT￨R ]￨S >￨D vangelis￨R [ENT_MUSICCOMPOSER_ENT￨R ]￨S >￨D film￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_BOBBY_HOPPE_ENT￨E >￨D [￨S san￨R francisco￨R 49ers,￨R washington￨R redskins]￨R [ENT_PASTTEAMS_ENT￨R ]￨S
+ENT_IRAN_ENT￨E >￨D semnani￨R languages￨R [ENT_LANGUAGES_ENT￨R ]￨S >￨D country￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_RELIGION_ENT￨E <￨D white￨R plum￨R asanga￨R [ENT__QUE_X_ENT￨R >￨D north￨R america￨R [ENT_STATEOFORIGIN_ENT￨R ]]￨R
+ENT_LOCATIONTOWN_ENT￨E <￨D ?x￨R [ENT_FIRST_CHURCH_OF_CHRIST_COMMA__SCIENTIST__LP_PITTSBURGH_RP__ENT￨R ].￨R ENT_FOUNDER_ENT￨E <￨D [￨S george￨R washington,￨R john￨R forbes￨R (￨R british￨R army￨R officer)]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_RELATIVE_ENT￨E <￨D ?x￨R [ENT_MRUNALINI_KUNTE_ENT￨R ].￨R ENT_KNOWNFOR_ENT￨E <￨D chess￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_#TYPE_ENT￨E <￨D office￨R holder￨R [ENT_CALVIN_COOLIDGE_ENT￨R >￨D samuel￨R w.￨R mc￨R call￨R [ENT_PREDECESSOR_ENT￨R ]￨S >￨D massachusetts￨R house￨R of￨R representatives￨R [ENT_OFFICE_ENT￨R ]]￨R
+ENT_MANUFACTURER_ENT￨E <￨D [￨S yamaha￨R motor￨R company,￨R ford￨R motor￨R company]￨R [ENT_FORD_SHO_V8_ENGINE_ENT￨R ]￨S
+ENT_KINGDOM_ENT￨E <￨D animal￨R [ENT_SICKLEFIN_LEMON_SHARK_ENT￨R ]￨S
+ENT_PRODUCER_ENT￨E <￨D ?x￨R [ENT_PARADISE_PLACE_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D [￨S academy￨R awards,￨R goethe￨R prize,￨R praemium￨R imperiale]￨R [ENT_AWARDS_ENT￨R ]￨S >￨D person￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_HILDA_DE_DUHALDE_ENT￨E >￨D ?x￨R [ENT_ASSOCIATE_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D argentina￨R [ENT_NATIONALITY_ENT￨R ]￨S
+ENT_EXECUTIVEPRODUCER_ENT￨E <￨D tom￨R hanks￨R [ENT_FROM_THE_EARTH_TO_THE_MOON__LP_MINISERIES_RP__ENT￨R ].￨R ENT_NOTHING_IN_COMMON_ENT￨E >￨D tom￨R hanks￨R [ENT_STARRING_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D robert￨R schenkkan￨R [ENT_WRITER_ENT￨R ]￨S >￨D [￨S seattle,￨R intiman￨R theatre￨R festival,￨R oregon￨R shakespeare￨R festival]￨R [ENT_PLACE_ENT￨R ]￨S >￨D play￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_BBC_MULTIMEDIA_ENT￨E >￨D doctor￨R who￨R [ENT_PRODUCTS_ENT￨R ].￨R ENT_THE_LAST_RESORT__LP_DOCTOR_WHO_RP__ENT￨E >￨D doctor￨R who￨R [ENT_SERIES_ENT￨R ]￨S
+ENT_CHILDREN_ENT￨E <￨D ?x￨R [ENT_SONIA_GANDHI_ENT￨R ].￨R ENT_PARTY_ENT￨E <￨D indian￨R national￨R congress￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_KNOWNFOR_ENT￨E <￨D [￨S blood,￨R bacillus￨R anthracis]￨R [ENT__QUE_X_ENT￨R >￨D veterinary￨R physician￨R [ENT_FIELD_ENT￨R ]]￨R
+ENT_PETER_FRAMPTON_ENT￨E >￨D frampton's￨R camel￨R [ENT_ASSOCIATEDACTS_ENT￨R ]￨S >￨D artist￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_PROFESSION_ENT￨E <￨D united￨R states￨R senate￨R [ENT_WILLIAM_LUTHER_HILL_ENT￨R ]￨S
+ENT_OCCUPATION_ENT￨E <￨D 107￨R [ENT__QUE_X_ENT￨R >￨D suicide￨R [ENT_DEATHCAUSE_ENT￨R ]]￨R
+ENT_WALTER_EVANS_EDGE_ENT￨E >￨D new￨R jersey￨R [ENT_OFFICE_ENT￨R ].￨R ENT_BIRTHPLACE_ENT￨E <￨D new￨R jersey￨R [ENT_HENRY_MILLER_SHREVE_ENT￨R ]￨S
+ENT_TORNADO__LP_WEB_SERVER_RP__ENT￨E >￨D ?x￨R [ENT_AUTHOR_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D facebook￨R [ENT_OWNER_ENT￨R ]￨S
+ENT_BIRTHPLACE_ENT￨E <￨D chicago￨R [ENT_JUSTINA_MACHADO_ENT￨R ]￨S <￨D chicago￨R [ENT_JOHN_ENGLEHART_ENT￨R ]￨S
+ENT_FOUNDER_ENT￨E <￨D jawaharlal￨R nehru￨R [ENT__QUE_X_ENT￨R >￨D indian￨R national￨R congress￨R [ENT_OWNER_ENT￨R ]￨S >￨D newspaper￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_MAININTEREST_ENT￨E <￨D class￨R conflict￨R [ENT_KARL_MARX_ENT￨R ]￨S
+ENT_NORTH_CAROLINA_HIGHWAY_280_ENT￨E >￨D arden,￨R north￨R carolina￨R [ENT_ROUTEEND_ENT￨R ]￨S
+ENT_WXXV_DASH_DT2_ENT￨E >￨D [￨S incorporation￨R (business),￨R mississippi,￨R morris￨R network￨R of]￨R [ENT_LICENSEE_ENT￨R ]￨S
+ENT_VENERATEDIN_ENT￨E <￨D [￨S anglican￨R communion,￨R eastern￨R orthodox￨R church,￨R catholic￨R church,￨R lutheranism]￨R [ENT_POPE_GREGORY_I_ENT￨R ]￨S
+ENT_JOHN_O_APOS_CONNOR__LP_ARCHBISHOP_OF_NEW_YORK_RP__ENT￨E >￨D [￨S villanova￨R university,￨R st.￨R charles￨R borromeo￨R seminary,￨R georgetown￨R university]￨R [ENT_ALMAMATER_ENT￨R ]￨S
+ENT_COLLEGE_ENT￨E <￨D vanderbilt￨R university￨R [ENT_ALLAMA_MATTHEWS_ENT￨R ]￨S
+ENT_FAMILY_ENT￨E <￨D buccinidae￨R [￨S ENT_567_ENT￨E >￨D buccinoidea￨R [￨S ENT_FAMILY_ENT￨E ]￨S ]￨S
+ENT_[TENNESSEE_TITANS_COMMA__HISTORY_OF_THE_HOUSTON_OILERS]_ENT￨E >￨D bud￨R adams￨R [ENT_OWNER_ENT￨R ]￨S >￨D american￨R football￨R team￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_NORD__LP_VIDEO_GAME_RP__ENT￨E >￨D facebook￨R [ENT_COMPUTINGPLATFORM_ENT￨R ].￨R ENT_DISTRIBUTOR_ENT￨E <￨D facebook￨R [ENT_THE_BEAUTY_INSIDE_ENT￨R ]￨S
+ENT_CALLISTO__LP_MOON_RP__ENT￨E >￨D galileo￨R galilei￨R [ENT_DISCOVERER_ENT￨R ]￨S
+ENT_HARVEY_MILK_ENT￨E >￨D haight-￨R ashbury￨R [ENT_CONSTITUENCY_ENT￨R ]￨S >￨D uss￨R kittiwake￨R (asr-13)￨R [ENT_MILITARYUNIT_ENT￨R ]￨S >￨D office￨R holder￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_GALATASARAY_HANDBALL_TEAM_ENT￨E >￨D lion￨R [ENT_MASCOT_ENT￨R ]￨S
+ENT_NARRATOR_ENT￨E <￨D ?x￨R [ENT_OSCAR_AND_LUCINDA__LP_FILM_RP__ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D [￨S academy￨R awards,￨R tony￨R award,￨R primetime￨R emmy￨R award,￨R screen￨R actors￨R guild￨R award,￨R british￨R academy￨R film￨R awards,￨R golden￨R globe￨R award]￨R [ENT_AWARDS_ENT￨R ]￨S
+ENT_COUNTRY_ENT￨E <￨D malaysia￨R [ENT_MAJOR_ALL_STARS_SEASON_1_ENT￨R ]￨S <￨D malaysia￨R [ENT_PIONEER_CORPORATION_ENT￨R ]￨S
+ENT_TARGETAIRPORT_ENT￨E <￨D moscow￨R [ENT_POLET_AIRLINES_ENT￨R ]￨S
+ENT_#TYPE_ENT￨E <￨D television￨R show￨R [ENT_AMERICAN_IDOL_ENT￨R >￨D simon￨R fuller￨R [ENT_CREATOR_ENT￨R ]￨S >￨D jennifer￨R lopez￨R [ENT_JUDGES_ENT￨R ]]￨R
+ENT_BROADCASTAREA_ENT￨E <￨D north￨R america￨R [ENT_CFRX_ENT￨R ].￨R ENT_COUNTRY_ENT￨E <￨D north￨R america￨R [ENT_NORTH_AMERICAN_POKER_TOUR_ENT￨R ]￨S
+ENT_SOUTH_SIDE_ELEVATED_RAILROAD_ENT￨E >￨D chicago￨R [ENT_OPERATEDBY_ENT￨R <￨D chicago￨R [ENT_TWIN_CITIES_400_ENT￨R ]]￨R
+ENT_GENEVA_ENT￨E >￨D lancy￨R [ENT_NEIGHBORINGMUNICIPALITY_ENT￨R ]￨S
+ENT_[LUKE_SKYWALKER_COMMA__PRINCESS_LEIA]_ENT￨E >￨D roger￨R barton￨R (film￨R editor)￨R [ENT_PORTRAYER_ENT￨R ]￨S >￨D fictional￨R character￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_MEDININAGAR_ENT￨E >￨D ?x￨R [ENT_LEADERTITLE_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D [￨S rajya￨R sabha,￨R lok￨R sabha]￨R [ENT_HOUSES_ENT￨R ]￨S >￨D legislature￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_GENRE_ENT￨E <￨D 1406￨R [ENT__QUE_X_ENT￨R >￨D commodore￨R 64￨R [ENT_COMPUTINGPLATFORM_ENT￨R ]]￨R
+ENT_CHELSEA_F_DOT_C_DOT__ENT￨E >￨D roman￨R abramovich￨R [ENT_OWNER_ENT￨R ]￨S
+ENT_CASCADE_AIRWAYS_ENT￨E >￨D seattle￨R [ENT_HUBAIRPORT_ENT￨R ]￨S
+ENT_PARENTCOMPANY_ENT￨E <￨D kumho￨R asiana￨R group￨R [ENT_[ASIANA_AIRLINES_COMMA__KUMHO_TIRE_COMMA__ASIANA_IDT_COMMA__AIR_BUSAN]_ENT￨R ]￨S
+ENT_2015_MLS_ALL_DASH_STAR_GAME_ENT￨E >￨D colorado￨R [ENT_CITY_ENT￨R ].￨R ENT_BIRTHPLACE_ENT￨E <￨D colorado￨R [ENT_THE_OKEE_DOKEE_BROTHERS_ENT￨R ]￨S
+ENT_COMPANY_ENT￨E <￨D dream￨R works￨R television￨R [ENT_BAND_OF_BROTHERS__LP_MINISERIES_RP__ENT￨R >￨D erik￨R bork￨R [ENT_PRODUCER_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_INDUSTRY_ENT￨E <￨D pizza￨R [ENT_PETER_PIPER_PIZZA_ENT￨R ]￨S
+ENT_STATE_ENT￨E <￨D michigan￨R [ENT_DOWNRIVER_ENT￨R ].￨R ENT_BIRTHPLACE_ENT￨E <￨D michigan￨R [ENT_CYRUS_MANN_ENT￨R ]￨S
+ENT_COMPANY_ENT￨E <￨D playtone￨R [ENT_BAND_OF_BROTHERS__LP_MINISERIES_RP__ENT￨R >￨D stephen￨R e.￨R ambrose￨R [ENT_PRODUCER_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_GARRISON_ENT￨E <￨D tennessee￨R [ENT__QUE_X_ENT￨R ].￨R ENT_KNOWNFOR_ENT￨E <￨D ?x￨R [ENT_[ERNEST_LAWRENCE_COMMA__VANNEVAR_BUSH_COMMA__CHIEN_DASH_SHIUNG_WU_COMMA__PHILIP_BURTON_MOON_COMMA__JAMES_CHADWICK_COMMA__GEORGE_KISTIAKOWSKY_COMMA__SAMUEL_KING_ALLISON_COMMA__ALVIN_M_DOT__WEINBERG_COMMA__PRISCILLA_DUFFIELD_COMMA__ROBERT_BACHER_COMMA__DOROTHY_MCKIBBIN_COMMA__WILLIAM_G_DOT__POLLARD_COMMA__ROBERT_E_DOT__SHERIFF_COMMA__GEORGE_COWAN_COMMA__CHARLES_CRITCHFIELD]_ENT￨R ]￨S
+ENT_WRITER_ENT￨E <￨D erik￨R jendresen￨R [ENT_BAND_OF_BROTHERS__LP_MINISERIES_RP__ENT￨R >￨D hbo￨R [ENT_DISTRIBUTOR_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_ALLEGIANCE_ENT￨E <￨D ghana￨R [ENT_ALBERT_KWESI_OCRAN_ENT￨R ]￨S
+ENT_ROBERT_KOCH_ENT￨E >￨D royal￨R society￨R [ENT_PRIZES_ENT￨R ]￨S >￨D georg￨R meissner￨R [ENT_DOCTORALADVISOR_ENT￨R ]￨S >￨D scientist￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_CONNECTICUT_RIVER_ENT￨E >￨D white￨R river￨R (￨R vermont)￨R [ENT_RIGHTTRIBUTARY_ENT￨R ]￨S
+ENT_DEATHPLACE_ENT￨E <￨D [￨S detroit,￨R michigan,￨R united￨R states]￨R [ENT_LOUIS_CHEVROLET_ENT￨R ]￨S
+ENT_LENA_RIVER_ENT￨E >￨D baikal￨R mountains￨R [ENT_SOURCEMOUNTAIN_ENT￨R ]￨S
+ENT_RELATIVE_ENT￨E <￨D [￨S sonny￨R bill￨R williams,￨R nick￨R williams]￨R [ENT_TIM_NANAI_DASH_WILLIAMS_ENT￨R ]￨S
+ENT_CHANCELLOR_ENT￨E <￨D dawn￨R french￨R [ENT__QUE_X_ENT￨R >￨D plymouth￨R university￨R [ENT_AFFILIATIONS_ENT￨R ]￨S >￨D university￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_9_TO_5__LP_MUSICAL_RP__ENT￨E >￨D dolly￨R parton￨R [ENT_MUSICBY_ENT￨R ]￨S
+ENT_ALLGEMEINE_SS_ENT￨E >￨D heinrich￨R himmler￨R [ENT_LEADER_ENT￨R ]￨S
+ENT_MONROE_STATION__LP_CTA_BLUE_LINE_RP__ENT￨E >￨D chicago￨R [ENT_OWNED_ENT￨R ]￨S
+ENT_[AMERICAN_IDOL_COMMA__KNOCK_KNOCK_LIVE]_ENT￨E >￨D ryan￨R seacrest￨R [ENT_PRESENTER_ENT￨R ]￨S >￨D fox￨R broadcasting￨R company￨R [ENT_CHANNEL_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_RIVER_THAMES_ENT￨E >￨D reading,￨R berkshire￨R [ENT_CITY_ENT￨R ]￨S >￨D essex￨R [ENT_MOUTHPLACE_ENT￨R ]￨S >￨D river￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_CURRENCY_ENT￨E <￨D [￨S euro,￨R yugoslav￨R dinar,￨R deutsche￨R mark]￨R [ENT_REPUBLIC_OF_MONTENEGRO__LP_1992–2006_RP__ENT￨R ]￨S
+ENT_HEADQUARTERS_ENT￨E <￨D [￨S puerto￨R rico,￨R san￨R juan,￨R puerto￨R rico]￨R [ENT_JUAN_DALMAU_RAMÍREZ_ENT￨R ]￨S
+ENT_SOUTH_PARK_ENT￨E >￨D isaac￨R hayes￨R [ENT_VOICES_ENT￨R ]￨S >￨D comedy￨R central￨R [ENT_NETWORK_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_COUNTRY_ENT￨E <￨D norway￨R [ENT_NOBEL_PRIZE_ENT￨R >￨D swedish￨R academy￨R [ENT_PRESENTER_ENT￨R ]￨S >￨D award￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT__QUE_X_ENT￨E >￨D john￨R bowlby￨R [￨S ENT_DOCTORALSTUDENTS_ENT￨E <￨D [￨S mary￨R ainsworth,￨R abraham￨R maslow,￨R john￨R bowlby]￨R [￨S ENT__QUE_X_ENT￨E >￨D scientist￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S ]￨S
+ENT_NONFICTIONSUBJECT_ENT￨E <￨D chess￨R [ENT_THUD_EXC__ENT￨R ].￨R ENT_ATHLETICS_ENT￨E <￨D chess￨R [ENT_PATTS_COLLEGE_OF_AERONAUTICS_ENT￨R ]￨S
+ENT_OCCUPATION_ENT￨E <￨D [￨S chess,￨R singing,￨R record￨R producer,￨R songwriter]￨R [ENT__QUE_X_ENT￨R >￨D the￨R shirelles￨R [ENT_ASSOCIATEDMUSICALARTIST_ENT￨R ]]￨R
+ENT_RELIGIOUSAFFILIATION_ENT￨E <￨D taoism￨R [ENT_HONG_KONG_TAOIST_ASSOCIATION_TANG_HIN_MEMORIAL_SECONDARY_SCHOOL_ENT￨R ]￨S
+ENT_JAN_PAULSEN_ENT￨E >￨D ?x￨R [ENT_ALMAMATER_ENT￨R ].￨R ENT_STATE_ENT￨E <￨D [￨S baden-württemberg,￨R michigan]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_ATHLETICS_ENT￨E <￨D [￨S association￨R football,￨R badminton,￨R baseball,￨R basketball,￨R chess,￨R volleyball]￨R [ENT_JAMIATU_MUSLIM_MINDANAO_ENT￨R ]￨S
+ENT_LINKIN_PARK_ENT￨E >￨D mike￨R shinoda￨R [ENT_BANDMEMBER_ENT￨R ]￨S
+ENT_HOMETOWN_ENT￨E <￨D san￨R antonio￨R [ENT_ROLANDO_GOMEZ_ENT￨R ].￨R ENT_DEATHDATE_ENT￨E <￨D san￨R antonio￨R [ENT_CLYDE_MCNEAL_ENT￨R ]￨S
+ENT_CASCADE_AIRWAYS_ENT￨E >￨D [￨S washington￨R (state),￨R seattle]￨R [ENT_HUBS_ENT￨R ].￨R ENT_BRANDON_LEE_ENT￨E >￨D [￨S washington￨R (state),￨R seattle]￨R [ENT_RESTINGPLACE_ENT￨R ]￨S
+ENT_CAROLINA_HURRICANES_ENT￨E >￨D bill￨R peters￨R (ice￨R hockey)￨R [ENT_HEADCOACH_ENT￨R ]￨S >￨D hockey￨R team￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_OUTFLOW_ENT￨E <￨D ?x￨R [ENT_AEGEAN_SEA_ENT￨R ].￨R ENT_CITIES_ENT￨E <￨D [￨S alexandria,￨R algiers,￨R athens,￨R barcelona,￨R carthage,￨R rome,￨R beirut,￨R dubrovnik,￨R tel￨R aviv,￨R tripoli,￨R tunis,￨R i̇zmir,￨R tangier]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_AUTHORITY_ENT￨E <￨D maine￨R [ENT__QUE_X_ENT￨R >￨D penguin￨R [ENT_MASCOT_ENT￨R ]￨S >￨D school￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_WRITER_ENT￨E <￨D monty￨R python￨R [ENT_[MONTY_PYTHON_APOS_S_LIFE_OF_BRIAN_COMMA__MONTY_PYTHON_AND_THE_HOLY_GRAIL_COMMA__MONTY_PYTHON_APOS_S_THE_MEANING_OF_LIFE_COMMA__MONTY_PYTHON_LIVE_AT_THE_HOLLYWOOD_BOWL_COMMA__AND_NOW_FOR_SOMETHING_COMPLETELY_DIFFERENT_COMMA__MONTY_PYTHON_COLON__ALMOST_THE_TRUTH__LP_LAWYERS_CUT_RP_]_ENT￨R >￨D film￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_WRITER_ENT￨E <￨D erik￨R jendresen￨R [￨S ENT_BAND_OF_BROTHERS__LP_MINISERIES_RP__ENT￨E >￨D graham￨R yost￨R [￨S ENT_WRITER_ENT￨E ]￨S >￨D television￨R show￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S
+ENT_ELLIOTT_BAY_ENT￨E >￨D seattle￨R [ENT_NEARESTCITY_ENT￨R ].￨R ENT_GEORGE_F_DOT__MOORE__LP_LIEUTENANT_GOVERNOR_RP__ENT￨E >￨D seattle￨R [ENT_PLACEOFDEATH_ENT￨R ]￨S
+ENT_MEKONG_RIVER_COMMISSION_ENT￨E >￨D [￨S laos,￨R thailand,￨R cambodia,￨R vietnam]￨R [ENT_MEMBERSHIP_ENT￨R ]￨S
+ENT_KNOWNFOR_ENT￨E <￨D [￨S playboy,￨R playboy￨R cyber￨R club,￨R appearance]￨R [ENT_BREANN_MCGREGOR_ENT￨R ]￨S <￨D [￨S playboy,￨R playboy￨R cyber￨R club,￨R appearance]￨R [ENT_ANIKA_KNUDSEN_ENT￨R ]￨S
+ENT_CURRENTCLUB_ENT￨E <￨D ?x￨R [ENT_STEVE_HOLLAND__LP_FOOTBALLER_RP__ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D roman￨R abramovich￨R [ENT_OWNER_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D agaléga￨R [￨S ENT_BROADCASTAREA_ENT￨E <￨D [￨S mauritius,￨R rodrigues,￨R agaléga,￨R worldwide,￨R worldwide]￨R [￨S ENT__QUE_X_ENT￨E ]￨S ]￨S
+ENT_AUTO_SHANKAR__LP_FILM_RP__ENT￨E >￨D ?x￨R [ENT_STARRING_ENT￨R ].￨R ENT_BIRTHPLACE_ENT￨E <￨D [￨S mysore￨R state,￨R koteshwara,￨R kundapur￨R taluk,￨R mumbai,￨R tamil￨R nadu,￨R chembur,￨R mangalore,￨R bangalore]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_SOCCER_BOWL__APOS_76_ENT￨E >￨D seattle￨R [ENT_CITY_ENT￨R ].￨R ENT_BOUNDARY_DAM_ENT￨E >￨D seattle￨R [ENT_OWNER_ENT￨R ]￨S
+ENT_OPPONENT_ENT￨E <￨D ike￨R clanton￨R [￨S ENT_WYATT_EARP_ENT￨E >￨D billy￨R clanton￨R [￨S ENT_OPPONENT_ENT￨E ]￨S ]￨S
+ENT__QUE_X_ENT￨E >￨D phish￨R [ENT_ASSOCIATEDBAND_ENT￨R ].￨R ENT_SOUTH_PARK_ENT￨E >￨D ?x￨R [ENT_THEMEMUSICCOMPOSER_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D krasnye￨R vorota￨R (￨R moscow￨R metro)￨R [￨S ENT_SIGNIFICANTBUILDING_ENT￨E <￨D [￨S moscow,￨R kiev,￨R krasnye￨R vorota￨R (￨R moscow￨R metro),￨R moscow￨R metro,￨R government￨R building,￨R kiev]￨R [￨S ENT__QUE_X_ENT￨E >￨D architect￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S ]￨S
+ENT_PARENTCOMPANY_ENT￨E <￨D general￨R motors￨R [ENT_CHEVROLET_SPARK_ENT￨R ]￨S
+ENT_CHILD_ENT￨E <￨D augustus￨R [ENT_JULIUS_CAESAR_ENT￨R >￨D marcus￨R calpurnius￨R bibulus￨R [ENT_ASSOCIATE_ENT￨R ]￨S >￨D office￨R holder￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_CROSSES_ENT￨E <￨D zambezi￨R [ENT__QUE_X_ENT￨R >￨D mota-￨R engil￨R [ENT_BUILDER_ENT￨R ]￨S >￨D bridge￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_MATHURA–VADODARA_SECTION_ENT￨E >￨D vadodara￨R junction￨R railway￨R station￨R [ENT_ROUTEEND_ENT￨R ]￨S
+ENT_CHEERS_ENT￨E >￨D frasier￨R [ENT_SUBSEQUENTWORK_ENT￨R ]￨S >￨D gary￨R portnoy￨R [ENT_OPENINGTHEME_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_SWIMMING_AT_THE_2008_SUMMER_OLYMPICS_–_MEN_APOS_S_400_METRE_INDIVIDUAL_MEDLEY_ENT￨E >￨D ryan￨R lochte￨R [ENT_BRONZEMEDALIST_ENT￨R ]￨S
+ENT_ROUEN_BUSINESS_SCHOOL_ENT￨E >￨D normandy￨R [ENT_PROVINCE_ENT￨R ]￨S
+ENT_XYNISTERI_ENT￨E >￨D cyprus￨R [ENT_ORIGIN_ENT￨R <￨D cyprus￨R [ENT_MAVRO_ENT￨R ]]￨R
+ENT_PIXAR_ENT￨E >￨D pixar￨R image￨R computer￨R [ENT_PRODUCT_ENT￨R ]￨S
+ENT_DESTINATIONS_ENT￨E <￨D [￨S mediterranean￨R sea,￨R north￨R america]￨R [ENT_NOVAIR_INTERNATIONAL_AIRWAYS_ENT￨R ]￨S
+ENT_PRODUCT_ENT￨E <￨D microsoft￨R office￨R [ENT_APPLE_PRODUCTIVITY_EXPERIENCE_GROUP_ENT￨R ].￨R ENT_21VIANET_ENT￨E >￨D microsoft￨R office￨R [ENT_SERVICES_ENT￨R ]￨S
+ENT_VICEPRESIDENT_ENT￨E <￨D john￨R adams￨R [ENT_GEORGE_WASHINGTON_ENT￨R >￨D office￨R holder￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_HOUSES_ENT￨E <￨D rajya￨R sabha￨R [ENT_PARLIAMENT_OF_INDIA_ENT￨R ]￨S
+ENT_ASSOCIATEDBAND_ENT￨E <￨D blackstreet￨R [ENT_TEDDY_RILEY_ENT￨R ].￨R ENT_BEFORE_I_LET_YOU_GO_ENT￨E >￨D blackstreet￨R [ENT_MUSICALARTIST_ENT￨R ]￨S
+ENT_FORMERCHOREOGRAPHER_ENT￨E <￨D catarina￨R lindgren￨R [ENT__QUE_X_ENT￨R >￨D [￨S shawnee￨R smith,￨R brynn￨R carman,￨R andrea￨R poapst,￨R ivan￨R dimitrov￨R (figure￨R skater),￨R tiffany￨R vise,￨R stacey￨R pensgen,￨R ryan￨R bradley,￨R derek￨R trent,￨R laureano￨R ibarra]￨R [ENT_FORMERPARTNER_ENT￨R ]￨S >￨D figure￨R skater￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_COUNTRY_ENT￨E <￨D united￨R kingdom￨R [ENT_WALLINGTON_RAILWAY_STATION_ENT￨R ]￨S
+ENT_PULAU_UBIN_ENT￨E >￨D singapore￨R [ENT_LARGESTCITY_ENT￨R ].￨R ENT_CAPITAL_ENT￨E <￨D singapore￨R [ENT_PULAU_UJONG_ENT￨R ]￨S
+ENT_HOMEPORT_ENT￨E <￨D mumbai￨R [ENT_INS_VIRAAT__LP_R22_RP__ENT￨R ].￨R ENT_DAUND_JUNCTION_RAILWAY_STATION_ENT￨E >￨D mumbai￨R [ENT_SERVINGRAILWAYLINE_ENT￨R ]￨S
+ENT_MUSICALARTIST_ENT￨E <￨D robin￨R gibb￨R [ENT_OH_EXC__DARLING_ENT￨R ]￨S
+ENT_OPPONENT_ENT￨E <￨D ike￨R clanton￨R [ENT_WYATT_EARP_ENT￨R >￨D person￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_PURPOSE_ENT￨E <￨D peace￨R [ENT_[GREENPEACE_COMMA__INTERNATIONAL_PHYSICIANS_FOR_THE_PREVENTION_OF_NUCLEAR_WAR_COMMA__GREENPEACE_NORDIC_COMMA__CGNET_SWARA]_ENT￨R >￨D organisation￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_MONROE_CARELL_JR_DOT__CHILDREN_APOS_S_HOSPITAL_AT_VANDERBILT_ENT￨E >￨D vanderbilt￨R university￨R [ENT_AFFILIATION_ENT￨R <￨D vanderbilt￨R university￨R [ENT_VANDERBILT_UNIVERSITY_MEDICAL_CENTER_ENT￨R ]]￨R
+ENT_HARVEY_MILK_ENT￨E >￨D haight-￨R ashbury￨R [ENT_CONSTITUENCY_ENT￨R ]￨S >￨D office￨R holder￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_STADIUM_ENT￨E <￨D ?x￨R [ENT_COSTA_RICA_WOMEN_APOS_S_NATIONAL_FOOTBALL_TEAM_ENT￨R ].￨R ENT_BUILDER_ENT￨E <￨D china￨R [ENT__QUE_X_ENT￨R >￨D stadium￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_[ANITA_CARTER_COMMA__BOB_MCDILL_COMMA__BLAKE_CHANCEY_COMMA__BOBBY_BARE_COMMA__BILLY_JOE_SHAVER_COMMA__SAMMI_SMITH_COMMA__FRANKIE_MILLER_COMMA__SHOOTER_JENNINGS_COMMA__JESSE_DAYTON_COMMA__WILLIE_NELSON_COMMA__JESSI_COLTER_COMMA__RAY_WYLIE_HUBBARD_COMMA__TOMMY_ALLSUP_COMMA__DON_BOWMAN__LP_SINGER_RP__COMMA__RAY_PENNINGTON]_ENT￨E >￨D waylon￨R jennings￨R [ENT_ASSOCIATEDMUSICALARTIST_ENT￨R ]￨S >￨D musical￨R artist￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_RONALDINHO_ENT￨E >￨D brazil￨R national￨R under-23￨R football￨R team￨R [ENT_NATIONALTEAM_ENT￨R ]￨S
+ENT_BEŞIKTAŞ_JK__LP_WHEELCHAIR_BASKETBALL_RP__ENT￨E >￨D ?x￨R [ENT_PRESIDENT_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D [￨S university￨R of￨R florida,￨R turkey,￨R florida,￨R yıldız￨R technical￨R university,￨R istanbul,￨R united￨R states]￨R [ENT_ALMAMATER_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D oakland￨R athletics￨R [ENT_TENANT_ENT￨R ]￨S >￨D [￨S skidmore,￨R owings￨R &￨R merrill,￨R hntb,￨R tate￨R snyder￨R kimsey￨R architects,￨R r,￨R 360,￨R gensler,￨R populous￨R (company),￨R pittsburgh,￨R louis￨R d.￨R astorino,￨R fawley￨R bryant￨R architects]￨R [ENT_ARCHITECT_ENT￨R ]￨S >￨D stadium￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_JUNO_I_ENT￨E >￨D florida￨R [ENT_LAUNCHSITE_ENT￨R ].￨R ENT_2016_FORT_LAUDERDALE_STRIKERS_SEASON_ENT￨E >￨D florida￨R [ENT_GROUND_ENT￨R ]￨S
+ENT_2015_MLS_ALL_DASH_STAR_GAME_ENT￨E >￨D [￨S colorado,￨R commerce￨R city,￨R colorado]￨R [ENT_CITY_ENT￨R ]￨S
+ENT_CARROLL_E_DOT__LANIER_ENT￨E >￨D united￨R states￨R navy￨R [ENT_BRANCH_ENT￨R ]￨S
+ENT_OFFICIALLANGUAGE_ENT￨E <￨D [￨S latin,￨R english￨R language]￨R [ENT_LADONIA__LP_MICRONATION_RP__ENT￨R ]￨S <￨D [￨S latin,￨R english￨R language]￨R [ENT_EMPIRE_OF_ATLANTIUM_ENT￨R ]￨S
+ENT_SIRE_ENT￨E <￨D ?x￨R [ENT_TRIPLICATE_ENT￨R ].￨R ENT_HONOURS_ENT￨E <￨D [￨S kentucky,￨R national￨R museum￨R of￨R racing￨R and￨R hall￨R of￨R fame,￨R florence,￨R kentucky]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_KNOWNFOR_ENT￨E <￨D terminal￨R station￨R (￨R chattanooga)￨R [ENT__QUE_X_ENT￨R >￨D [￨S columbia￨R university,￨R yale￨R university,￨R école￨R nationale￨R supérieure￨R des￨R beaux-￨R arts]￨R [ENT_EDUCATION_ENT￨R ]￨S >￨D architect￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_1967_MEXICAN_GRAND_PRIX_ENT￨E >￨D [￨S team￨R lotus,￨R ford￨R motor￨R company]￨R [ENT_FIRSTTEAM_ENT￨R ]￨S
+ENT_XYNISTERI_ENT￨E >￨D cyprus￨R [ENT_ORIGIN_ENT￨R ]￨S
+ENT_DEION_SANDERS_ENT￨E >￨D [￨S new￨R york￨R yankees,￨R atlanta￨R falcons]￨R [ENT_DEBUTTEAM_ENT￨R ]￨S
+ENT_FIRSTDRIVER_ENT￨E <￨D damon￨R hill￨R [ENT__QUE_X_ENT￨R >￨D [￨S alain￨R prost,￨R rubens￨R barrichello,￨R damon￨R hill,￨R jean￨R alesi,￨R michael￨R schumacher,￨R gerhard￨R berger,￨R david￨R coulthard,￨R jacques￨R villeneuve,￨R mika￨R häkkinen]￨R [ENT_POLEDRIVER_ENT￨R ]￨S >￨D grand￨R prix￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_ARCHIPELAGO_ENT￨E <￨D the￨R bahamas￨R [ENT_SAN_SALVADOR_ISLAND_ENT￨R ]￨S
+ENT_DEVELOPER_ENT￨E <￨D charlie￨R chaplin￨R [ENT_MONTECITO_INN_ENT￨R ]￨S
+ENT_SCOTT_BERKUN_ENT￨E >￨D seattle￨R [ENT_RESIDENCE_ENT￨R <￨D seattle￨R [ENT_DENNIS_DECONCINI_ENT￨R ]]￨R
+ENT_HOMETOWN_ENT￨E <￨D ottawa￨R [ENT_KADY_O_APOS_MALLEY_ENT￨R ].￨R ENT_PERIANNE_JONES_ENT￨E >￨D ottawa￨R [ENT_CLUB_ENT￨R ]￨S
+ENT_JAMES_DEAN_ENT￨E >￨D fairmount,￨R indiana￨R [ENT_HOMETOWN_ENT￨R ]￨S >￨D person￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_BODYDISCOVERED_ENT￨E <￨D [￨S nebraska,￨R omaha,￨R nebraska,￨R westroads￨R mall]￨R [ENT__QUE_X_ENT￨R >￨D general￨R educational￨R development￨R [ENT_EDUCATION_ENT￨R ]]￨R
+ENT_CHINGA_CHANG_RECORDS_ENT￨E >￨D sony￨R [ENT_DISTRIBUTINGLABEL_ENT￨R <￨D sony￨R [ENT_STANDBY_RECORDS_ENT￨R ]]￨R
+ENT_THE_ROLLING_STONE_ALBUM_GUIDE_ENT￨E >￨D [￨S rolling￨R stone,￨R random￨R house,￨R simon￨R &￨R schuster]￨R [ENT_PUBLISHER_ENT￨R ]￨S
+ENT_RIVERMOUTH_ENT￨E <￨D hudson￨R river￨R [ENT_MOORDENER_KILL_ENT￨R ]￨S
+ENT_PARENTCOMPANY_ENT￨E <￨D ministry￨R of￨R finance￨R (￨R norway)￨R [ENT__QUE_X_ENT￨R >￨D [￨S american￨R express,￨R cresco￨R (company),￨R postbanken,￨R debt￨R collection]￨R [ENT_PRODUCTS_ENT￨R ]￨S >￨D bank￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_MOVEMENT_ENT￨E <￨D katharevousa￨R [ENT__QUE_X_ENT￨R >￨D nobel￨R prize￨R [ENT_AWARD_ENT￨R ]￨S >￨D writer￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_BOBBY_SKINSTAD_ENT￨E >￨D [￨S kwa￨R zulu-￨R natal,￨R pietermaritzburg,￨R hilton￨R college￨R (￨R south￨R africa),￨R south￨R africa]￨R [ENT_SCHOOL_ENT￨R ]￨S
+ENT_MUNICIPALITY_ENT￨E <￨D pittsburgh￨R [ENT_HOMESTEAD_GRAYS_BRIDGE_ENT￨R ]￨S
+ENT_AREA_ENT￨E <￨D [￨S north￨R carolina,￨R south￨R carolina,￨R virginia]￨R [ENT_TAR_HEEL_SPORTS_NETWORK_ENT￨R ]￨S
+ENT_SARAH_KAZEMY_ENT￨E >￨D [￨S paris,￨R france]￨R [ENT_RESIDENCE_ENT￨R ]￨S
+ENT_ORIGIN_ENT￨E <￨D texarkana,￨R texas￨R [ENT_PILOTDRIFT_ENT￨R >￨D band￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_SPOUSE_ENT￨E <￨D frédéric￨R joliot-￨R curie￨R [ENT__QUE_X_ENT￨R ].￨R ENT_[MARIE_CURIE_COMMA__PIERRE_CURIE]_ENT￨E >￨D ?x￨R [ENT_CHILDREN_ENT￨R ]￨S
+ENT_OCCUPATION_ENT￨E <￨D united￨R states￨R senate￨R [ENT_GEORGE_ARCENEAUX_COMMA__JR_DOT__ENT￨R ].￨R ENT_BLANCHE_BRUCE_ENT￨E >￨D united￨R states￨R senate￨R [ENT_OFFICE_ENT￨R ]￨S
+ENT_SPORT_ENT￨E <￨D [￨S association￨R football,￨R basketball,￨R chess,￨R handball,￨R sport￨R of￨R athletics,￨R cricket]￨R [ENT_VISHWAJYOT_HIGH_SCHOOL_ENT￨R ]￨S
+ENT_SPORT_ENT￨E <￨D [￨S chess,￨R throwball,￨R association￨R football,￨R hockey]￨R [ENT__QUE_X_ENT￨R >￨D fr.￨R almeida￨R [ENT_FOUNDER_ENT￨R ]￨S >￨D school￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_DIVISION_ENT￨E <￨D europe￨R [ENT_SERBIA_NATIONAL_AMERICAN_FOOTBALL_TEAM_ENT￨R ]￨S
+ENT_#TYPE_ENT￨E <￨D scientist￨R [ENT_JOHN_HERSCHEL_ENT￨R >￨D gold￨R medal￨R of￨R the￨R royal￨R astronomical￨R society￨R [ENT_PRIZES_ENT￨R ]￨S >￨D cape￨R town￨R [ENT_RESIDENCE_ENT￨R ]]￨R
+ENT_COVERARTIST_ENT￨E <￨D mark￨R twain￨R [ENT_THE_ADVENTURES_OF_TOM_SAWYER_ENT￨R ].￨R ENT_THE_APPLE_TREE_ENT￨E >￨D mark￨R twain￨R [ENT_BASEDON_ENT￨R ]￨S
+ENT_RECORDEDIN_ENT￨E <￨D michigan￨R [ENT_LIVE_IN_DETROIT_COMMA__MI_ENT￨R ].￨R ENT_BODHIN_KJOLHEDE_ENT￨E >￨D michigan￨R [ENT_PLACEOFBIRTH_ENT￨R ]￨S
+ENT_LABEL_ENT￨E <￨D [￨S brain,￨R metromedia,￨R repertoire￨R records,￨R sanctuary￨R records￨R group,￨R capitol￨R records,￨R brain￨R records,￨R gull,￨R gull￨R (record￨R label),￨R island￨R records,￨R united￨R artists￨R records,￨R metromedia]￨R [ENT__QUE_X_ENT￨R >￨D if￨R (band)￨R [ENT_ARTIST_ENT￨R ]]￨R
+ENT_EASY_STREET__LP_FILM_RP__ENT￨E >￨D charlie￨R chaplin￨R [ENT_EDITING_ENT￨R <￨D charlie￨R chaplin￨R [ENT_WORK__LP_FILM_RP__ENT￨R ]]￨R
+ENT_SPOUSE_ENT￨E <￨D ptolemy￨R xiv￨R of￨R egypt￨R [ENT_CLEOPATRA_ENT￨R >￨D royalty￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_PETER_GRIFFIN_ENT￨E >￨D vestigial￨R peter￨R [ENT_RELATIVE_ENT￨R ]￨S >￨D fictional￨R character￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_SPOUSE_ENT￨E <￨D susan￨R weber￨R soros￨R [ENT_GEORGE_SOROS_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D todd￨R huth￨R [ENT_FORMERBANDMEMBER_ENT￨R ].￨R ENT_SOUTH_PARK_ENT￨E >￨D ?x￨R [ENT_THEMEMUSICCOMPOSER_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_PANDARUAN_BRIDGE_ENT￨E >￨D malaysia￨R [ENT_MAINTAINEDBY_ENT￨R ].￨R ENT_COUNTRY_ENT￨E <￨D malaysia￨R [ENT_MALAYSIA_JUNIOR_HOCKEY_LEAGUE_ENT￨R ]￨S
+ENT_KNOWNFOR_ENT￨E <￨D philosophiæ￨R naturalis￨R principia￨R mathematica￨R [ENT_ISAAC_NEWTON_ENT￨R ]￨S
+ENT_KOREAN_PENINSULA_ENT￨E >￨D china￨R [ENT_BORDER_ENT￨R ].￨R ENT_COUNTRY_ENT￨E <￨D china￨R [ENT_SODAGREEN_ENT￨R ]￨S
+ENT_LITERARYGENRE_ENT￨E <￨D western￨R (genre)￨R [ENT_TRUE_GRIT__LP_NOVEL_RP__ENT￨R ]￨S
+ENT_GENE_CONLEY_ENT￨E >￨D boston￨R celtics￨R [ENT_DRAFTTEAM_ENT￨R ]￨S
+ENT_CHILD_ENT￨E <￨D ?x￨R [ENT_JACK_FERGUSON_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D [￨S julia￨R gillard,￨R kevin￨R rudd]￨R [ENT_PRIMEMINISTER_ENT￨R ]￨S
+ENT_HEADQUARTERS_ENT￨E <￨D stockholm￨R [ENT_[SVENSKA_DAGBLADET_COMMA__AFTONBLADET_COMMA__DAGENS_NYHETER_COMMA__FLAMMAN_COMMA__STOCKHOLMS_DAGBLAD_COMMA__EXPRESSEN_COMMA__POST_DASH__OCH_INRIKES_TIDNINGAR_COMMA__STOCKHOLMS_DASH_TIDNINGEN]_ENT￨R >￨D newspaper￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_GETTV_ENT￨E >￨D sony￨R [ENT_PARENTORGANISATION_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D the￨R bleeding￨R heart￨R band￨R [ENT_ASSOCIATEDBAND_ENT￨R ].￨R ENT_FORMERBANDMEMBER_ENT￨E <￨D ?x￨R [ENT_PINK_FLOYD_ENT￨R >￨D band￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_DEATHPLACE_ENT￨E <￨D [￨S nebraska,￨R hastings,￨R nebraska]￨R [ENT__QUE_X_ENT￨R >￨D elmer￨R burkett￨R [ENT_SUCCESSOR_ENT￨R ]￨S >￨D office￨R holder￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_BIRTHNAME_ENT￨E <￨D kabir￨R suman￨R [ENT__QUE_X_ENT￨R >￨D islam￨R [ENT_RELIGION_ENT￨R ]]￨R
+ENT_SUCCESSOR_ENT￨E <￨D samsu-iluna￨R [ENT_HAMMURABI_ENT￨R >￨D person￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_FOUNDEDBY_ENT￨E <￨D cnn￨R [ENT__QUE_X_ENT￨R >￨D time￨R warner￨R [ENT_OWNER_ENT￨R ]￨S >￨D broadcast￨R network￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_[GREENPEACE_COMMA__GREENPEACE_NORDIC]_ENT￨E >￨D peace￨R [￨S ENT_PURPOSE_ENT￨E <￨D environmentalism￨R [￨S ENT_[GREENPEACE_COMMA__GREENPEACE_NORDIC]_ENT￨E >￨D organisation￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S ]￨S
+ENT_EDITING_ENT￨E <￨D david￨R ian￨R salter￨R [ENT_[FINDING_NEMO_COMMA__THE_SPONGEBOB_MOVIE_COLON__SPONGE_OUT_OF_WATER_COMMA__ICE_AGE_COLON__CONTINENTAL_DRIFT]_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D bmw￨R m10￨R [ENT_PREDECESSOR_ENT￨R ].￨R ENT_SUCCESSOR_ENT￨E <￨D ?x￨R [ENT_BMW_M10_ENT￨R >￨D engine￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_SHINYA_AOKI_ENT￨E >￨D [￨S eddie￨R bravo,￨R yuki￨R nakai,￨R chatri￨R sityodtong]￨R [ENT_TRAINER_ENT￨R ]￨S
+ENT_STATE_ENT￨E <￨D massachusetts￨R [ENT_DORCHESTER_BAY__LP_BOSTON_HARBOR_RP__ENT￨R ]￨S
+ENT_COUNTRY_ENT￨E <￨D united￨R states￨R [ENT__QUE_X_ENT￨R ].￨R ENT_1429_ENT￨E >￨D ?x￨R [ENT_DISTRIBUTOR_ENT￨R ]￨S
+ENT_NATIONALITY_ENT￨E <￨D [￨S ukraine,￨R canada]￨R [ENT__QUE_X_ENT￨R >￨D birdman￨R enterprises￨R [ENT_INSTITUTION_ENT￨R ]￨S >￨D engineer￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_#TYPE_ENT￨E <￨D baseball￨R team￨R [ENT_LOS_ANGELES_DODGERS_ENT￨R >￨D guggenheim￨R partners￨R [ENT_OWNER_ENT￨R ]]￨R
+ENT_BATMAN_LIVE_ENT￨E >￨D [￨S batman,￨R catwoman,￨R alfred￨R pennyworth,￨R james￨R gordon￨R (comics),￨R harley￨R quinn,￨R penguin￨R (comics),￨R riddler,￨R scarecrow￨R (dc￨R comics),￨R two-￨R face,￨R joker￨R (comics),￨R poison￨R ivy￨R (comics),￨R robin￨R (comics)]￨R [ENT_CHARACTERS_ENT￨R ]￨S
+ENT_PARENTMOUNTAINPEAK_ENT￨E <￨D rochers￨R de￨R naye￨R [ENT__QUE_X_ENT￨R >￨D [￨S swiss￨R alps,￨R bernese￨R alps]￨R [ENT_MOUNTAINRANGE_ENT￨R ]]￨R
+ENT_HEADQUARTERS_ENT￨E <￨D gatwick￨R airport￨R [ENT__QUE_X_ENT￨R >￨D [￨S continental￨R europe,￨R british￨R isles,￨R united￨R states,￨R canada,￨R europe,￨R africa,￨R mediterranean￨R sea,￨R north￨R america]￨R [ENT_DESTINATION_ENT￨R ]￨S >￨D airline￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_REV__LP_DRINK_RP__ENT￨E >￨D bacardi￨R [ENT_DISTRIBUTOR_ENT￨R ]￨S
+ENT_A_HOUSE_NOT_MEANT_TO_STAND_ENT￨E >￨D tennessee￨R williams￨R [ENT_WRITER_ENT￨R <￨D tennessee￨R williams￨R [ENT_AKALE_ENT￨R ]]￨R
+ENT_FORMERTEAM_ENT￨E <￨D [￨S new￨R york￨R giants,￨R philadelphia￨R eagles,￨R pittsburgh￨R steelers]￨R [ENT_CARLOS_EMMONS__LP_AMERICAN_FOOTBALL_RP__ENT￨R ]￨S
+ENT_SUBJECT_ENT￨E <￨D paul￨R broca￨R [￨S ENT__QUE_X_ENT￨E >￨D [￨S outline￨R of￨R space￨R science,￨R paul￨R broca,￨R brain,￨R intellect]￨R [￨S ENT_SUBJECT_ENT￨E ]￨S >￨D book￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S
+ENT_LENA_RIVER_ENT￨E >￨D baikal￨R mountains￨R [ENT_SOURCEMOUNTAIN_ENT￨R ]￨S >￨D arctic￨R ocean￨R [ENT_MOUTHLOCATION_ENT￨R ]￨S >￨D river￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_BROADCASTNETWORK_ENT￨E <￨D scola￨R (tv￨R service)￨R [ENT__QUE_X_ENT￨R >￨D miami￨R [ENT_CITY_ENT￨R ]￨S >￨D television￨R station￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_HONOURS_ENT￨E <￨D [￨S national￨R museum￨R of￨R racing￨R and￨R hall￨R of￨R fame,￨R kentucky,￨R florence,￨R kentucky,￨R blood-￨R horse￨R magazine￨R list￨R of￨R the￨R top￨R 100￨R u.s.￨R racehorses￨R of￨R the￨R 20th￨R century,￨R virginia￨R thoroughbred￨R association￨R hall￨R of￨R fame,￨R hawthorne￨R race￨R course]￨R [ENT__QUE_X_ENT￨R >￨D willis￨R sharpe￨R kilmer￨R [ENT_BREEDER_ENT￨R ]￨S >￨D race￨R horse￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_SCREENPLAY_ENT￨E <￨D daniel￨R waters￨R (screenwriter)￨R [ENT_[BATMAN_RETURNS_COMMA__DEMOLITION_MAN__LP_FILM_RP__COMMA__HUDSON_HAWK_COMMA__THE_ADVENTURES_OF_FORD_FAIRLANE]_ENT￨R >￨D film￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_[BABYLON_5_COMMA__INCIDENT_IN_JUDAEA]_ENT￨E >￨D jason￨R carter￨R (actor)￨R [ENT_STARRING_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_CHILD_ENT￨E <￨D edith￨R vonnegut￨R [ENT_KURT_VONNEGUT_ENT￨R >￨D writer￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_ASSOCIATEDBAND_ENT￨E <￨D the￨R smiths￨R [ENT_MORRISSEY_ENT￨R ]￨S
+ENT_PARTY_ENT￨E <￨D malaysian￨R chinese￨R association￨R [ENT__QUE_X_ENT￨R >￨D [￨S buddhism,￨R christianity,￨R anglicanism,￨R confucianism,￨R gautama￨R buddha,￨R christian,￨R methodism,￨R islam]￨R [ENT_RELIGION_ENT￨R ]￨S >￨D politician￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_MUMBAI_VADODARA_EXPRESSWAY_ENT￨E >￨D mumbai￨R [ENT_ROUTEEND_ENT￨R ].￨R ENT_VADODARA_JUNCTION_RAILWAY_STATION_ENT￨E >￨D mumbai￨R [ENT_LINE_ENT￨R ]￨S
+ENT_ARCHIPELAGO_ENT￨E <￨D canary￨R islands￨R [ENT_[FUERTEVENTURA_COMMA__LA_GOMERA_COMMA__EL_HIERRO_COMMA__LA_PALMA_COMMA__LANZAROTE_COMMA__LOBOS_ISLAND_COMMA__GRACIOSA_COMMA__CANARY_ISLANDS]_ENT￨R ]￨S
+ENT_LOCATION_ENT￨E <￨D ?x￨R [ENT_UFC_140_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D [￨S toronto￨R rock,￨R toronto￨R phantoms,￨R raptors￨R 905,￨R toronto￨R maple￨R leafs,￨R toronto￨R raptors,￨R toronto￨R marlies]￨R [ENT_TENANT_ENT￨R ]￨S >￨D stadium￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_PIXAR_ENT￨E >￨D ?x￨R [ENT_KEYPEOPLE_ENT￨R ].￨R ENT_AWARD_ENT￨E <￨D [￨S academy￨R awards,￨R ieee￨R john￨R von￨R neumann￨R medal,￨R computer￨R history￨R museum]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_SOURCEREGION_ENT￨E <￨D wyoming￨R [ENT_[MISSOURI_RIVER_COMMA__POWDER_RIVER__LP_WYOMING_AND_MONTANA_RP__COMMA__LITTLE_POWDER_RIVER]_ENT￨R ]￨S
+ENT_CITY_ENT￨E <￨D [￨S tukwila,￨R washington,￨R seattle]￨R [ENT_DUWAMISH_RIVER_ENT￨R ]￨S
+ENT_CHEASTY_BOULEVARD_SOUTH_ENT￨E >￨D seattle￨R [ENT_MAINTAINEDBY_ENT￨R ].￨R ENT_COUNTYSEAT_ENT￨E <￨D seattle￨R [ENT_KING_COUNTY_COMMA__WASHINGTON_ENT￨R ]￨S
+ENT_PHILADELPHIA_ENT￨E >￨D philadelphia￨R city￨R council￨R [ENT_GOVERNINGBODY_ENT￨R ]￨S
+ENT_AFFILIATIONS_ENT￨E <￨D kaplan,￨R inc.￨R [ENT_KAPLAN_UNIVERSITY_ENT￨R >￨D educational￨R institution￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_NATIONALTEAM_ENT￨E <￨D united￨R states￨R men's￨R national￨R soccer￨R team￨R [ENT__QUE_X_ENT￨R >￨D philadelphia￨R phillies￨R [ENT_DEBUTTEAM_ENT￨R ]]￨R
+ENT_MARTIN_PROCHÁZKA_ENT￨E >￨D toronto￨R maple￨R leafs￨R [ENT_FORMERTEAM_ENT￨R <￨D toronto￨R maple￨R leafs￨R [ENT_GARRY_UNGER_ENT￨R ]]￨R
+ENT_LILLIAN_DISNEY_ENT￨E >￨D ?x￨R [ENT_SPOUSE_ENT￨R ].￨R ENT_AWARD_ENT￨E <￨D [￨S academy￨R awards,￨R golden￨R globe￨R cecil￨R b.￨R de￨R mille￨R award,￨R emmy￨R award]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_BATTLE_ENT￨E <￨D occupation￨R of￨R japan￨R [ENT__QUE_X_ENT￨R ].￨R ENT_KNOWNFOR_ENT￨E <￨D ?x￨R [ENT_[ERNEST_LAWRENCE_COMMA__VANNEVAR_BUSH_COMMA__CHIEN_DASH_SHIUNG_WU_COMMA__PHILIP_BURTON_MOON_COMMA__JAMES_CHADWICK_COMMA__GEORGE_KISTIAKOWSKY_COMMA__SAMUEL_KING_ALLISON_COMMA__ALVIN_M_DOT__WEINBERG_COMMA__PRISCILLA_DUFFIELD_COMMA__ROBERT_BACHER_COMMA__DOROTHY_MCKIBBIN_COMMA__WILLIAM_G_DOT__POLLARD_COMMA__ROBERT_E_DOT__SHERIFF_COMMA__GEORGE_COWAN_COMMA__CHARLES_CRITCHFIELD]_ENT￨R ]￨S
+ENT_LOCATION_ENT￨E <￨D mumbai￨R [ENT_EKA_LAGNACHI_TEESRI_GOSHTA_ENT￨R ].￨R ENT_PLACEOFBIRTH_ENT￨E <￨D mumbai￨R [ENT_VIJAY_CHAVAN_ENT￨R ]￨S
+ENT_RIVER_THAMES_ENT￨E >￨D gloucestershire￨R [ENT_SOURCEPLACE_ENT￨R ]￨S >￨D north￨R sea￨R [ENT_RIVERMOUTH_ENT￨R ]￨S >￨D river￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_ALI_HABIB_MAHMUD_ENT￨E >￨D [￨S yom￨R kippur￨R war,￨R gulf￨R war,￨R lebanese￨R civil￨R war]￨R [ENT_BATTLES_ENT￨R ]￨S
+ENT_IDEOLOGY_ENT￨E <￨D [￨S buddhism,￨R royalist,￨R liberalism]￨R [ENT_UNION_OF_CAMBODIAN_DEMOCRATS_ENT￨R ]￨S
+ENT_MARK_TWAIN_TONIGHT_ENT￨E >￨D [￨S hal￨R holbrook,￨R mark￨R twain]￨R [ENT_WRITER_ENT￨R ]￨S
+ENT_AUSTRALIA_AT_THE_2008_SUMMER_OLYMPICS_ENT￨E >￨D [￨S james￨R tomkins￨R (rower),￨R stephanie￨R rice]￨R [ENT_FLAGBEARER_ENT￨R ]￨S
+ENT_SHIRLEY_TEMPLE_ENT￨E >￨D lori￨R black￨R [ENT_CHILDREN_ENT￨R ]￨S >￨D henry￨R e.￨R catto,￨R jr.￨R [ENT_PREDECESSOR_ENT￨R ]￨S >￨D office￨R holder￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_FOUNDER_ENT￨E <￨D ?x￨R [ENT_EMEL__LP_MAGAZINE_RP__ENT￨R ].￨R ENT_RELIGION_ENT￨E <￨D islam￨R [ENT__QUE_X_ENT￨R >￨D person￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_SAN_MARCOS_RIVER_ENT￨E >￨D ?x￨R [ENT_SOURCEMOUNTAIN_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D new￨R york￨R city￨R [ENT_LARGESTCITY_ENT￨R ]￨S >￨D country￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_FOUNDER_ENT￨E <￨D frank￨R rogers￨R (record￨R producer)￨R [￨S ENT__QUE_X_ENT￨E >￨D [￨S frank￨R rogers￨R (record￨R producer),￨R brad￨R paisley,￨R chris￨R du￨R bois]￨R [￨S ENT_FOUNDER_ENT￨E ]￨S >￨D record￨R label￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S
+ENT_50445_ENT￨E >￨D chordate￨R [ENT_PHYLUM_ENT￨R ]￨S
+ENT_KINGSLEY_WOOD_ENT￨E >￨D ?x￨R [ENT_SUCCESSOR_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D [￨S neville￨R chamberlain,￨R ramsay￨R mac￨R donald,￨R stanley￨R baldwin,￨R anthony￨R eden,￨R winston￨R churchill,￨R winston￨R churchill,￨R stanley￨R baldwin]￨R [ENT_PRIMEMINISTER_ENT￨R ]￨S
+ENT_BEST_MATE_ENT￨E >￨D cheltenham￨R gold￨R cup￨R [ENT_RACE_ENT￨R <￨D cheltenham￨R gold￨R cup￨R [ENT_MARTIN_MOLONY_ENT￨R ]]￨R
+ENT_ROUTESTART_ENT￨E <￨D [￨S moscow,￨R moscow￨R passazhirskaya￨R railway￨R station]￨R [ENT_SAINT_PETERSBURG_–_MOSCOW_RAILWAY_ENT￨R ]￨S
+ENT_AFFILIATION_ENT￨E <￨D buddhism￨R [ENT_ŌTANI_UNIVERSITY_ENT￨R ]￨S
+ENT_RELATION_ENT￨E <￨D heinrich￨R himmler￨R [ENT_HEINZ_KOKOTT_ENT￨R ]￨S
+ENT_HOSTCITY_ENT￨E <￨D tahiti￨R [ENT_1995_SOUTH_PACIFIC_GAMES_ENT￨R ]￨S
+ENT_THE_ELDERS__LP_ORGANIZATION_RP__ENT￨E >￨D [￨S gro￨R harlem￨R brundtland,￨R kofi￨R annan,￨R nelson￨R mandela,￨R lesley-￨R anne￨R knight]￨R [ENT_KEYPEOPLE_ENT￨R ]￨S
+ENT_CAPITAL_ENT￨E <￨D singapore￨R [ENT_PULAU_UBIN_ENT￨R ].￨R ENT_NICOLE_LAI_ENT￨E >￨D singapore￨R [ENT_RESTINGPLACE_ENT￨R ]￨S
+ENT_2015_FORT_LAUDERDALE_STRIKERS_SEASON_ENT￨E >￨D [￨S lockhart￨R stadium,￨R florida,￨R fort￨R lauderdale,￨R florida]￨R [ENT_GROUND_ENT￨R ]￨S
+ENT_COMMANDER_ENT￨E <￨D arthur￨R st.￨R clair￨R [ENT__QUE_X_ENT￨R >￨D [￨S choctaw,￨R chickasaw,￨R western￨R confederacy,￨R great￨R britain￨R ,￨R 1,￨R thirteen￨R colonies,￨R province￨R of￨R quebec]￨R [ENT_COMBATANT_ENT￨R ]]￨R
+ENT_LOCATION_ENT￨E <￨D [￨S washington￨R (state),￨R seattle]￨R [ENT_DZOGCHEN_PONLOP_RINPOCHE_ENT￨R ]￨S
+ENT_JULIUS_CAESAR_ENT￨E >￨D lucius￨R cornelius￨R lentulus￨R crus￨R [ENT_PREDECESSOR_ENT￨R ]￨S >￨D office￨R holder￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_NOTABLEWORK_ENT￨E <￨D adventures￨R of￨R huckleberry￨R finn￨R [￨S ENT_[ZHANG_YOUSONG_COMMA__MARK_TWAIN]_ENT￨E >￨D the￨R adventures￨R of￨R tom￨R sawyer￨R [￨S ENT_NOTABLEWORK_ENT￨E ]￨S >￨D writer￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S
+ENT_RELATIVES_ENT￨E <￨D clan￨R mc￨R duck￨R [￨S ENT_DONALD_DUCK_ENT￨E >￨D huey,￨R dewey,￨R and￨R louie￨R [￨S ENT_RELATIVES_ENT￨E ]￨S ]￨S
+ENT_COUNTIES_ENT￨E <￨D the￨R bronx￨R [ENT_TREMONT_AVENUE_ENT￨R ]￨S
+ENT_DEPUTY_ENT￨E <￨D robert￨R t.￨R herres￨R [ENT__QUE_X_ENT￨R ].￨R ENT_COMMANDER_ENT￨E <￨D ?x￨R [ENT_[CRUISE_MISSILE_STRIKES_ON_IRAQ__LP_1993_RP__COMMA__AIR_ENGAGEMENTS_OF_THE_GULF_WAR_COMMA__GULF_WAR_COMMA__LIBERATION_OF_KUWAIT_CAMPAIGN_COMMA__GULF_WAR_AIR_CAMPAIGN]_ENT￨R >￨D military￨R conflict￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_VENUE_ENT￨E <￨D ?x￨R [ENT_HISTORY_OF_PENNY_ARCADE_EXPO_ENT￨R ].￨R ENT_ADDRESS_ENT￨E <￨D [1900,￨R seattle,￨R 800,￨R seattle,￨R 415,￨R usa,￨R boston]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_FOUNDER_ENT￨E <￨D george￨R washington￨R [￨S ENT_PITTSBURGH_ENT￨E >￨D john￨R forbes￨R (￨R british￨R army￨R officer)￨R [￨S ENT_FOUNDER_ENT￨E ]￨S >￨D city￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S
+ENT_SONNY_BILL_WILLIAMS_ENT￨E >￨D canterbury-￨R bankstown￨R bulldogs￨R [ENT_CLUB_ENT￨R ]￨S
+ENT_NOMINEE_ENT￨E <￨D united￨R states￨R senate￨R [ENT_JACK_RYAN__LP_POLITICIAN_RP__ENT￨R ].￨R ENT_OMAR_D_DOT__CONGER_ENT￨E >￨D united￨R states￨R senate￨R [ENT_ORDER_ENT￨R ]￨S
+ENT_2006–07_MIDDLESBROUGH_F_DOT_C_DOT__SEASON_ENT￨E >￨D gareth￨R southgate￨R [ENT_MANAGER_ENT￨R ].￨R ENT_COACH_ENT￨E <￨D gareth￨R southgate￨R [ENT_ENGLAND_NATIONAL_UNDER_DASH_21_FOOTBALL_TEAM_ENT￨R ]￨S
+ENT_RELIGIOUSAFFILIATION_ENT￨E <￨D buddhism￨R [ENT_WICKRAMABAHU_CENTRAL_COLLEGE__LP_NATIONAL_SCHOOL_RP__ENT￨R ]￨S <￨D buddhism￨R [ENT_NEUNGIN_HIGH_SCHOOL_ENT￨R ]￨S
+ENT_JOSEPH_CLAY__LP_GEORGIA_RP__ENT￨E >￨D george￨R washington￨R [ENT_APPOINTER_ENT￨R ].￨R ENT_KEYPEOPLE_ENT￨E <￨D george￨R washington￨R [ENT_MARYLAND_JOCKEY_CLUB_ENT￨R ]￨S
+ENT_WRITER_ENT￨E <￨D [￨S neil￨R gaiman,￨R dirk￨R maggs]￨R [ENT_NEVERWHERE__LP_RADIO_PLAY_RP__ENT￨R ]￨S
+ENT_COVERARTIST_ENT￨E <￨D mark￨R twain￨R [ENT_THE_ADVENTURES_OF_TOM_SAWYER_ENT￨R ].￨R ENT_MARK_TWAIN_TONIGHT_ENT￨E >￨D mark￨R twain￨R [ENT_WRITER_ENT￨R ]￨S
+ENT_LIVERPOOL_CITY_REGION_ENT￨E >￨D [￨S liverpool,￨R metropolitan￨R borough￨R of￨R knowsley,￨R metropolitan￨R borough￨R of￨R sefton,￨R metropolitan￨R borough￨R of￨R wirral,￨R borough￨R of￨R halton,￨R metropolitan￨R borough￨R of￨R st￨R helens]￨R [ENT_PART_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D benjamin￨R spock￨R [ENT_OPPONENT_ENT￨R ]￨S >￨D richard￨R nixon￨R [ENT_INCUMBENT_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D ted￨R osborne￨R [ENT_CREATOR_ENT￨R ].￨R ENT_RELATIVES_ENT￨E <￨D ?x￨R [ENT_[LUDWIG_VON_DRAKE_COMMA__SCROOGE_MCDUCK_COMMA__DONALD_DUCK]_ENT￨R >￨D fictional￨R character￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_SPECIES_ENT￨E <￨D human￨R [ENT_102_ENT￨R >￨D fictional￨R character￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_BINOMIALAUTHORITY_ENT￨E <￨D [￨S azerbaijan,￨R kura￨R river,￨R transcaucasia,￨R édouard￨R ménétries,￨R sal'yana]￨R [ENT_MENETRIES_APOS_S_WARBLER_ENT￨R ]￨S
+ENT_SOUTH_PARK_ENT￨E >￨D mona￨R marshall￨R [ENT_VOICES_ENT￨R ]￨S >￨D comedy￨R central￨R [ENT_DISTRIBUTOR_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_PLACEOFBIRTH_ENT￨E <￨D chicago￨R [ENT_ARTHUR_A_DOT__ROSS_ENT￨R ].￨R ENT_BIRTHPLACE_ENT￨E <￨D chicago￨R [ENT_EDWARD_NIESEN_ENT￨R ]￨S
+ENT_#TYPE_ENT￨E <￨D bank￨R [ENT__QUE_X_ENT￨R >￨D 731￨R lexington￨R avenue￨R [ENT_LOCATIONCITY_ENT￨R ]￨S >￨D michael￨R bloomberg￨R [ENT_OWNER_ENT￨R ]]￨R
+ENT_DOMAIN_ENT￨E <￨D bacteria￨R [ENT_BACILLUS_ENT￨R ]￨S
+ENT_RELIGIOUSAFFILIATION_ENT￨E <￨D islam￨R [ENT_MAZHAR_UL_HAQ_HIGH_SCHOOL_COMMA__BEERWAH_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D desilu￨R productions￨R [ENT_PREDECESSOR_ENT￨R ].￨R ENT_COMPANY_ENT￨E <￨D ?x￨R [ENT_203_ENT￨R >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_MOTTO_ENT￨E <￨D latin￨R [ENT_AMERICAN_CLASSICAL_LEAGUE_ENT￨R ].￨R ENT_PROBUS__LP_JOURNAL_RP__ENT￨E >￨D latin￨R [ENT_ACADEMICDISCIPLINE_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D cheers￨R [ENT_ALBUM_ENT￨R ].￨R ENT_CHEERS_ENT￨E >￨D ?x￨R [ENT_OPENINGTHEME_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_SPECIES_ENT￨E <￨D lion￨R [ENT_LIGER_ENT￨R ]￨S
+ENT_CURRENTTEAM_ENT￨E <￨D michigan￨R wolverines￨R [ENT_JIM_HARBAUGH_ENT￨R >￨D indianapolis￨R colts￨R [ENT_FORMERTEAM_ENT￨R ]￨S >￨D american￨R football￨R player￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT__QUE_X_ENT￨E >￨D rancho￨R cucamonga,￨R california￨R [￨S ENT_LOCATIONCOUNTRY_ENT￨E <￨D [￨S north￨R america,￨R united￨R states,￨R japan,￨R rancho￨R cucamonga,￨R california]￨R [￨S ENT__QUE_X_ENT￨E >￨D company￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S ]￨S
+ENT_NEARESTCITY_ENT￨E <￨D [￨S hawaii,￨R kauai]￨R [ENT_NIHOA_ENT￨R ]￨S
+ENT_LANGUAGE_INTEGRATED_QUERY_ENT￨E >￨D microsoft￨R [ENT_DESIGNER_ENT￨R <￨D microsoft￨R [ENT_MICROSOFT_BASIC_ENT￨R ]]￨R
+ENT__QUE_X_ENT￨E >￨D edsel￨R ranger￨R [ENT_PRODUCTS_ENT￨R ]￨S >￨D ford￨R motor￨R company￨R [ENT_PARENT_ENT￨R ]￨S
+ENT_ASSEMBLY_ENT￨E <￨D north￨R america￨R [ENT_CATERPILLAR_797_ENT￨R ]￨S
+ENT_NICKNAME_ENT￨E <￨D lion￨R [ENT_LYONS_TOWNSHIP_HIGH_SCHOOL_ENT￨R ]￨S <￨D lion￨R [ENT_WHEATON_COLLEGE__LP_MASSACHUSETTS_RP__ENT￨R ]￨S
+ENT_PARTY_ENT￨E <￨D ?x￨R [ENT_BOONCHU_ROJANASTIEN_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D [￨S classical￨R liberalism,￨R conservative￨R liberalism,￨R constitutional￨R monarchy,￨R liberal￨R conservatism,￨R economic￨R liberalism,￨R progressivism,￨R buddhism,￨R political￨R corruption]￨R [ENT_IDEOLOGY_ENT￨R ]￨S
+ENT_[NEIL_ARMSTRONG_COMMA__DAVID_SCOTT]_ENT￨E >￨D nasa￨R [ENT_TYPE_ENT￨R ]￨S >￨D gemini￨R 8￨R [ENT_MISSION_ENT￨R ]￨S >￨D astronaut￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_REGION_ENT￨E <￨D north￨R america￨R [ENT_KIM_SAWCHUK_ENT￨R ].￨R ENT_AIRTOURS_INTERNATIONAL_AIRWAYS_ENT￨E >￨D north￨R america￨R [ENT_DESTINATIONS_ENT￨R ]￨S
+ENT_KARAKURI_DÔJI_ULTIMO_ENT￨E >￨D stan￨R lee￨R [ENT_AUTHOR_ENT￨R ].￨R ENT_THE_INCREDIBLE_HULK__LP_1982_TV_SERIES_RP__ENT￨E >￨D stan￨R lee￨R [ENT_NARRATED_ENT￨R ]￨S
+ENT_UNITED_WORLD_COLLEGE_OF_COSTA_RICA_ENT￨E >￨D [￨S queen￨R noor￨R of￨R jordan,￨R nelson￨R mandela]￨R [ENT_PRESIDENT_ENT￨R ]￨S
+ENT_DEATHPLACE_ENT￨E <￨D mc￨R lean￨R hospital￨R [ENT__QUE_X_ENT￨R >￨D [￨S maine,￨R mount￨R hope￨R cemetery￨R (￨R bangor,￨R maine)]￨R [ENT_RESTINGPLACE_ENT￨R ]￨S >￨D congressman￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_MARY_POPPINS__LP_MUSICAL_RP__ENT￨E >￨D julian￨R fellowes￨R [ENT_AUTHOR_ENT￨R ]￨S
+ENT_FOUNDER_ENT￨E <￨D jann￨R wenner￨R [ENT_[ROLLING_STONE_COMMA__MEN_APOS_S_JOURNAL]_ENT￨R >￨D magazine￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_SERVINGRAILWAYLINE_ENT￨E <￨D [￨S krasnodar,￨R sochi,￨R moscow]￨R [ENT__QUE_X_ENT￨R >￨D north￨R caucasus￨R railway￨R [ENT_TYPE_ENT￨R ]￨S >￨D station￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_ALLEGIANCE_ENT￨E <￨D ghana￨R [ENT_PETER_BLAY_ENT￨R ]￨S
+ENT_COMMANDER_ENT￨E <￨D jaber￨R al-￨R ahmad￨R al-￨R sabah￨R [ENT_GULF_WAR_ENT￨R >￨D israel￨R [ENT_PLACE_ENT￨R ]￨S >￨D military￨R conflict￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_CHARLES_EDWARD_MAGOON_ENT￨E >￨D [￨S lincoln,￨R nebraska,￨R nebraska,￨R wyuka￨R cemetery]￨R [ENT_RESTINGPLACE_ENT￨R ]￨S
+ENT_PASTMEMBERS_ENT￨E <￨D joe￨R jonas￨R [ENT_JONAS_BROTHERS_ENT￨R >￨D kevin￨R jonas￨R [ENT_FORMERBANDMEMBER_ENT￨R ]￨S >￨D band￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_COACH_ENT￨E <￨D louis￨R dunbar￨R [ENT_HARLEM_GLOBETROTTERS_ENT￨R >￨D basketball￨R team￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_SUCCESSOR_ENT￨E <￨D ?x￨R [ENT_SAMUEL_HAYES__LP_SETTLER_RP__ENT￨R ].￨R ENT_RESTINGPLACE_ENT￨E <￨D [￨S connecticut,￨R ridgefield,￨R connecticut]￨R [ENT__QUE_X_ENT￨R >￨D politician￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_COLLEGE_ENT￨E <￨D brockport￨R golden￨R eagles￨R [ENT__QUE_X_ENT￨R ].￨R ENT_PRESIDENT_ENT￨E <￨D ?x￨R [ENT_DETROIT_PISTONS_ENT￨R >￨D basketball￨R team￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_THOMAS_SECUNDA_ENT￨E >￨D ?x￨R [ENT_OCCUPATION_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D michael￨R bloomberg￨R [ENT_OWNER_ENT￨R ]￨S >￨D bank￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_REGION_ENT￨E <￨D [￨S north￨R america,￨R shetland,￨R new￨R york￨R city]￨R [ENT__QUE_X_ENT￨R >￨D quick￨R bread￨R [ENT_TYPE_ENT￨R ]]￨R
+ENT_CAPITAL_ENT￨E <￨D nicomedia￨R [￨S ENT_ROMAN_EMPIRE_ENT￨E >￨D history￨R of￨R trier￨R [￨S ENT_CAPITAL_ENT￨E ]￨S >￨D country￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S
+ENT_TARGETAIRPORT_ENT￨E <￨D gimhae￨R international￨R airport￨R [ENT_[ASIANA_AIRLINES_COMMA__KOREAN_AIR_COMMA__YEONGNAM_AIR_COMMA__AIR_BUSAN]_ENT￨R ]￨S
+ENT_AREA_ENT￨E <￨D philippines￨R [ENT_RADIO_PHILIPPINES_NETWORK_ENT￨R ]￨S
+ENT_INSTRUMENT_ENT￨E <￨D saxophone￨R [ENT_GIBBY_HAYNES_ENT￨R ]￨S
+ENT_EDMUND_JOHN_ENT￨E >￨D united￨R kingdom￨R [ENT_CITIZENSHIP_ENT￨R <￨D united￨R kingdom￨R [ENT_SAIMA_CHOWDHURY_ENT￨R ]]￨R
+ENT_I_PRAY_ON_CHRISTMAS_ENT￨E >￨D sony￨R [ENT_LABEL_ENT￨R ].￨R ENT_GETTV_ENT￨E >￨D sony￨R [ENT_PARENTORGANISATION_ENT￨R ]￨S
+ENT_TITLE_ENT￨E <￨D [￨S miss￨R spain￨R 2008,￨R madrid,￨R miss￨R españa￨R universo]￨R [ENT_CLAUDIA_MORO_ENT￨R ]￨S
+ENT_CHANNEL_ENT￨E <￨D fox￨R broadcasting￨R company￨R [ENT_160_ENT￨R >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_KNOWNFOR_ENT￨E <￨D seven￨R springs￨R mountain￨R resort￨R [ENT__QUE_X_ENT￨R ].￨R ENT_PITTSBURGH_PIRATES_ENT￨E >￨D ?x￨R [ENT_OWNER_ENT￨R ]￨S
+ENT_FOCKE_DASH_WULF_FW_260_ENT￨E >￨D west￨R germany￨R [ENT_NATIONALORIGIN_ENT￨R ]￨S
+ENT_METRO_TRANSIT__LP_MINNESOTA_RP__ENT￨E >￨D [￨S minnesota,￨R minneapolis]￨R [ENT_HEADQUARTERS_ENT￨R ]￨S
+ENT_ROBERT_KOCH_ENT￨E >￨D georg￨R meissner￨R [ENT_DOCTORALADVISOR_ENT￨R ]￨S >￨D scientist￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_SUCCESSOR_ENT￨E <￨D dragimir￨R of￨R travunia￨R and￨R zachlumia￨R [ENT__QUE_X_ENT￨R >￨D [￨S albania,￨R elbasan,￨R monastery￨R of￨R st￨R jovan￨R vladimir]￨R [ENT_MAJORSHRINE_ENT￨R ]￨S >￨D monarch￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_CORRINGHAM_RAILWAY_STATION_ENT￨E >￨D essex￨R [ENT_BOROUGH_ENT￨R ].￨R ENT_LOCALAUTHORITY_ENT￨E <￨D essex￨R [ENT_BUCKHURST_HILL_COUNTY_HIGH_SCHOOL_ENT￨R ]￨S
+ENT_JAMES_CHADWICK_ENT￨E >￨D charles￨R drummond￨R ellis￨R [ENT_DOCTORALSTUDENT_ENT￨R ]￨S
+ENT_KAULAHEA_I_ENT￨E >￨D ?x￨R [ENT_SUCCESSOR_ENT￨R ].￨R ENT_TITLE_ENT￨E <￨D [￨S alii￨R nui￨R of￨R maui,￨R maui,￨R moʻi￨R of￨R maui]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_SPECIES_ENT￨E <￨D lion￨R [ENT_SOUTHWEST_AFRICAN_LION_ENT￨R ]￨S
+ENT_FRANK_STEUNENBERG_ENT￨E >￨D ?x￨R [ENT_LIEUTENANT_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D [￨S seattle,￨R san￨R francisco]￨R [ENT_PLACEOFDEATH_ENT￨R ]￨S
+ENT_COLORADO_ENT￨E >￨D denver￨R [ENT_LARGESTCITY_ENT￨R ]￨S
+ENT_[NORA_FRIES_COMMA__HARLEY_QUINN_COMMA__DEREK_POWERS_COMMA__CONDIMENT_KING_COMMA__MERCY_GRAVES_COMMA__BATMAN__LP_TERRY_MCGINNIS_RP__COMMA__ROXY_ROCKET]_ENT￨E >￨D bruce￨R timm￨R [ENT_CREATOR_ENT￨R ]￨S >￨D paul￨R dini￨R [ENT_CREATORS_ENT￨R ]￨S >￨D comics￨R character￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_CHIVA_BUS_ENT￨E >￨D ford￨R motor￨R company￨R [ENT_AUTOMOBILEPLATFORM_ENT￨R ].￨R ENT_FORD_STRAIGHT_DASH_6_ENGINE_ENT￨E >￨D ford￨R motor￨R company￨R [ENT_MANUFACTURER_ENT￨R ]￨S
+ENT_BUILDER_ENT￨E <￨D spain￨R [ENT_PRESIDIO_SANTA_CRUZ_DE_TERRENATE_ENT￨R ]￨S
+ENT_205_ENT￨E >￨D massachusetts￨R house￨R of￨R representatives￨R [ENT_OFFICE_ENT￨R ]￨S
+ENT_COUNTIES_ENT￨E <￨D the￨R bronx￨R [ENT_WHITE_PLAINS_ROAD_ENT￨R ]￨S
+ENT_AMAZON_RIVER_ENT￨E >￨D arequipa￨R region￨R [ENT_SOURCEREGION_ENT￨R ]￨S
+ENT_THEMEMUSICCOMPOSER_ENT￨E <￨D ron￨R grainer￨R [ENT_[DOCTOR_WHO_COMMA__THE_PRISONER_COMMA__EDWARD__AMP__MRS_DOT__SIMPSON_COMMA__TFI_FRIDAY_COMMA__THAT_WAS_THE_WEEK_THAT_WAS]_ENT￨R >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_OPERATEDBY_ENT￨E <￨D russian￨R railways￨R [ENT__QUE_X_ENT￨R >￨D [￨S moscow,￨R moscow￨R passazhirskaya￨R railway￨R station,￨R murmansk]￨R [ENT_ROUTESTART_ENT￨R ]]￨R
+ENT_CANADA_ENT￨E >￨D david￨R johnston￨R [ENT_LEADER_ENT￨R ]￨S >￨D country￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_SAMUR–ABSHERON_CHANNEL_ENT￨E >￨D azerbaijan￨R [ENT_SOURCECOUNTRY_ENT￨R ].￨R ENT_ANAR_SALMANOV_ENT￨E >￨D azerbaijan￨R [ENT_PLACEOFBIRTH_ENT￨R ]￨S
+ENT_SPORT_ENT￨E <￨D cricket￨R [ENT_LAGOS_PREPARATORY_SCHOOL_ENT￨R ].￨R ENT_OCCUPATION_ENT￨E <￨D cricket￨R [ENT_WILLIAM_GARNE_ENT￨R ]￨S
+ENT_ANGELS_TORUŃ_ENT￨E >￨D ?x￨R [ENT_HOMESTADIUM_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D [￨S nicolaus￨R copernicus,￨R toruń￨R gingerbread,￨R city￨R of￨R angels]￨R [ENT_NICKNAME_ENT￨R ]￨S
+ENT_BIRMINGHAM_AND_OXFORD_JUNCTION_RAILWAY_ENT￨E >￨D birmingham￨R [ENT_ROUTEEND_ENT￨R ]￨S
+ENT_LIU_MINGCHUAN_ENT￨E >￨D ?x￨R [ENT_BATTLES_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D [￨S tonkin,￨R annam￨R (￨R french￨R protectorate),￨R hubei]￨R [ENT_TERRITORY_ENT￨R ]￨S
+ENT_KEYPERSON_ENT￨E <￨D raymond￨R conner￨R [ENT_[BOEING_COMMERCIAL_AIRPLANES_COMMA__BOEING]_ENT￨R ]￨S
+ENT_BIRTHPLACE_ENT￨E <￨D chicago￨R [ENT_ROBERT_RODI_ENT￨R ].￨R ENT_PLACEOFDEATH_ENT￨E <￨D chicago￨R [ENT_ANDY_WYANT_ENT￨R ]￨S
+ENT_CAM_PLANTE_ENT￨E >￨D toronto￨R maple￨R leafs￨R [ENT_PLAYEDFOR_ENT￨R <￨D toronto￨R maple￨R leafs￨R [ENT_WILFRED_MCDONALD_ENT￨R ]]￨R
+ENT_RELATED_ENT￨E <￨D the￨R sarah￨R jane￨R adventures￨R [￨S ENT_DOCTOR_WHO_ENT￨E >￨D doctor￨R who￨R confidential￨R [￨S ENT_RELATED_ENT￨E ]￨S ]￨S
+ENT_MISSISSIPPI_RIVER_ENT￨E >￨D itasca￨R state￨R park￨R [ENT_SOURCELOCATION_ENT￨R ]￨S >￨D pilottown,￨R louisiana￨R [ENT_MOUTHLOCATION_ENT￨R ]￨S >￨D river￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D buckethead￨R [ENT_ASSOCIATEDBAND_ENT￨R ].￨R ENT_SOUTH_PARK_ENT￨E >￨D ?x￨R [ENT_THEMEMUSICCOMPOSER_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_CITIES_ENT￨E <￨D helsinki￨R [ENT_BALTIC_SEA_ENT￨R >￨D danish￨R straits￨R [ENT_OUTFLOW_ENT￨R ]￨S >￨D sea￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_OPERATOR_ENT￨E <￨D bradenton,￨R florida￨R [ENT__QUE_X_ENT￨R >￨D [￨S louis￨R d.￨R astorino,￨R pittsburgh,￨R fawley￨R bryant￨R architects]￨R [ENT_ARCHITECT_ENT￨R ]￨S >￨D stadium￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_SPORT_ENT￨E <￨D [￨S association￨R football,￨R badminton,￨R basketball,￨R field￨R hockey,￨R rugby￨R football,￨R tennis,￨R cricket,￨R orienteering,￨R sport￨R of￨R athletics,￨R table￨R tennis,￨R football,￨R rugby￨R union,￨R volleyball,￨R chess]￨R [ENT__QUE_X_ENT￨R >￨D private￨R school￨R [ENT_SCHOOLTYPE_ENT￨R ]]￨R
+ENT_NONFICTIONSUBJECT_ENT￨E <￨D 143￨R [ENT__QUE_X_ENT￨R >￨D doubleday￨R (publisher)￨R [ENT_PUBLISHER_ENT￨R ]]￨R
+ENT_SOURCEREGION_ENT￨E <￨D north-￨R western￨R province,￨R zambia￨R [ENT_ZAMBEZI_ENT￨R >￨D indian￨R ocean￨R [ENT_RIVERMOUTH_ENT￨R ]￨S >￨D river￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_STATE_ENT￨E <￨D lanao￨R del￨R sur￨R [ENT__QUE_X_ENT￨R >￨D [￨S basketball,￨R badminton,￨R volleyball,￨R association￨R football,￨R chess,￨R baseball]￨R [ENT_ATHLETICS_ENT￨R ]￨S >￨D university￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_WARREN_MAGNUSON_ENT￨E >￨D ?x￨R [ENT_SUCCESSOR_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D [￨S clemson￨R university,￨R stanford￨R university,￨R willamette￨R university,￨R dartmouth￨R college,￨R columbia￨R law￨R school]￨R [ENT_ALMAMATER_ENT￨R ]￨S >￨D senator￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_PROFESSION_ENT￨E <￨D united￨R states￨R senate￨R [ENT_WILLIAM_LUTHER_HILL_ENT￨R ].￨R ENT_OFFICE_ENT￨E <￨D united￨R states￨R senate￨R [ENT_RICHARD_COKE_ENT￨R ]￨S
+ENT_SOURCEREGION_ENT￨E <￨D golan￨R heights￨R [ENT_JORDAN_RIVER_ENT￨R ]￨S
+ENT_COUNTY_ENT￨E <￨D saint￨R lucia￨R [ENT_SAINT_LUCIA_NATIONAL_CRICKET_TEAM_ENT￨R ]￨S
+ENT_RELATED_ENT￨E <￨D tuna￨R salad￨R [ENT__QUE_X_ENT￨R >￨D [￨S north￨R america,￨R great￨R britain]￨R [ENT_COUNTRY_ENT￨R ]]￨R
+ENT_TITLE_ENT￨E <￨D ?x￨R [ENT_2001_SPEEDWAY_EKSTRALIGA_ENT￨R ].￨R ENT_COUNTRY_ENT￨E <￨D poland￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_THE_FUGITIVE_KIND_ENT￨E >￨D tennessee￨R williams￨R [ENT_WRITER_ENT￨R ].￨R ENT_AUTHOR_ENT￨E <￨D tennessee￨R williams￨R [ENT_THE_NOTEBOOK_OF_TRIGORIN_ENT￨R ]￨S
+ENT_DEATHDATE_ENT￨E <￨D [2008,￨R azerbaijan,￨R baku,￨R maştağa]￨R [ENT_AGHASALIM_CHILDAGH_ENT￨R ]￨S
+ENT_SPORT_ENT￨E <￨D [￨S tennis,￨R basketball,￨R volleyball,￨R badminton,￨R chess,￨R ultimate￨R (sport),￨R association￨R football,￨R dance]￨R [ENT__QUE_X_ENT￨R >￨D state￨R colleges￨R and￨R universities￨R athletic￨R association￨R [ENT_AFFILIATION_ENT￨R ]￨S >￨D university￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_UNITED_STATES_AIR_FORCE_ACADEMY_ENT￨E >￨D lieutenant￨R general￨R (￨R united￨R states)￨R [ENT_SUPERINTENDENT_ENT￨R ]￨S >￨D organisation￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_PIERRE_R_DOT__GRAHAM_ENT￨E >￨D united￨R states￨R navy￨R [ENT_BRANCH_ENT￨R <￨D united￨R states￨R navy￨R [ENT_EDWIN_F_DOT__HUNTER_ENT￨R ]]￨R
+ENT_ARENA_ENT￨E <￨D the￨R palace￨R of￨R auburn￨R hills￨R [ENT_DETROIT_PISTONS_ENT￨R >￨D stan￨R van￨R gundy￨R [ENT_PRESIDENT_ENT￨R ]￨S >￨D basketball￨R team￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_VENUE_ENT￨E <￨D san￨R diego￨R convention￨R center￨R [￨S ENT__QUE_X_ENT￨E >￨D [￨S san￨R diego,￨R downtown,￨R san￨R diego￨R convention￨R center]￨R [￨S ENT_VENUE_ENT￨E ]￨S ]￨S
+ENT_MAINTAINEDBY_ENT￨E <￨D [￨S malaysian￨R public￨R works￨R department,￨R kota￨R bharu,￨R cahya￨R mata￨R sarawak￨R berhad,￨R brunei,￨R malaysia,￨R public￨R works￨R department￨R of￨R brunei,￨R tangkak￨R district,￨R muar￨R municipal￨R council,￨R majlis￨R daerah￨R tangkak,￨R selia￨R selenggara￨R selatan￨R sdn￨R bhd,￨R roadcare￨R sdn￨R bhd,￨R belati￨R wangsa￨R sdn￨R bhd,￨R kuala￨R lumpur￨R city￨R hall]￨R [ENT__QUE_X_ENT￨R >￨D malaysian￨R public￨R works￨R department￨R [ENT_DESIGNER_ENT￨R ]￨S >￨D bridge￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_ADDRESS_ENT￨E <￨D [400,￨R detroit,￨R michigan]￨R [ENT_RENAISSANCE_CENTER_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D the￨R cw￨R [ENT_SISTERNAMES_ENT￨R ].￨R ENT_156_ENT￨E >￨D ?x￨R [ENT_NETWORK_ENT￨R ]￨S
+ENT_DIRECTOR_ENT￨E <￨D walt￨R disney￨R [ENT_ALICE_APOS_S_WONDERLAND_ENT￨R ].￨R ENT_ANIMATOR_ENT￨E <￨D walt￨R disney￨R [ENT_TOMMY_TUCKER_APOS_S_TOOTH_ENT￨R ]￨S
+ENT_SPIDER_DASH_MAN_COLON__EDGE_OF_TIME_ENT￨E >￨D play￨R station￨R 3￨R [ENT_DEVELOPER_ENT￨R ].￨R ENT_SUCCESSOR_ENT￨E <￨D play￨R station￨R 3￨R [ENT_PLAYSTATION_2_ENT￨R ]￨S
+ENT_RELATIVES_ENT￨E <￨D kelly￨R osbourne￨R [￨S ENT_JACK_OSBOURNE_ENT￨E >￨D ozzy￨R osbourne￨R [￨S ENT_RELATIVES_ENT￨E ]￨S ]￨S
+ENT_SPORT_ENT￨E <￨D association￨R football￨R [￨S ENT__QUE_X_ENT￨E >￨D 1988￨R [￨S ENT_SPORT_ENT￨E ]￨S ]￨S
+ENT_WRITER_ENT￨E <￨D ?x￨R [ENT_IN_THE_BAZAARS_OF_HYDERABAD_ENT￨R ].￨R ENT_PARTY_ENT￨E <￨D indian￨R national￨R congress￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_SERVICE_ENT￨E <￨D academy￨R awards￨R [ENT_LAEMMLE_THEATRES_ENT￨R ].￨R ENT_JOSÉ_RIVERA__LP_PLAYWRIGHT_RP__ENT￨E >￨D academy￨R awards￨R [ENT_AWARDS_ENT￨R ]￨S
+ENT_VICEPRESIDENT_ENT￨E <￨D james￨R roberts￨R (trade￨R unionist)￨R [ENT__QUE_X_ENT￨R >￨D christchurch￨R [ENT_RESTINGPLACE_ENT￨R ]￨S >￨D member￨R of￨R parliament￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_PONG_PHA_ENT￨E >￨D thailand￨R [ENT_TIMEZONE_ENT￨R ]￨S
+ENT_HUBS_ENT￨E <￨D selangor￨R [￨S ENT__QUE_X_ENT￨E >￨D [￨S selangor,￨R sultan￨R abdul￨R aziz￨R shah￨R airport,￨R subang,￨R indonesia,￨R malaysia]￨R [￨S ENT_HUBS_ENT￨E ]￨S >￨D airline￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S
+ENT__QUE_X_ENT￨E >￨D cape￨R canaveral￨R air￨R force￨R station￨R launch￨R complex￨R 26￨R [￨S ENT_LAUNCHSITE_ENT￨E <￨D [￨S cape￨R canaveral￨R air￨R force￨R station￨R launch￨R complex￨R 26,￨R cape￨R canaveral￨R air￨R force￨R station￨R launch￨R complex￨R 5,￨R cape￨R canaveral￨R air￨R force￨R station,￨R florida]￨R [￨S ENT__QUE_X_ENT￨E >￨D rocket￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S ]￨S
+ENT_RESTINGPLACE_ENT￨E <￨D madrid￨R [ENT__QUE_X_ENT￨R ].￨R ENT_AUTHOR_ENT￨E <￨D ?x￨R [ENT_[DON_QUIXOTE_COMMA__LA_GALATEA_COMMA__LOS_TRABAJOS_DE_PERSILES_Y_SIGISMUNDA_COMMA__NOVELAS_EJEMPLARES]_ENT￨R >￨D book￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT__QUE_X_ENT￨E >￨D brian￨R d'￨R arcy￨R james￨R [￨S ENT_GUESTS_ENT￨E <￨D 127￨R [￨S ENT__QUE_X_ENT￨E ]￨S ]￨S
+ENT_HENRY_CLUNEY_ENT￨E >￨D [￨S belfast,￨R northern￨R ireland]￨R [ENT_ORIGIN_ENT￨R ]￨S
+ENT_RELIGION_ENT￨E <￨D buddhism￨R [ENT_ROSHAN_RANASINGHE_ENT￨R ]￨S <￨D buddhism￨R [ENT_NHIEK_TIOULONG_ENT￨R ]￨S
+ENT_REGIONSERVED_ENT￨E <￨D [￨S asia,￨R australia]￨R [ENT_TOLL_GLOBAL_EXPRESS_ENT￨R ].￨R ENT_LPGA_ENT￨E >￨D [￨S asia,￨R australia]￨R [ENT_COUNTRY_ENT￨R ]￨S
+ENT_RELATION_ENT￨E <￨D james￨R madison￨R [ENT_GEORGE_MADISON_ENT￨R ].￨R ENT_UNITED_STATES_HOUSE_OF_REPRESENTATIVES_ELECTIONS_COMMA__1788_AND_1789_ENT￨E >￨D james￨R madison￨R [ENT_LEADER_ENT￨R ]￨S
+ENT_JOHN_HOWARD_ENT￨E >￨D alexander￨R downer￨R [ENT_PREDECESSOR_ENT￨R ]￨S >￨D neil￨R brown￨R (￨R australian￨R politician)￨R [ENT_DEPUTY_ENT￨R ]￨S
+ENT_BLODPALT_ENT￨E >￨D [￨S blood,￨R potato,￨R flour]￨R [ENT_INGREDIENT_ENT￨R ]￨S
+ENT_SUCCESSOR_ENT￨E <￨D james￨R madison￨R [ENT_LEVI_LINCOLN_COMMA__SR_DOT__ENT￨R ].￨R ENT_WILLIAM_CLARK_ENT￨E >￨D james￨R madison￨R [ENT_APPOINTER_ENT￨R ]￨S
+ENT_ACADEMICADVISOR_ENT￨E <￨D karl￨R ewald￨R hasse￨R [ENT_ROBERT_KOCH_ENT￨R >￨D scientist￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_WRITER_ENT￨E <￨D erik￨R jendresen￨R [ENT_[BAND_OF_BROTHERS__LP_MINISERIES_RP__COMMA__KILLING_LINCOLN__LP_FILM_RP_]_ENT￨R >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_[RINGO_STARR_COMMA__KAREN_CARPENTER_COMMA__ALFREDO_HERNÁNDEZ]_ENT￨E >￨D ludwig￨R drums￨R [ENT_NOTABLEINSTRUMENTS_ENT￨R ]￨S >￨D remo￨R [ENT_INSTRUMENT_ENT￨R ]￨S >￨D musical￨R artist￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_CZECHOSLOVAKIA_ENT￨E >￨D truth￨R prevails￨R [ENT_NATIONALMOTTO_ENT￨R ]￨S
+ENT_SPANISH_HARLEM_INCIDENT_ENT￨E >￨D bob￨R dylan￨R [ENT_COMPOSER_ENT￨R <￨D bob￨R dylan￨R [ENT_GIRL_FROM_THE_NORTH_COUNTRY_ENT￨R ]]￨R
+ENT_[CITIZEN_KANE_COMMA__ON_DANGEROUS_GROUND_COMMA__THE_DEVIL_AND_DANIEL_WEBSTER__LP_FILM_RP_]_ENT￨E >￨D rko￨R pictures￨R [ENT_DISTRIBUTOR_ENT￨R ]￨S >￨D bernard￨R herrmann￨R [ENT_MUSICCOMPOSER_ENT￨R ]￨S >￨D film￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_HOMESTADIUM_ENT￨E <￨D [￨S nairobi,￨R kenya,￨R moi￨R international￨R sports￨R centre]￨R [ENT_KENYA_WOMEN_APOS_S_NATIONAL_FOOTBALL_TEAM_ENT￨R ]￨S
+ENT_JAMES_CHADWICK_ENT￨E >￨D charles￨R drummond￨R ellis￨R [ENT_DOCTORALSTUDENTS_ENT￨R ]￨S >￨D manhattan￨R project￨R [ENT_KNOWNFOR_ENT￨R ]￨S >￨D scientist￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_CITIES_ENT￨E <￨D rostock￨R [￨S ENT_BALTIC_SEA_ENT￨E >￨D kaliningrad￨R [￨S ENT_CITIES_ENT￨E ]￨S >￨D sea￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S
+ENT_GOVERNINGBODY_ENT￨E <￨D [￨S virginia,￨R commonwealth￨R of￨R virginia]￨R [ENT_FORT_MONROE_ENT￨R ]￨S
+ENT_SPOUSE_ENT￨E <￨D crystal￨R harris￨R [ENT_HUGH_HEFNER_ENT￨R ]￨S
+ENT_[HUEY_COMMA__DEWEY_COMMA__AND_LOUIE_COMMA__SCROOGE_MCDUCK_COMMA__DONALD_DUCK]_ENT￨E >￨D american￨R pekin￨R duck￨R [ENT_SPECIES_ENT￨R ]￨S
+ENT_NOTABLEWORK_ENT￨E <￨D doctor￨R who￨R [ENT_NEIL_CROSS_ENT￨R ]￨S <￨D doctor￨R who￨R [ENT_LARS_PEARSON_ENT￨R ]￨S
+ENT_CLARA_NG_ENT￨E >￨D ?x￨R [ENT_ETHNICITY_ENT￨R ].￨R ENT_RELIGION_ENT￨E <￨D [￨S christianity,￨R confucianism,￨R taoism,￨R buddhism,￨R islam]￨R [ENT__QUE_X_ENT￨R >￨D ethnic￨R group￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_ANTOINE_BIBEAU_ENT￨E >￨D toronto￨R maple￨R leafs￨R [ENT_DRAFTTEAM_ENT￨R ].￨R ENT_PLAYEDFOR_ENT￨E <￨D toronto￨R maple￨R leafs￨R [ENT_NATHAN_DEMPSEY_ENT￨R ]￨S
+ENT_OPERATION_AUTUMN_CLOUDS_ENT￨E >￨D gaza￨R strip￨R [ENT_RESULT_ENT￨R ]￨S
+ENT_RIVER_THAMES_ENT￨E >￨D essex￨R [ENT_MOUTHPLACE_ENT￨R ]￨S >￨D gloucestershire￨R [ENT_SOURCEPLACE_ENT￨R ]￨S >￨D river￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_CAPITAL_ENT￨E <￨D jamestown,￨R virginia￨R [ENT__QUE_X_ENT￨R ].￨R ENT_ALLEGIANCE_ENT￨E <￨D ?x￨R [ENT_JAMES_MADISON_ENT￨R >￨D office￨R holder￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT__QUE_X_ENT￨E >￨D chung￨R won-shik￨R [ENT_PRIMEMINISTER_ENT￨R ]￨S >￨D vietnam￨R war￨R [ENT_BATTLES_ENT￨R ]￨S >￨D president￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_JEAN_DASH_LOUIS_ARCAND_ENT￨E >￨D geneva￨R [ENT_INSTITUTION_ENT￨R ]￨S
+ENT_WILLIAM_HENRY_HARRISON_ENT￨E >￨D charles￨R willing￨R byrd￨R [ENT_GOVERNOR_ENT￨R ]￨S
+ENT_ANIMATOR_ENT￨E <￨D [￨S walt￨R disney,￨R wilfred￨R jackson]￨R [ENT_THE_SKELETON_DANCE_ENT￨R ].￨R ENT_MICKEY_APOS_S_MELLERDRAMMER_ENT￨E >￨D [￨S walt￨R disney,￨R wilfred￨R jackson]￨R [ENT_CINEMATOGRAPHY_ENT￨R ]￨S
+ENT_FAMILY_ENT￨E <￨D [￨S gorilla,￨R homininae,￨R hominini,￨R hominidae]￨R [ENT_KOOLAKAMBA_ENT￨R ]￨S
+ENT_PRESENTER_ENT￨E <￨D josh￨R groban￨R [ENT__QUE_X_ENT￨R >￨D [￨S brad￨R paisley,￨R ludacris,￨R kesha]￨R [ENT_JUDGES_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_UNITED_STATES_NAVY_ENT￨E >￨D united￨R states￨R department￨R of￨R the￨R navy￨R [￨S ENT_COMMANDSTRUCTURE_ENT￨E <￨D united￨R states￨R department￨R of￨R defense￨R [￨S ENT_UNITED_STATES_NAVY_ENT￨E >￨D military￨R unit￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S ]￨S
+ENT_KARIANDUSI_PREHISTORIC_SITE_ENT￨E >￨D kenya￨R [ENT_NEARESTCITY_ENT￨R ]￨S >￨D protected￨R area￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_PRODUCT_ENT￨E <￨D microsoft￨R azure￨R [￨S ENT_MICROSOFT_ENT￨E >￨D microsoft￨R surface￨R [￨S ENT_PRODUCT_ENT￨E ]￨S >￨D company￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S
+ENT_EDWIN_ADAMS__LP_POLITICIAN_RP__ENT￨E >￨D connecticut￨R [ENT_PLACEOFDEATH_ENT￨R ].￨R ENT_BIRTHPLACE_ENT￨E <￨D connecticut￨R [ENT_WILLIAM_A_DOT__PURTELL_ENT￨R ]￨S
+ENT_JAMES_WATT_ENT￨E >￨D mechanical￨R engineering￨R [ENT_FIELD_ENT￨R ]￨S
+ENT_CHIVA_BUS_ENT￨E >￨D ford￨R motor￨R company￨R [ENT_AUTOMOBILEPLATFORM_ENT￨R ].￨R ENT_PARENTCOMPANY_ENT￨E <￨D ford￨R motor￨R company￨R [ENT_FORD_FALCON_COBRA_ENT￨R ]￨S
+ENT_#TYPE_ENT￨E <￨D company￨R [ENT_MICROSOFT_ENT￨R >￨D new￨R mexico￨R [ENT_FOUNDATION_ENT￨R ]￨S >￨D one￨R drive￨R [ENT_SERVICES_ENT￨R ]]￨R
+ENT_THE_ELDERS__LP_ORGANIZATION_RP__ENT￨E >￨D nelson￨R mandela￨R [ENT_KEYPEOPLE_ENT￨R ].￨R ENT_UNITED_WORLD_COLLEGES_ENT￨E >￨D nelson￨R mandela￨R [ENT_PRESIDENT_ENT￨R ]￨S
+ENT_[UNITED_STATES_AIR_FORCE_COMMA__UNITED_STATES_MARINE_CORPS_COMMA__UNITED_STATES_NAVY]_ENT￨E >￨D the￨R pentagon￨R [ENT_GARRISON_ENT￨R ]￨S >￨D united￨R states￨R department￨R of￨R defense￨R [ENT_COMMANDSTRUCTURE_ENT￨R ]￨S >￨D military￨R unit￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D incorporation￨R (business)￨R [￨S ENT_LICENSEE_ENT￨E <￨D [￨S incorporation￨R (business),￨R mississippi,￨R morris￨R network￨R of]￨R [￨S ENT__QUE_X_ENT￨E >￨D television￨R station￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S ]￨S
+ENT_EDITING_ENT￨E <￨D charlie￨R chaplin￨R [ENT_HIS_NEW_JOB_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D philip￨R webb￨R [￨S ENT_ARCHITECT_ENT￨E <￨D [￨S william￨R morris,￨R philip￨R webb]￨R [￨S ENT__QUE_X_ENT￨E >￨D building￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S ]￨S
+ENT_YABANCI_DAMAT_ENT￨E >￨D united￨R arab￨R emirates￨R [ENT_FIRSTAIRED_ENT￨R ]￨S
+ENT_FAMILY_ENT￨E <￨D [￨S canidae,￨R fox,￨R caninae]￨R [ENT_KOREAN_FOX_ENT￨R ]￨S
+ENT_CHIVA_BUS_ENT￨E >￨D ford￨R motor￨R company￨R [ENT_AUTOMOBILEPLATFORM_ENT￨R ]￨S
+ENT_RACE_ENT￨E <￨D [￨S punchestown￨R gold￨R cup,￨R ryanair￨R novice￨R chase,￨R cheltenham￨R gold￨R cup]￨R [ENT__QUE_X_ENT￨R >￨D tillingdale￨R [ENT_OWNER_ENT￨R ]￨S >￨D horse￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT__QUE_X_ENT￨E >￨D lebršnik￨R [ENT_SOURCEPLACE_ENT￨R ]￨S >￨D adriatic￨R sea￨R [ENT_RIVERMOUTH_ENT￨R ]￨S
+ENT_LOCATION_ENT￨E <￨D ukraine￨R [ENT_DOFINIVKA_ESTUARY_ENT￨R ]￨S
+ENT_COLLEGE_ENT￨E <￨D vanderbilt￨R university￨R [ENT_LUKE_LIST__LP_GOLFER_RP__ENT￨R ].￨R ENT_PARK_TRAMMELL_ENT￨E >￨D vanderbilt￨R university￨R [ENT_ALMAMATER_ENT￨R ]￨S
+ENT_BATOKA_GORGE_HYDROELECTRIC_POWER_STATION_ENT￨E >￨D zambezi￨R [ENT_RIVER_ENT￨R <￨D zambezi￨R [ENT_KARIBA_DAM_ENT￨R ]]￨R
+ENT_SISTERSTATIONS_ENT￨E <￨D ?x￨R [ENT_WGBC__LP_DT2_RP__ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D [wann-cd,￨R the￨R cw,￨R nbc,￨R national￨R football￨R league,￨R american￨R broadcasting￨R company,￨R fox￨R broadcasting￨R company,￨R wtva]￨R [ENT_FORMERBROADCASTNETWORK_ENT￨R ]￨S
+ENT_LOCATEDINAREA_ENT￨E <￨D oddamavadi￨R [ENT__QUE_X_ENT￨R >￨D [￨S sri￨R lanka,￨R british￨R ceylon]￨R [ENT_DESIGNER_ENT￨R ]￨S >￨D bridge￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_COMMANDER_ENT￨E <￨D colin￨R powell￨R [ENT_[CRUISE_MISSILE_STRIKES_ON_IRAQ__LP_1993_RP__COMMA__AIR_ENGAGEMENTS_OF_THE_GULF_WAR_COMMA__GULF_WAR_COMMA__LIBERATION_OF_KUWAIT_CAMPAIGN_COMMA__GULF_WAR_AIR_CAMPAIGN]_ENT￨R >￨D military￨R conflict￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_UNITED_STATES_NAVY_ENT￨E >￨D united￨R states￨R department￨R of￨R defense￨R [ENT_COMMANDSTRUCTURE_ENT￨R ]￨S
+ENT_GOOD_HAIR_ENT￨E >￨D ?x￨R [ENT_STARRING_ENT￨R ].￨R ENT_INFLUENCEDBY_ENT￨E <￨D [￨S richard￨R pryor,￨R flip￨R wilson,￨R redd￨R foxx,￨R george￨R carlin,￨R eddie￨R murphy,￨R woody￨R allen,￨R pigmeat￨R markham,￨R dick￨R gregory,￨R sam￨R kinison,￨R mort￨R sahl,￨R bill￨R cosby,￨R rodney￨R dangerfield,￨R steve￨R martin]￨R [ENT__QUE_X_ENT￨R >￨D comedian￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_TIM_GUNN_ENT￨E >￨D kate￨R spade￨R &￨R company￨R [ENT_BOARD_ENT￨R ]￨S
+ENT_HIGHSCHOOL_ENT￨E <￨D atlantic￨R ocean￨R [ENT_ED_PODOLAK_ENT￨R ]￨S
+ENT_NONFICTIONSUBJECT_ENT￨E <￨D [￨S chess,￨R racism,￨R troll,￨R sam￨R vimes,￨R dwarfs￨R (￨R discworld),￨R ankh-￨R morpork￨R city￨R watch,￨R ankh-￨R morpork,￨R fantasy,￨R minor￨R discworld￨R concepts]￨R [ENT_THUD_EXC__ENT￨R ]￨S
+ENT_CHILD_ENT￨E <￨D john￨R scott￨R harrison￨R [ENT_WILLIAM_HENRY_HARRISON_ENT￨R >￨D william￨R henry￨R harrison￨R tomb￨R state￨R memorial￨R [ENT_RESTINGPLACE_ENT￨R ]]￨R
+ENT_PERCY_FITZWALLACE_ENT￨E >￨D [￨S vietnam￨R war,￨R gulf￨R war]￨R [ENT_BATTLES_ENT￨R ]￨S
+ENT_RELATED_ENT￨E <￨D subaru￨R outback￨R [ENT__QUE_X_ENT￨R >￨D [awd￨R (vehicle),￨R north￨R america,￨R front-engine,￨R front-wheel-drive￨R layout,￨R front-engine,￨R four-wheel-drive￨R layout]￨R [ENT_LAYOUT_ENT￨R ]￨S >￨D automobile￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_HYUNDAI_LAVITA_ENT￨E >￨D kulim￨R [ENT_ASSEMBLY_ENT￨R ]￨S
+ENT_HOMETOWN_ENT￨E <￨D san￨R antonio￨R [ENT_ROLANDO_GOMEZ_ENT￨R ]￨S
+ENT_INDIAN_GENERAL_ELECTION_COMMA__2004__LP_DELHI_RP__ENT￨E >￨D indian￨R national￨R congress￨R [ENT_AFFILIATION_ENT￨R <￨D indian￨R national￨R congress￨R [ENT_INDIAN_GENERAL_ELECTION_COMMA__2004__LP_ANDHRA_PRADESH_RP__ENT￨R ]]￨R
+ENT_YOUTHCLUBS_ENT￨E <￨D fc￨R barcelona￨R [￨S ENT_LIONEL_MESSI_ENT￨E >￨D newell's￨R old￨R boys￨R [￨S ENT_YOUTHCLUBS_ENT￨E ]￨S ]￨S
+ENT_CALABRIA_ENT￨E >￨D mario￨R oliverio￨R [ENT_LEADER_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D metaphysics￨R [￨S ENT_MAININTERESTS_ENT￨E <￨D 609￨R [￨S ENT__QUE_X_ENT￨E ]￨S ]￨S
+ENT_NOTABLEWORKS_ENT￨E <￨D [￨S doctor￨R who,￨R casanova￨R (2005￨R tv￨R serial),￨R the￨R second￨R coming￨R (tv￨R serial),￨R bob￨R &￨R rose,￨R banana￨R (tv￨R series),￨R cucumber￨R (tv￨R series),￨R torchwood,￨R the￨R sarah￨R jane￨R adventures,￨R queer￨R as￨R folk￨R (uk￨R tv￨R series)]￨R [ENT_RUSSELL_T_DAVIES_ENT￨R ]￨S
+ENT_CHILDREN_ENT￨E <￨D angelina￨R jolie￨R [ENT__QUE_X_ENT￨R >￨D academy￨R awards￨R [ENT_AWARD_ENT￨R ]]￨R
+ENT_DEBUTTEAM_ENT￨E <￨D new￨R york￨R yankees￨R [ENT_MARV_THRONEBERRY_ENT￨R ].￨R ENT_CURT_COLEMAN_ENT￨E >￨D new￨R york￨R yankees￨R [ENT_DEBUTTEAM_ENT￨R ]￨S
+ENT_PULAU_UBIN_ENT￨E >￨D singapore￨R [ENT_LARGESTCITY_ENT￨R ]￨S
+ENT_EDWIN_ANDREWS_AIR_BASE_ENT￨E >￨D japan￨R [ENT_BUILDER_ENT￨R ].￨R ENT_PLACEOFBIRTH_ENT￨E <￨D japan￨R [ENT_AKINOUMI_SETSUO_ENT￨R ]￨S
+ENT_HALLOPUS_ENT￨E >￨D ?x￨R [ENT_BINOMIALAUTHORITY_ENT￨R ].￨R ENT_DEATHPLACE_ENT￨E <￨D [￨S connecticut,￨R new￨R haven,￨R connecticut,￨R united￨R states]￨R [ENT__QUE_X_ENT￨R >￨D scientist￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_[BALTIC_SEA_COMMA__SEA_OF_MARMARA]_ENT￨E >￨D europe￨R [ENT_LOCATION_ENT￨R ]￨S >￨D sea￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_LEADERNAME_ENT￨E <￨D 828￨R [ENT__QUE_X_ENT￨R >￨D indian￨R standard￨R time￨R [ENT_TIMEZONE_ENT￨R ]]￨R
+ENT_PUBLISHER_ENT￨E <￨D syracuse￨R university￨R [ENT_STONE_CANOE_ENT￨R ].￨R ENT_TEAM_ENT￨E <￨D syracuse￨R university￨R [ENT_MICHAEL_POWELL__LP_LACROSSE_RP__ENT￨R ]￨S
+ENT_CAMPUS_ENT￨E <￨D iowa￨R [ENT_KAPLAN_UNIVERSITY_ENT￨R >￨D kaplan,￨R inc.￨R [ENT_AFFILIATIONS_ENT￨R ]￨S >￨D university￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_FRANKLIN_W_DOT__OLIN_ENT￨E >￨D cornell￨R university￨R [ENT_EDUCATION_ENT￨R <￨D cornell￨R university￨R [ENT_RICHARD_H_DOT__IMMERMAN_ENT￨R ]]￨R
+ENT_SPECIES_ENT￨E <￨D [￨S extinction,￨R lion]￨R [ENT_PANTHERA_LEO_FOSSILIS_ENT￨R ]￨S
+ENT_GENRE_ENT￨E <￨D [￨S eurovision￨R song￨R contest,￨R ska]￨R [ENT__QUE_X_ENT￨R >￨D county￨R westmeath￨R [ENT_HOMETOWN_ENT￨R ]￨S >￨D band￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_ALBERTA_HIGHWAY_42_ENT￨E >￨D lousana￨R [ENT_ROUTEEND_ENT￨R ]￨S
+ENT_RELIGION_ENT￨E <￨D buddhism￨R [ENT__QUE_X_ENT￨R >￨D kampuchean￨R united￨R front￨R for￨R national￨R salvation￨R [ENT_MILITARYBRANCH_ENT￨R ]]￨R
+ENT_BORDESLEY_RAILWAY_STATION_ENT￨E >￨D birmingham￨R [ENT_BOROUGH_ENT￨R <￨D birmingham￨R [ENT_DUDDESTON_RAILWAY_STATION_ENT￨R ]]￨R
+ENT_DEATHPLACE_ENT￨E <￨D [￨S moscow,￨R russia]￨R [ENT_MARINA_PANKOVA_ENT￨R ]￨S <￨D [￨S moscow,￨R russia]￨R [ENT_VIKTOR_ULYANICH_ENT￨R ]￨S
+ENT_BABYLON_5_ENT￨E >￨D j.￨R michael￨R straczynski￨R [ENT_DEVELOPER_ENT￨R ]￨S >￨D jason￨R carter￨R (actor)￨R [ENT_STARRING_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_ARCHITECTURE_ENT￨E <￨D art￨R deco￨R [ENT_MOUNT_ST_DOT__PETER_CHURCH_ENT￨R ]￨S
+ENT_OPERATOR_ENT￨E <￨D hungary￨R [ENT_GANZ_UV_ENT￨R ].￨R ENT_BALATON_WINE_REGION_ENT￨E >￨D hungary￨R [ENT_LOCATION_ENT￨R ]￨S
+ENT_MUNICIPALITY_ENT￨E <￨D pittsburgh￨R [ENT_ROBERTO_CLEMENTE_BRIDGE_ENT￨R ]￨S
+ENT_THE_LOST_SPECIAL_ENT￨E >￨D sherlock￨R holmes￨R [ENT_SERIES_ENT￨R ]￨S
+ENT_RESTINGPLACE_ENT￨E <￨D [￨S pretoria,￨R gauteng,￨R heroes'￨R acre￨R (￨R south￨R africa),￨R south￨R africa]￨R [ENT_THOMAS_FRANÇOIS_BURGERS_ENT￨R ]￨S <￨D [￨S pretoria,￨R gauteng,￨R heroes'￨R acre￨R (￨R south￨R africa),￨R south￨R africa]￨R [ENT_JOHANNES_GERHARDUS_STRIJDOM_ENT￨R ]￨S
+ENT_FERREL_HARRIS_ENT￨E >￨D [￨S kentucky,￨R pikeville,￨R kentucky]￨R [ENT_BIRTHPLACE_ENT￨R ]￨S
+ENT_GENEVA_ENT￨E >￨D cologny￨R [ENT_NEIGHBORINGMUNICIPALITIES_ENT￨R ]￨S
+ENT_PARENT_ENT￨E <￨D ptolemy￨R xii￨R auletes￨R [ENT_CLEOPATRA_ENT￨R >￨D ptolemy￨R xiv￨R of￨R egypt￨R [ENT_SPOUSE_ENT￨R ]]￨R
+ENT_PROSPECTTEAM_ENT￨E <￨D new￨R york￨R rangers￨R [ENT_ROBIN_KOVACS_ENT￨R ]￨S
+ENT_OPERATINGSYSTEM_ENT￨E <￨D cross-platform￨R [ENT__QUE_X_ENT￨R >￨D 1163￨R [ENT_DEVELOPER_ENT￨R ]]￨R
+ENT_DRAFTTEAM_ENT￨E <￨D toronto￨R maple￨R leafs￨R [ENT_DALE_MITCHELL__LP_ICE_HOCKEY_RP__ENT￨R ].￨R ENT_PLAYEDFOR_ENT￨E <￨D toronto￨R maple￨R leafs￨R [ENT_DOUG_ACOMB_ENT￨R ]￨S
+ENT_NAVAL_STATION_BREMERTON_ENT￨E >￨D [￨S united￨R states￨R navy,￨R naval￨R base]￨R [ENT_TYPE_ENT￨R ]￨S
+ENT_PLAYEDFOR_ENT￨E <￨D [￨S detroit￨R red￨R wings,￨R new￨R york￨R rangers,￨R toronto￨R maple￨R leafs]￨R [ENT_WILFRED_MCDONALD_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D european￨R americans￨R [ENT_ETHNICITY_ENT￨R ]￨S >￨D cholera￨R [ENT_DEATHCAUSE_ENT￨R ]￨S
+ENT_WERNER_HEISENBERG_ENT￨E >￨D erich￨R bagge￨R [￨S ENT_DOCTORALSTUDENT_ENT￨E <￨D șerban￨R țițeica￨R [￨S ENT_WERNER_HEISENBERG_ENT￨E ]￨S ]￨S
+ENT_ONE_DAY_AT_A_TIME__LP_EM_APOS_S_VERSION_RP__ENT￨E >￨D ?x￨R [ENT_SUBSEQUENTWORK_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D [￨S tupac￨R shakur,￨R nate￨R dogg,￨R eminem]￨R [ENT_WRITER_ENT￨R ]￨S
+ENT_AFFILIATION_ENT￨E <￨D christen-￨R democratisch￨R en￨R vlaams￨R [ENT__QUE_X_ENT￨R ].￨R ENT_LEADERNAME_ENT￨E <￨D ?x￨R [ENT_[BRUSSELS_COMMA__FRENCH_COMMUNITY_OF_BELGIUM_COMMA__WALLONIA]_ENT￨R ]￨S
+ENT_EDWARD_O_DOT__WOLCOTT_ENT￨E >￨D ?x￨R [ENT_SUCCESSOR_ENT￨R ].￨R ENT_RESTINGPLACE_ENT￨E <￨D [￨S colorado,￨R denver,￨R fairmount￨R cemetery￨R (￨R denver,￨R colorado)]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_PASTMEMBERS_ENT￨E <￨D dave￨R hollister￨R [ENT_BLACKSTREET_ENT￨R ]￨S
+ENT_INDUSTRY_ENT￨E <￨D coffee￨R [ENT_BAKER_APOS_S_DOZEN_DONUTS_ENT￨R ]￨S
+ENT_OPERATOR_ENT￨E <￨D united￨R states￨R navy￨R [ENT_NEW_SANNO_HOTEL_ENT￨R ].￨R ENT_GOVERNINGBODY_ENT￨E <￨D united￨R states￨R navy￨R [ENT_OAHU_RAILWAY_AND_LAND_COMPANY_ENT￨R ]￨S
+ENT_NATIONAL_ENDOWMENT_FOR_THE_ARTS_ENT￨E >￨D federal￨R government￨R of￨R the￨R united￨R states￨R [ENT_JURISDICTION_ENT￨R ]￨S
+ENT_OWNINGORGANISATION_ENT￨E <￨D public￨R transport￨R authority￨R (￨R western￨R australia)￨R [ENT__QUE_X_ENT￨R >￨D [￨S joondalup￨R railway￨R line,￨R mandurah￨R railway￨R line,￨R thornlie￨R railway￨R line,￨R fremantle￨R railway￨R line,￨R butler,￨R south￨R western￨R railway,￨R western￨R australia,￨R midland￨R railway￨R line,￨R eastern￨R railway￨R (￨R western￨R australia)]￨R [ENT_SERVINGRAILWAYLINE_ENT￨R ]￨S >￨D station￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_DISTRIBUTOR_ENT￨E <￨D ?x￨R [ENT_JEEVAN_MRITYU_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D mumbai￨R [ENT_LOCATIONCITY_ENT￨R ]￨S
+ENT_BRAD_PAISLEY_DISCOGRAPHY_ENT￨E >￨D brad￨R paisley￨R [ENT_ARTIST_ENT￨R ].￨R ENT_SEA_GAYLE_MUSIC_ENT￨E >￨D brad￨R paisley￨R [ENT_FOUNDER_ENT￨R ]￨S
+ENT_PARTNER_ENT￨E <￨D tony￨R romo￨R [ENT_JESSICA_SIMPSON_ENT￨R ]￨S
+ENT_MISSISSIPPI_RIVER_ENT￨E >￨D clearwater￨R county,￨R minnesota￨R [ENT_SOURCEREGION_ENT￨R ]￨S
+ENT_NEPTUNE_ENT￨E >￨D johann￨R gottfried￨R galle￨R [ENT_DISCOVERER_ENT￨R ]￨S
+ENT_JOHN_ESTES_ENT￨E >￨D jacksonville￨R jaguars￨R [ENT_DEBUTTEAM_ENT￨R ].￨R ENT_DAN_SHAMASH_ENT￨E >￨D jacksonville￨R jaguars￨R [ENT_TEAM_ENT￨R ]￨S
+ENT_COMMANDER_ENT￨E <￨D [￨S major,￨R tecumseh]￨R [ENT_BATTLE_OF_BROWNSTOWN_ENT￨R ]￨S
+ENT_ROSIE_HUNTINGTON_DASH_WHITELEY_ENT￨E >￨D jason￨R statham￨R [ENT_PARTNER_ENT￨R <￨D jason￨R statham￨R [ENT_KELLY_BROOK_ENT￨R ]]￨R
+ENT_BIRTHPLACE_ENT￨E <￨D [￨S moscow,￨R soviet￨R union]￨R [ENT_LIUDMILA_PRIVIVKOVA_ENT￨R ]￨S <￨D [￨S moscow,￨R soviet￨R union]￨R [ENT_QADIR_HUSEYNOV_ENT￨R ]￨S
+ENT_MICHAEL_M_DOT__SEARS_ENT￨E >￨D boeing￨R [ENT_EMPLOYER_ENT￨R ].￨R ENT_MANUFACTURER_ENT￨E <￨D boeing￨R [ENT_DELTA_III_ENT￨R ]￨S
+ENT_[GENEVA_COMMA__VANDŒUVRES_COMMA__COLOGNY_COMMA__VEYRIER_COMMA__CHÊNE_DASH_BOURG_COMMA__THÔNEX]_ENT￨E >￨D chêne-￨R bougeries￨R [ENT_NEIGHBORINGMUNICIPALITIES_ENT￨R ]￨S
+ENT_MICHAEL_MAYR_ENT￨E >￨D ?x￨R [ENT_DEPUTY_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D austria￨R [ENT_NATIONALITY_ENT￨R ]￨S >￨D chancellor￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_DAN_SHAMASH_ENT￨E >￨D jacksonville￨R jaguars￨R [ENT_TEAM_ENT￨R ].￨R ENT_TENANT_ENT￨E <￨D jacksonville￨R jaguars￨R [ENT_EVERBANK_FIELD_ENT￨R ]￨S
+ENT_LEONARD_P_DOT__ZAKIM_BUNKER_HILL_MEMORIAL_BRIDGE_ENT￨E >￨D massachusetts￨R [ENT_OWNER_ENT￨R <￨D massachusetts￨R [ENT_TED_WILLIAMS_TUNNEL_ENT￨R ]]￨R
+ENT_BIRTHPLACE_ENT￨E <￨D saint-￨R amand-en-￨R puisaye￨R [ENT__QUE_X_ENT￨R >￨D [￨S blood,￨R bacillus￨R anthracis]￨R [ENT_KNOWNFOR_ENT￨R ]]￨R
+ENT_SPORT_ENT￨E <￨D [￨S association￨R football,￨R hockey,￨R throwball,￨R chess]￨R [ENT__QUE_X_ENT￨R >￨D vashi￨R [ENT_CITY_ENT￨R ]￨S >￨D school￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_CHRISTINA_CRAWFORD__LP_WRESTLER_RP__ENT￨E >￨D trish￨R stratus￨R [ENT_TRAINER_ENT￨R ]￨S
+ENT_AUTOMOBILEPLATFORM_ENT￨E <￨D dodge￨R [￨S ENT__QUE_X_ENT￨E >￨D [￨S blue￨R bird￨R corporation,￨R dodge,￨R ford￨R motor￨R company]￨R [￨S ENT_AUTOMOBILEPLATFORM_ENT￨E ]￨S >￨D automobile￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S
+ENT_CAPITAL_ENT￨E <￨D bocas￨R town,￨R bocas￨R del￨R toro￨R [ENT__QUE_X_ENT￨R >￨D [￨S panama,￨R panama]￨R [ENT_COUNTRY_ENT￨R ]]￨R
+ENT_J_DOT__P_DOT__PARISÉ_ENT￨E >￨D toronto￨R maple￨R leafs￨R [ENT_PLAYEDFOR_ENT￨R ].￨R ENT_BERT_MCCAFFREY_ENT￨E >￨D toronto￨R maple￨R leafs￨R [ENT_FORMERTEAM_ENT￨R ]￨S
+ENT_IDEOLOGY_ENT￨E <￨D buddhism￨R [ENT_UNION_OF_CAMBODIAN_DEMOCRATS_ENT￨R ]￨S <￨D buddhism￨R [ENT_PALANG_DHARMA_PARTY_ENT￨R ]￨S
+ENT_HOSTCITY_ENT￨E <￨D ?x￨R [ENT_1951_ASIAN_GAMES_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D mumbai￨R [ENT_LARGESTCITY_ENT￨R ]￨S >￨D country￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_COMPANY_ENT￨E <￨D ?x￨R [ENT_BLOOMBERG_MARKETS_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D michael￨R bloomberg￨R [ENT_OWNER_ENT￨R ]￨S >￨D bank￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_ARCHITECTURALSTYLE_ENT￨E <￨D greek￨R revival￨R architecture￨R [ENT_MAGNOLIA_PLACE_ENT￨R ]￨S
+ENT_[UNITED_STATES_NAVY_COMMA__UNITED_STATES_ARMY_AIR_FORCES]_ENT￨E >￨D arlington￨R county,￨R virginia￨R [￨S ENT_GARRISON_ENT￨E <￨D the￨R pentagon￨R [￨S ENT_[UNITED_STATES_NAVY_COMMA__UNITED_STATES_ARMY_AIR_FORCES]_ENT￨E >￨D military￨R unit￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S ]￨S
+ENT_COMMANDER_ENT￨E <￨D feng￨R zicai￨R [ENT__QUE_X_ENT￨R >￨D [￨S tonkin,￨R annam￨R (￨R french￨R protectorate)]￨R [ENT_TERRITORY_ENT￨R ]￨S >￨D military￨R conflict￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_LICENSEE_ENT￨E <￨D vanderbilt￨R university￨R [ENT_WRVU_ENT￨R ].￨R ENT_TODD_J_DOT__CAMPBELL_ENT￨E >￨D vanderbilt￨R university￨R [ENT_ALMAMATER_ENT￨R ]￨S
+ENT_INFLOW_ENT￨E <￨D kemijoki￨R [ENT_[BALTIC_SEA_COMMA__LAKE_KEMIJÄRVI]_ENT￨R ]￨S
+ENT_HELEN_GETACHEW_ENT￨E >￨D ethiopia￨R [ENT_RESIDENCE_ENT￨R ].￨R ENT_HAILE_SELASSIE_GUGSA_ENT￨E >￨D ethiopia￨R [ENT_PLACEOFDEATH_ENT￨R ]￨S
+ENT_DISTRIBUTOR_ENT￨E <￨D nintendo￨R [ENT_GLOVER__LP_VIDEO_GAME_RP__ENT￨R ]￨S
+ENT_DAD_APOS_S_ROOT_BEER_ENT￨E >￨D indiana￨R [ENT_LOCATIONCITY_ENT￨R ].￨R ENT_TIMOTHY_J_DOT__ROEMER_ENT￨E >￨D indiana￨R [ENT_STATE_ENT￨R ]￨S
+ENT_LAKE_UNIAMÉSI_ENT￨E >￨D zambezi￨R [ENT_OUTFLOW_ENT￨R ].￨R ENT_INFLOW_ENT￨E <￨D zambezi￨R [ENT_CAHORA_BASSA_ENT￨R ]￨S
+ENT_JUNO_I_ENT￨E >￨D [￨S cape￨R canaveral￨R air￨R force￨R station,￨R cape￨R canaveral￨R air￨R force￨R station￨R launch￨R complex￨R 26,￨R florida,￨R cape￨R canaveral￨R air￨R force￨R station￨R launch￨R complex￨R 5]￨R [ENT_LAUNCHSITE_ENT￨R ]￨S
+ENT_BORDER_ENT￨E <￨D [￨S pacific￨R ocean,￨R kujūkuri￨R beach,￨R bōsō￨R hill￨R range,￨R edo￨R river,￨R tone￨R river]￨R [ENT_SHIMŌSA_PLATEAU_ENT￨R ]￨S
+ENT_MANUFACTURER_ENT￨E <￨D foxconn￨R [ENT_PLAYSTATION_3_ENT￨R >￨D play￨R station￨R 4￨R [ENT_SUCCESSOR_ENT￨R ]￨S >￨D information￨R appliance￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_HUDSON_RIVER_ENT￨E >￨D lower￨R manhattan￨R [ENT_MOUTHMOUNTAIN_ENT￨R ]￨S
+ENT_REGIONSERVED_ENT￨E <￨D australia￨R [ENT_294_ENT￨R >￨D company￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT__QUE_X_ENT￨E >￨D warner￨R bros.￨R television￨R [ENT_OWNER_ENT￨R ].￨R ENT_NETWORK_ENT￨E <￨D ?x￨R [ENT_[BABYLON_5_COMMA__BABYLON_5_COLON__THE_GATHERING_COMMA__KUNG_FU_COLON__THE_LEGEND_CONTINUES_COMMA__TIME_TRAX_COMMA__ISLAND_CITY__LP_FILM_RP__COMMA__POINTMAN]_ENT￨R >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_PULAU_UBIN_ENT￨E >￨D singapore￨R [ENT_LARGESTCITY_ENT￨R ]￨S
+ENT_CITIES_ENT￨E <￨D rostock￨R [￨S ENT_BALTIC_SEA_ENT￨E >￨D oulu￨R [￨S ENT_CITIES_ENT￨E ]￨S >￨D sea￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S
+ENT_KEYPEOPLE_ENT￨E <￨D edwin￨R catmull￨R [ENT_PIXAR_ENT￨R >￨D marionette￨R (software)￨R [ENT_PRODUCTS_ENT￨R ]￨S >￨D company￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT__QUE_X_ENT￨E >￨D lars￨R bak￨R (computer￨R programmer)￨R [ENT_DESIGNER_ENT￨R ]￨S >￨D google￨R [ENT_DEVELOPER_ENT￨R ]￨S >￨D language￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_379_ENT￨E >￨D national￨R collegiate￨R athletic￨R association￨R [ENT_ATHLETICS_ENT￨R ]￨S
+ENT_KEYPERSON_ENT￨E <￨D ?x￨R [ENT_DISNEYTOON_STUDIOS_ENT￨R ].￨R ENT_AWARD_ENT￨E <￨D [￨S academy￨R awards,￨R ieee￨R john￨R von￨R neumann￨R medal,￨R computer￨R history￨R museum]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_LEAGUE_ENT￨E <￨D national￨R basketball￨R association￨R [ENT_620_ENT￨R ]￨S
+ENT_WRITERS_ENT￨E <￨D robert￨R bernstein￨R (comics)￨R [￨S ENT__QUE_X_ENT￨E >￨D [￨S larry￨R lieber,￨R robert￨R bernstein￨R (comics),￨R stan￨R lee]￨R [￨S ENT_WRITERS_ENT￨E ]￨S >￨D comic￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S
+ENT_TIMMY_TIME_ENT￨E >￨D ?x￨R [ENT_EXECUTIVEPRODUCER_ENT￨R ].￨R ENT_AWARD_ENT￨E <￨D [￨S academy￨R awards,￨R royal￨R designers￨R for￨R industry,￨R order￨R of￨R the￨R british￨R empire]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_ANIMATOR_ENT￨E <￨D walt￨R disney￨R [ENT_THE_SKELETON_DANCE_ENT￨R ]￨S
+ENT_COUNTY_ENT￨E <￨D malaysia￨R [ENT__QUE_X_ENT￨R >￨D port￨R klang￨R [ENT_ROUTESTART_ENT￨R ]￨S >￨D road￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_REPUBLIC_OF_CHINA_LEGISLATIVE_ELECTION_COMMA__2008_ENT￨E >￨D ?x￨R [ENT_LEADER_ENT￨R ].￨R ENT_RELIGION_ENT￨E <￨D buddhism￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_OWNER_ENT￨E <￨D google￨R [ENT_IVANPAH_SOLAR_POWER_FACILITY_ENT￨R ].￨R ENT_DART__LP_PROGRAMMING_LANGUAGE_RP__ENT￨E >￨D google￨R [ENT_DEVELOPER_ENT￨R ]￨S
+ENT_HOMETOWN_ENT￨E <￨D [￨S ontario,￨R ottawa]￨R [ENT__QUE_X_ENT￨R >￨D ottawa￨R citizen￨R [ENT_EMPLOYER_ENT￨R ]]￨R
+ENT__QUE_X_ENT￨E >￨D stella￨R kowalski￨R [ENT_CHARACTERS_ENT￨R ]￨S >￨D tennessee￨R williams￨R [ENT_WRITER_ENT￨R ]￨S >￨D play￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_APPOINTER_ENT￨E <￨D james￨R madison￨R [ENT__QUE_X_ENT￨R >￨D richard￨R winn￨R [ENT_LIEUTENANT_ENT￨R ]￨S >￨D governor￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_FAMILY_ENT￨E <￨D orthonychidae￨R [ENT_[LOGRUNNERS_COMMA__CHOWCHILLA_COMMA__AUSTRALIAN_LOGRUNNER_COMMA__PAPUAN_LOGRUNNER_COMMA__ORTHONYX_HYPSILOPHUS_COMMA__ORTHONYX_KALDOWINYERI]_ENT￨R >￨D bird￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_COUNTY_ENT￨E <￨D norway￨R [ENT_EUROPEAN_ROUTE_E8_ENT￨R ].￨R ENT_RAGNHILD_JØLSEN_ENT￨E >￨D norway￨R [ENT_BIRTHPLACE_ENT￨R ]￨S
+ENT_JOHN_MCGUINNESS__LP_MOTORCYCLE_RACER_RP__ENT￨E >￨D honda￨R [ENT_CURRENTTEAM_ENT￨R ]￨S
+ENT_WRITERS_ENT￨E <￨D [￨S larry￨R lieber,￨R robert￨R bernstein￨R (comics),￨R stan￨R lee]￨R [ENT_TALES_OF_SUSPENSE_ENT￨R ]￨S
+ENT_COLORADO_ENT￨E >￨D denver￨R [ENT_LARGESTCITY_ENT￨R ]￨S
+ENT_HIGHSCHOOL_ENT￨E <￨D george￨R washington￨R carver￨R [ENT_BEN_WILSON__LP_AMERICAN_FOOTBALL_RP__ENT￨R ]￨S
+ENT_EDITING_ENT￨E <￨D chris￨R lebenzon￨R [ENT_BATMAN_RETURNS_ENT￨R ]￨S
+ENT_FIELDS_ENT￨E <￨D [￨S sanskrit,￨R buddhism,￨R sanskrit￨R literature]￨R [ENT_SYLVAIN_LÉVI_ENT￨R ]￨S
+ENT_GENRE_ENT￨E <￨D 137￨R [ENT__QUE_X_ENT￨R >￨D interplay￨R entertainment￨R [ENT_PUBLISHER_ENT￨R ]]￨R
+ENT_RACE_ENT￨E <￨D [￨S cheltenham￨R gold￨R cup,￨R mersey￨R novices'￨R hurdle,￨R lexus￨R chase,￨R november￨R novices'￨R chase,￨R peterborough￨R chase,￨R haldon￨R gold￨R cup,￨R king￨R george￨R vi￨R chase,￨R scilly￨R isles￨R novices'￨R chase]￨R [ENT__QUE_X_ENT￨R >￨D jacques￨R van't￨R hart￨R [ENT_BREEDER_ENT￨R ]￨S >￨D horse￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_MARK_TWAIN_TONIGHT_ENT￨E >￨D mark￨R twain￨R [ENT_CHARACTERS_ENT￨R ]￨S
+ENT_TRAINER_ENT￨E <￨D joe￨R schilling￨R [ENT_NICK_DIAZ_ENT￨R ]￨S
+ENT_HOMESTADIUM_ENT￨E <￨D [￨S moscow,￨R luzhniki￨R stadium]￨R [ENT_2011–12_FC_SPARTAK_MOSCOW_SEASON_ENT￨R ]￨S
+ENT_DEATHPLACE_ENT￨E <￨D [￨S sarajevo,￨R republic￨R of￨R bosnia￨R and￨R herzegovina]￨R [ENT_GORAN_ČENGIĆ_ENT￨R ]￨S
+ENT_PLACEOFBURIAL_ENT￨E <￨D [￨S ethiopia,￨R gondar]￨R [ENT__QUE_X_ENT￨R >￨D iyasu￨R ii￨R [ENT_PREDECESSOR_ENT￨R ]￨S >￨D monarch￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_CORRINGHAM_RAILWAY_STATION_ENT￨E >￨D essex￨R [ENT_BOROUGH_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D burbank,￨R california￨R [ENT_LOCATIONCITY_ENT￨R ].￨R ENT_1158_ENT￨E >￨D ?x￨R [ENT_DISTRIBUTOR_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_ILLUSTRATOR_ENT￨E <￨D pablo￨R picasso￨R [ENT_ALTAZOR_ENT￨R ]￨S
+ENT_FOUNTAIN_LAKE_FARM_ENT￨E >￨D [￨S north￨R america,￨R wisconsin,￨R montello,￨R wisconsin,￨R united￨R states]￨R [ENT_NEARESTCITY_ENT￨R ]￨S
+ENT_OLIVER_SACKS_ENT￨E >￨D columbia￨R university￨R [ENT_INSTITUTION_ENT￨R ]￨S
+ENT_SHAWN_JOHNSON_ENT￨E >￨D liang￨R chow￨R [ENT_CLUB_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D larry￨R la￨R londe￨R [ENT_BANDMEMBER_ENT￨R ].￨R ENT_SOUTH_PARK_ENT￨E >￨D ?x￨R [ENT_THEMEMUSICCOMPOSER_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_RELIGIOUSAFFILIATION_ENT￨E <￨D harvest￨R christian￨R center￨R [ENT__QUE_X_ENT￨R >￨D [￨S basketball,￨R tennis,￨R badminton,￨R volleyball,￨R chess]￨R [ENT_SPORT_ENT￨R ]￨S >￨D school￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT__QUE_X_ENT￨E >￨D maple￨R music￨R recordings￨R [ENT_RECORDLABEL_ENT￨R ].￨R ENT_THEMEMUSICCOMPOSER_ENT￨E <￨D ?x￨R [ENT_[SOUTH_PARK_COMMA__FULLER_HOUSE__LP_TV_SERIES_RP_]_ENT￨R >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT__QUE_X_ENT￨E >￨D united￨R states￨R [ENT_LOCATIONCITY_ENT￨R ].￨R ENT_[EVERUN_NOTE_COMMA__LENOVO_3000_COMMA__PLAYSTATION_4_COMMA__THINKPAD_E_SERIES_COMMA__MICROSOFT_KIN_COMMA__KOBO_AURA_COMMA__AMAZON_KINDLE_COMMA__ZUNE_COMMA__DIGITAL_READER_1000_COMMA__UTILITE]_ENT￨E >￨D ?x￨R [ENT_CPU_ENT￨R ]￨S >￨D information￨R appliance￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_LEAGUE_ENT￨E <￨D national￨R hockey￨R league￨R [ENT_HAMPTON_ROADS_RHINOS_ENT￨R ]￨S
+ENT_THE_MANY_HANDS_ENT￨E >￨D ?x￨R [ENT_AUTHOR_ENT￨R ].￨R ENT_GENRE_ENT￨E <￨D [￨S doctor￨R who,￨R social￨R realism]￨R [ENT__QUE_X_ENT￨R ]￨S
+ENT_JOHN_TYLER_COMMA__SR_DOT__ENT￨E >￨D john￨R tyler￨R [ENT_CHILD_ENT￨R ]￨S
+ENT_STEPHANIE_ENT￨E >￨D female￨R [ENT_GENDER_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D ekstraliga￨R (speedway)￨R [ENT_LEAGUE_ENT￨R ]￨S >￨D [￨S byki,￨R lions,￨R swallows,￨R sparta]￨R [ENT_NICKNAME_ENT￨R ]￨S
+ENT_COMPUTINGPLATFORM_ENT￨E <￨D ?x￨R [ENT_KING_APOS_S_QUEST_VI_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D [￨S microsoft,￨R next,￨R apple￨R inc.]￨R [ENT_DEVELOPER_ENT￨R ]￨S >￨D software￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_#TYPE_ENT￨E <￨D television￨R show￨R [￨S ENT_AMERICAN_IDOL_ENT￨E >￨D jennifer￨R lopez￨R [￨S ENT_JUDGES_ENT￨E <￨D randy￨R jackson￨R [￨S ENT_AMERICAN_IDOL_ENT￨E ]￨S ]￨S ]￨S
+ENT_SUCCESSOR_ENT￨E <￨D [￨S david￨R cobb￨R (￨R massachusetts),￨R christopher￨R gore,￨R james￨R madison,￨R seth￨R hastings,￨R john￨R breckinridge￨R (u.s.￨R attorney￨R general)]￨R [ENT__QUE_X_ENT￨R >￨D levi￨R lincoln,￨R jr.￨R [ENT_CHILDREN_ENT￨R ]￨S >￨D governor￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_DORNIER_AERODYNE_ENT￨E >￨D west￨R germany￨R [ENT_NATIONALORIGIN_ENT￨R ].￨R ENT_HIRTH_ACROSTAR_ENT￨E >￨D west￨R germany￨R [ENT_ORIGIN_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D cape￨R canaveral￨R air￨R force￨R station￨R [￨S ENT_LAUNCHSITE_ENT￨E <￨D 185￨R [￨S ENT__QUE_X_ENT￨E ]￨S ]￨S
+ENT_CREATOR_ENT￨E <￨D larry￨R david￨R [￨S ENT_[SEINFELD_COMMA__GEORGE_COSTANZA_COMMA__COSMO_KRAMER_COMMA__JACKIE_CHILES_COMMA__NEWMAN__LP_SEINFELD_RP__COMMA__ELAINE_BENES_COMMA__UNCLE_LEO_COMMA__JERRY_SEINFELD__LP_CHARACTER_RP_]_ENT￨E >￨D jerry￨R seinfeld￨R [￨S ENT_CREATOR_ENT￨E ]￨S ]￨S
+ENT__QUE_X_ENT￨E >￨D northwestern￨R hawaiian￨R islands￨R [ENT_ARCHIPELAGO_ENT￨R ]￨S >￨D [￨S hawaii,￨R kauai]￨R [ENT_NEARESTCITY_ENT￨R ]￨S >￨D island￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_STATE_ENT￨E <￨D [￨S colorado,￨R colorado,￨R colorado￨R territory]￨R [ENT_GEORGE_M_DOT__CHILCOTT_ENT￨R ]￨S
+ENT_CHRISTOPHER_S_DOT__STEWART_ENT￨E >￨D the￨R wall￨R street￨R journal￨R [ENT_EMPLOYER_ENT￨R ]￨S
+ENT_[BABYLON_5_COMMA__HYPERNAUTS_COMMA__CAPTAIN_POWER_AND_THE_SOLDIERS_OF_THE_FUTURE]_ENT￨E >￨D douglas￨R netter￨R [ENT_EXECUTIVEPRODUCER_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_JERUSALEM_INSTITUTE_OF_JUSTICE_ENT￨E >￨D israel￨R [ENT_SERVICE_ENT￨R ].￨R ENT_GAZA–ISRAEL_CONFLICT_ENT￨E >￨D israel￨R [ENT_RESULT_ENT￨R ]￨S
+ENT_CAPITAL_ENT￨E <￨D history￨R of￨R trier￨R [￨S ENT_ROMAN_EMPIRE_ENT￨E >￨D mediolanum￨R [￨S ENT_CAPITAL_ENT￨E ]￨S >￨D country￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S
+ENT_OCCUPATION_ENT￨E <￨D [￨S chess,￨R singing,￨R songwriter,￨R record￨R producer]￨R [ENT__QUE_X_ENT￨R >￨D the￨R shirelles￨R [ENT_ASSOCIATEDBAND_ENT￨R ]￨S >￨D artist￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_HOLLER_IF_YA_HEAR_ME__LP_MUSICAL_RP__ENT￨E >￨D tupac￨R shakur￨R [ENT_LYRICS_ENT￨R ]￨S
+ENT_ASSOCIATEDBAND_ENT￨E <￨D foxy￨R brown￨R (rapper)￨R [ENT_[BLACKSTREET_COMMA__TOTAL__LP_GROUP_RP__COMMA__FABRIZIO_SOTTI_COMMA__MIA_X_COMMA__SWV_COMMA__SIMONE_HINES_COMMA__TRACKMASTERS_COMMA__1_LIFE_2_LIVE_COMMA__NATURE__LP_RAPPER_RP__COMMA__RENÉ_MOORE_COMMA__KID_CAPRI]_ENT￨R ]￨S
+ENT_TRAINER_ENT￨E <￨D joe￨R schilling￨R [ENT_NICK_DIAZ_ENT￨R >￨D martial￨R artist￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_OCCUPATION_ENT￨E <￨D screenwriter￨R [ENT__QUE_X_ENT￨R >￨D 359￨R [ENT_AWARD_ENT￨R ]]￨R
+ENT_PASTMEMBERS_ENT￨E <￨D cliff￨R burton￨R [ENT_METALLICA_ENT￨R ]￨S
+ENT_AUTHOR_ENT￨E <￨D miguel￨R de￨R cervantes￨R [ENT__QUE_X_ENT￨R >￨D don￨R quixote￨R [ENT_BASEDON_ENT￨R ]￨S >￨D musical￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_REGIONSERVED_ENT￨E <￨D pacific￨R ocean￨R [￨S ENT__QUE_X_ENT￨E >￨D [￨S pacific￨R ocean,￨R asia,￨R australia,￨R new￨R zealand,￨R europe,￨R north￨R america]￨R [￨S ENT_REGIONSERVED_ENT￨E ]￨S >￨D company￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S
+ENT_LOCATION_ENT￨E <￨D [￨S indianapolis,￨R indiana]￨R [ENT_KURT_VONNEGUT_MEMORIAL_LIBRARY_ENT￨R ].￨R ENT_PLACEOFDEATH_ENT￨E <￨D [￨S indianapolis,￨R indiana]￨R [ENT_LOUIS_LECOCQ_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D dan￨R mica￨R [ENT_PREDECESSOR_ENT￨R ].￨R ENT_ASSOCIATE_ENT￨E <￨D ?x￨R [ENT_MARCO_RUBIO_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D ato￨R records￨R [ENT_RECORDLABEL_ENT￨R ].￨R ENT_THEMEMUSICCOMPOSER_ENT￨E <￨D ?x￨R [ENT_[SOUTH_PARK_COMMA__THE_100__LP_TV_SERIES_RP__COMMA__STATE_OF_GEORGIA__LP_TV_SERIES_RP__COMMA__90210__LP_TV_SERIES_RP_]_ENT￨R >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_BASEDON_ENT￨E <￨D don￨R quixote￨R [ENT__QUE_X_ENT￨R >￨D josé￨R luis￨R narom￨R [ENT_MUSICBY_ENT￨R ]￨S >￨D musical￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_CITIZENSHIP_ENT￨E <￨D [￨S india,￨R mauritius]￨R [ENT__QUE_X_ENT￨R >￨D suicide￨R by￨R hanging￨R [ENT_DEATHCAUSE_ENT￨R ]￨S >￨D model￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_LEADERNAME_ENT￨E <￨D indian￨R national￨R congress￨R [ENT_BARAILY_ENT￨R ].￨R ENT_CHANDRA_SHEKHAR_ENT￨E >￨D indian￨R national￨R congress￨R [ENT_OTHERPARTY_ENT￨R ]￨S
+ENT_MUSIC_ENT￨E <￨D jerry￨R bock￨R [ENT__QUE_X_ENT￨R >￨D [￨S tenderloin￨R (novel),￨R samuel￨R hopkins￨R adams,￨R frederic￨R morton,￨R miklós￨R lászló,￨R new￨R york￨R city,￨R frank￨R r.￨R stockton,￨R mark￨R twain,￨R jules￨R feiffer,￨R tevye]￨R [ENT_BASEDON_ENT￨R ]￨S >￨D musical￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT__QUE_X_ENT￨E >￨D emacs￨R lisp￨R [ENT_PROGRAMMINGLANGUAGE_ENT￨R ]￨S >￨D [gnu￨R project,￨R gnu]￨R [ENT_DEVELOPER_ENT￨R ]￨S
+ENT_WRITER_ENT￨E <￨D ?x￨R [ENT_FACE_TO_FACE__LP_1976_FILM_RP__ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D [￨S academy￨R awards,￨R goethe￨R prize,￨R praemium￨R imperiale]￨R [ENT_AWARDS_ENT￨R ]￨S
+ENT_NETWORK_ENT￨E <￨D bbc￨R hd￨R [ENT_DOCTOR_WHO_ENT￨R >￨D doctor￨R who￨R confidential￨R [ENT_RELATED_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_BABYLON_5_ENT￨E >￨D christopher￨R franke￨R [ENT_ARTIST_ENT￨R ]￨S >￨D jason￨R carter￨R (actor)￨R [ENT_STARRING_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D darius￨R i￨R [ENT_PREDECESSOR_ENT￨R ].￨R ENT_[ESTHER_COMMA__AMESTRIS_COMMA__VASHTI]_ENT￨E >￨D ?x￨R [ENT_SPOUSE_ENT￨R ]￨S >￨D royalty￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_AJAHN_SAO_KANTASĪLO_ENT￨E >￨D thailand￨R [ENT_NATIONALITY_ENT￨R <￨D thailand￨R [ENT_NEWIN_CHIDCHOB_ENT￨R ]]￨R
+ENT_ORIGIN_ENT￨E <￨D armenia￨R [ENT_SVETLANA_NAVASARDYAN_ENT￨R ]￨S
+ENT_LOCATION_ENT￨E <￨D colorado￨R [ENT_PEETZ_TABLE_WIND_ENERGY_CENTER_ENT￨R ].￨R ENT_STATE_ENT￨E <￨D colorado￨R [ENT_BEN_NIGHTHORSE_CAMPBELL_ENT￨R ]￨S
+ENT_MONUMENT_TO_SALAVAT_YULAEV_ENT￨E >￨D ?x￨R [ENT_DESIGNER_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D moscow￨R [ENT_PLACEOFDEATH_ENT￨R ]￨S
+ENT_COLLEGE_ENT￨E <￨D ucla￨R bruins￨R football￨R [ENT__QUE_X_ENT￨R >￨D kansas￨R city￨R chiefs￨R [ENT_DEBUTTEAM_ENT￨R ]￨S >￨D gridiron￨R football￨R player￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT__QUE_X_ENT￨E >￨D worcester￨R college,￨R oxford￨R [ENT_ALMAMATER_ENT￨R ]￨S >￨D new￨R york￨R knicks￨R [ENT_DRAFTTEAM_ENT￨R ]￨S >￨D person￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_LONDO_MOLLARI_ENT￨E >￨D babylon￨R 5￨R [ENT_SERIES_ENT￨R ]￨S
+ENT_BRAZIL_ENT￨E >￨D são￨R paulo￨R [ENT_LARGESTCITY_ENT￨R ]￨S
+ENT_GOVERNOR_ENT￨E <￨D [￨S bill￨R clinton,￨R david￨R pryor,￨R frank￨R d.￨R white,￨R jim￨R guy￨R tucker,￨R mike￨R beebe]￨R [ENT_WINSTON_BRYANT_ENT￨R ]￨S
+ENT__QUE_X_ENT￨E >￨D katy￨R b￨R [ENT_WRITER_ENT￨R ]￨S >￨D [￨S rinse￨R fm,￨R sony,￨R columbia￨R records,￨R ministry￨R of￨R sound,￨R sony￨R music￨R entertainment]￨R [ENT_RECORDLABEL_ENT￨R ]￨S >￨D single￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_SOUTH_PARK_ENT￨E >￨D eliza￨R schneider￨R [￨S ENT_VOICES_ENT￨E <￨D isaac￨R hayes￨R [￨S ENT_SOUTH_PARK_ENT￨E >￨D television￨R show￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S ]￨S
+ENT_LENNIER_ENT￨E >￨D babylon￨R 5￨R [ENT_SERIES_ENT￨R <￨D babylon￨R 5￨R [ENT_LONDO_MOLLARI_ENT￨R ]]￨R
+ENT_OPERATINGSYSTEM_ENT￨E <￨D microsoft￨R windows￨R [ENT_346_ENT￨R >￨D c++￨R [ENT_PROGRAMMINGLANGUAGE_ENT￨R ]]￨R
+ENT_CHILDREN_ENT￨E <￨D [￨S neil￨R bush,￨R jeb￨R bush,￨R marvin￨R bush,￨R dorothy￨R bush￨R koch,￨R george￨R w.￨R bush,￨R robin]￨R [ENT_BARBARA_BUSH_ENT￨R ]￨S
+ENT_TEAMNAME_ENT￨E <￨D lion￨R [ENT_CRISTO_REY_JESUIT_HIGH_SCHOOL__LP_CHICAGO_RP__ENT￨R ].￨R ENT_GALATASARAY_HANDBALL_TEAM_ENT￨E >￨D lion￨R [ENT_MASCOT_ENT￨R ]￨S
+ENT_PREVIOUSWORK_ENT￨E <￨D wahoo!￨R [ENT_HONEYBUNS_ENT￨R ]￨S
+ENT_HEARTH_AND_HOME_ENT￨E >￨D [￨S harriet￨R beecher￨R stowe,￨R donald￨R grant￨R mitchell]￨R [ENT_EDITOR_ENT￨R ]￨S
+ENT_TONIGHT_APOS_S_THE_NIGHT__LP_BLACKSTREET_SONG_RP__ENT￨E >￨D blackstreet￨R [ENT_MUSICALBAND_ENT￨R <￨D blackstreet￨R [ENT_TAKE_ME_THERE__LP_BLACKSTREET__AMP__MÝA_SONG_RP__ENT￨R ]]￨R
+ENT_MANUFACTURER_ENT￨E <￨D [￨S yamaha￨R motor￨R company,￨R ford￨R motor￨R company]￨R [ENT__QUE_X_ENT￨R >￨D ford￨R sho￨R v6￨R engine￨R [ENT_PREDECESSOR_ENT￨R ]￨S >￨D engine￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_SENI_PRAMOJ_ENT￨E >￨D thailand￨R [ENT_NATIONALITY_ENT￨R <￨D thailand￨R [ENT_NEWIN_CHIDCHOB_ENT￨R ]]￨R
+ENT_HOMESTADIUM_ENT￨E <￨D [￨S otkrytiye￨R arena,￨R moscow,￨R luzhniki￨R stadium]￨R [ENT__QUE_X_ENT￨R >￨D leonid￨R fedun￨R [ENT_CHAIRMAN_ENT￨R ]]￨R
+ENT_[EUROVISION_SONG_CONTEST_COMMA__EUROVISION_YOUNG_DANCERS_COMMA__EUROVISION_YOUNG_MUSICIANS]_ENT￨E >￨D te￨R deum￨R (￨R charpentier)￨R [ENT_OPENINGTHEME_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_BOARD_ENT￨E <￨D [￨S creative￨R commons,￨R guardian￨R media￨R group,￨R sunlight￨R foundation,￨R mit￨R center￨R for￨R collective￨R intelligence,￨R wikimedia￨R foundation]￨R [ENT_JIMMY_WALES_ENT￨R ]￨S
+ENT_DEBUTTEAM_ENT￨E <￨D philadelphia￨R phillies￨R [ENT__QUE_X_ENT￨R >￨D fleisher￨R yarn￨R [ENT_TEAM_ENT￨R ]￨S >￨D athlete￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_NEW_YORK_STATE_ROUTE_470_ENT￨E >￨D cohoes,￨R new￨R york￨R [ENT_ROUTEJUNCTION_ENT￨R ]￨S
+ENT_LOCATEDINAREA_ENT￨E <￨D state￨R of￨R mexico￨R [ENT__QUE_X_ENT￨R ].￨R ENT_[MOUNT_WHITNEY_COMMA__NEVADO_DE_TOLUCA]_ENT￨E >￨D ?x￨R [ENT_PARENTMOUNTAINPEAK_ENT￨R ]￨S >￨D mountain￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_HEADQUARTER_ENT￨E <￨D geneva￨R [ENT__QUE_X_ENT￨R ].￨R ENT_COMPANY_ENT￨E <￨D ?x￨R [ENT_[EUROVISION_SONG_CONTEST_COMMA__JUNIOR_EUROVISION_SONG_CONTEST_COMMA__EUROVISION_YOUNG_DANCERS_COMMA__JEUX_SANS_FRONTIÈRES_COMMA__EUROVISION_DANCE_CONTEST_COMMA__EUROVISION_YOUNG_MUSICIANS]_ENT￨R ]￨S
+ENT_PARENTCOMPANY_ENT￨E <￨D general￨R motors￨R [ENT__QUE_X_ENT￨R >￨D iran￨R [ENT_ASSEMBLY_ENT￨R ]￨S >￨D automobile￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_CHARLEMAGNE_ENT￨E >￨D antipope￨R paschal￨R iii￨R [ENT_CANONIZEDBY_ENT￨R ]￨S
+ENT_CAPITAL_ENT￨E <￨D moscow￨R [ENT_MOSCOW_GOVERNORATE_ENT￨R ]￨S
+ENT_LEZLEE_WESTINE_ENT￨E >￨D virginia￨R [ENT_RESIDENCE_ENT￨R <￨D virginia￨R [ENT_ARNOLD_W_DOT__BRASWELL_ENT￨R ]]￨R
+ENT_ISPARTOF_ENT￨E <￨D ?x￨R [ENT_RED_AHEAD_ENT￨R ].￨R ENT_HEADQUARTERS_ENT￨E <￨D [567,￨R chicago]￨R [ENT__QUE_X_ENT￨R >￨D public￨R transit￨R system￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_MOUNTAINRANGE_ENT￨E <￨D swiss￨R alps￨R [ENT_POINTE_D_APOS_AVENEYRE_ENT￨R ]￨S
+ENT_BATTLE_ENT￨E <￨D 183￨R [ENT__QUE_X_ENT￨R >￨D sfor￨R [ENT_BATTLES_ENT￨R ]]￨R
+ENT_ATAMURAT_DASH_KERKICHI_BRIDGE_ENT￨E >￨D [￨S ukraine,￨R altcom]￨R [ENT_BUILDER_ENT￨R ]￨S
+ENT_GOOGLE_WEB_TOOLKIT_ENT￨E >￨D google￨R [ENT_AUTHOR_ENT￨R <￨D google￨R [ENT_GOOGLE_CUSTOM_SEARCH_ENT￨R ]]￨R
+ENT_ERISTOFF_ENT￨E >￨D bacardi￨R [ENT_MANUFACTURER_ENT￨R ]￨S
+ENT_CITY_OF_MIAMI_CEMETERY_ENT￨E >￨D miami￨R [ENT_GOVERNINGBODY_ENT￨R ]￨S
+ENT_COMPANY_ENT￨E <￨D paramount￨R television￨R [ENT_[CHEERS_COMMA__THE_TORTELLIS_COMMA__ALL_IS_FORGIVEN]_ENT￨R >￨D glen￨R and￨R les￨R charles￨R [ENT_EXECUTIVEPRODUCER_ENT￨R ]￨S >￨D television￨R show￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_DANNY_FELICE_ENT￨E >￨D [￨S london,￨R united￨R kingdom]￨R [ENT_HOMETOWN_ENT￨R ]￨S
+ENT_JON_SPEELMAN_ENT￨E >￨D chess￨R [ENT_FIELD_ENT￨R ].￨R ENT_OCCUPATION_ENT￨E <￨D chess￨R [ENT_KAREN_GRIGORIAN_ENT￨R ]￨S
+ENT_#TYPE_ENT￨E <￨D airport￨R [ENT__QUE_X_ENT￨R >￨D paphos￨R district￨R [ENT_CITY_ENT￨R ]￨S >￨D cyprus￨R [ENT_OWNER_ENT￨R ]]￨R
+ENT_JOSHUA_ENT￨E >￨D tomb￨R of￨R joshua￨R [ENT_MAJORSHRINE_ENT￨R ]￨S >￨D islam￨R [ENT_VENERATEDIN_ENT￨R ]￨S >￨D saint￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_REGION_ENT￨E <￨D [￨S colorado,￨R colorado's￨R 4th￨R congressional￨R district]￨R [ENT_WAYNE_ALLARD_ENT￨R ]￨S
+ENT_MAC_OS_9_ENT￨E >￨D apple￨R inc.￨R [ENT_DEVELOPER_ENT￨R ].￨R ENT_TINY_TOWER_ENT￨E >￨D apple￨R inc.￨R [ENT_DISTRIBUTOR_ENT￨R ]￨S
+ENT_RESTINGPLACE_ENT￨E <￨D monticello￨R [ENT_[THOMAS_JEFFERSON_COMMA__THOMAS_JEFFERSON_RANDOLPH]_ENT￨R >￨D office￨R holder￨R [ENT_#TYPE_ENT￨R ]]￨R
+ENT_CHIVA_BUS_ENT￨E >￨D [￨S dodge,￨R blue￨R bird￨R corporation,￨R ford￨R motor￨R company]￨R [ENT_AUTOMOBILEPLATFORM_ENT￨R ]￨S
+ENT_2002_PLAYERS_CHAMPIONSHIP_ENT￨E >￨D ?x￨R [ENT_CHAMPION_ENT￨R ].￨R ENT__QUE_X_ENT￨E >￨D new￨R zealand￨R [ENT_NATIONALITY_ENT￨R ]￨S >￨D golf￨R player￨R [ENT_#TYPE_ENT￨R ]￨S
+ENT_KAPTAAN_ENT￨E >￨D dubai￨R [ENT_RECORDED_ENT￨R ].￨R ENT_HEADQUARTERS_ENT￨E <￨D dubai￨R [ENT_ORIENT_NEWS_ENT￨R ]￨S
+ENT_GOVERNOR_ENT￨E <￨D bill￨R clinton￨R [ENT_WINSTON_BRYANT_ENT￨R ].￨R ENT_JOSEPH_STIGLITZ_ENT￨E >￨D bill￨R clinton￨R [ENT_PRESIDENT_ENT￨R ]￨S
+ENT_BUTCH_METZGER_ENT￨E >￨D san￨R francisco￨R giants￨R [ENT_DEBUTTEAM_ENT￨R ]￨S
+ENT_REGIONSERVED_ENT￨E <￨D pacific￨R ocean￨R [ENT_TOLL_GLOBAL_EXPRESS_ENT￨R ].￨R ENT_SIBERIA_ENT￨E >￨D pacific￨R ocean￨R [ENT_BORDER_ENT￨R ]￨S
+ENT_HARD_CANDY_FITNESS_ENT￨E >￨D moscow￨R [ENT_DIVISIONS_ENT￨R ]￨S
+ENT_MALIK_AL_DASH_HASSAN_YAKUBU_ENT￨E >￨D ghana￨R [ENT_CONSTITUENCY_ENT￨R ].￨R ENT_COUNTRY_ENT￨E <￨D ghana￨R [ENT_CITITRENDS__LP_RADIO_SHOW_RP__ENT￨R ]￨S
+ENT_AWARD_ENT￨E <￨D playboy￨R [ENT_FRANK_THORNE_ENT￨R ].￨R ENT_KNOWNFOR_ENT￨E <￨D playboy￨R [ENT_BREANN_MCGREGOR_ENT￨R ]￨S
+ENT_KARAKURI_DÔJI_ULTIMO_ENT￨E >￨D [￨S hiroyuki￨R takei,￨R stan￨R lee]￨R [ENT_AUTHOR_ENT￨R ]￨S
+ENT_JOHN_A_DOT__DANAHER_III_ENT￨E >￨D [47,￨R connecticut,￨R commissioner,￨R department￨R of￨R public￨R safety]￨R [ENT_OFFICE_ENT￨R ]￨S
+ENT_MERRITT_CABAL_ENT￨E >￨D playboy￨R [ENT_KNOWNFOR_ENT￨R ].￨R ENT_LUCIFER_APOS_S_HAMMER_ENT￨E >￨D playboy￨R [ENT_PUBLISHER_ENT￨R ]￨S
+ENT_AWARD_ENT￨E <￨D national￨R academy￨R museum￨R and￨R school￨R [ENT__QUE_X_ENT￨R >￨D [￨S pennsylvania,￨R honesdale,￨R pennsylvania,￨R brooklyn]￨R [ENT_RESTINGPLACE_ENT￨R ]]￨R
+ENT_JOSHUA_A_DOT__SIEGEL_ENT￨E >￨D [￨S chicago,￨R northwestern￨R university,￨R university￨R at￨R buffalo]￨R [ENT_EDUCATION_ENT￨R ]￨S
+ENT_CURRENCY_ENT￨E <￨D euro￨R [ENT_BENELUX_ENT￨R ]￨S
+ENT_WORKINSTITUTIONS_ENT￨E <￨D university￨R of￨R miami￨R [￨S ENT__QUE_X_ENT￨E >￨D [￨S tulane￨R university,￨R baylor￨R college￨R of￨R medicine,￨R university￨R of￨R miami]￨R [￨S ENT_WORKINSTITUTIONS_ENT￨E ]￨S >￨D medician￨R [￨S ENT_#TYPE_ENT￨E ]￨S ]￨S
